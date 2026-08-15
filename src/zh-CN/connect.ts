@@ -2,6 +2,11 @@
 export default {
   hostBadge: '房主',
   kick: '踢出',
+  kickReviewTitle: '玩家申请重新加入',
+  kickReviewBody: '玩家 "{name}" 想重新加入房间，是否允许？',
+  kickReviewAllow: '允许',
+  kickReviewReject: '拒绝',
+  kickReviewRejectSilent: '拒绝且不再提示',
   noPlayers: '暂无玩家',
   playerList: '玩家列表 ({count})',
   hostMods: '房主 Mods',

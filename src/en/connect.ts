@@ -2,6 +2,11 @@
 export default {
   hostBadge: 'Host',
   kick: 'Kick',
+  kickReviewTitle: 'Player requests to rejoin',
+  kickReviewBody: 'Player "{name}" wants to rejoin the room. Allow?',
+  kickReviewAllow: 'Allow',
+  kickReviewReject: 'Reject',
+  kickReviewRejectSilent: 'Reject & stop asking',
   noPlayers: 'No players',
   playerList: 'Players ({count})',
   hostMods: 'Host mods',
