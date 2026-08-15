@@ -33,6 +33,13 @@ export default {
     retentionHint: 'Keeps the latest 10 logs automatically; the oldest files are cleaned up beyond that',
     currentSessionSuffix: '{count} current session(s)',
     fileCountSuffix: '{count} file(s)',
+    truncated: 'Truncated (tail 2MB only)',
+    searchPlaceholder: 'Search logs...',
+    levelAll: 'All levels',
+    levelError: 'Errors',
+    levelWarn: 'Warnings',
+    levelInfo: 'Info',
+    noMatch: 'No matching log lines',
     debugLogsCount: 'Debug logs ({count})',
   },
   debug: {

@@ -33,6 +33,13 @@ export default {
     retentionHint: '自动保留最近 10 条日志，超出自动清理最旧文件',
     currentSessionSuffix: '{count} 条当前会话',
     fileCountSuffix: '{count} 个文件',
+    truncated: '已截断（仅尾部 2MB）',
+    searchPlaceholder: '搜索日志...',
+    levelAll: '全部级别',
+    levelError: '错误',
+    levelWarn: '警告',
+    levelInfo: '信息',
+    noMatch: '无匹配日志行',
     debugLogsCount: '调试日志 ({count})',
   },
   debug: {
