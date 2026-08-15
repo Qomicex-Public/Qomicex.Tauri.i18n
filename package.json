@@ -1,0 +1,22 @@
+{
+  "name": "@qomicex/tauri-i18n",
+  "version": "0.1.0",
+  "description": "Qomicex Launcher (Tauri) 多语言资源仓库 / Localization resources for Qomicex Minecraft Launcher",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "exports": {
+    ".": "./src/index.ts",
+    "./types": "./src/types.ts"
+  },
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "~5.8.3"
+  }
+}
