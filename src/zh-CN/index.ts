@@ -16,6 +16,7 @@ import connect from './connect'
 import plugins from './plugins'
 import dialogs from './dialogs'
 import tools from './tools'
+import wizard from './wizard'
 
 export default {
   common,
@@ -35,4 +36,5 @@ export default {
   plugins,
   dialogs,
   tools,
+  wizard,
 }

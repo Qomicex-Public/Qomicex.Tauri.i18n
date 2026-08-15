@@ -16,6 +16,7 @@ import connect from './connect'
 import plugins from './plugins'
 import dialogs from './dialogs'
 import tools from './tools'
+import wizard from './wizard'
 import type { TranslationSchema } from '../types'
 
 export default {
@@ -36,4 +37,5 @@ export default {
   plugins,
   dialogs,
   tools,
+  wizard,
 } satisfies TranslationSchema
