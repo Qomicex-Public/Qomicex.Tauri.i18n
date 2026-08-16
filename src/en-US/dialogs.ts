@@ -270,6 +270,7 @@ export default {
     rename: 'Rename',
     quickJoin: 'Quick Join',
     lastPlayed: 'Last played: {date}',
+    settings: 'Settings',
   },
   // Copyright notice dialog
   legal: {

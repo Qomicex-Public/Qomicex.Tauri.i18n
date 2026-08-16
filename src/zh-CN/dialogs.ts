@@ -270,6 +270,7 @@ export default {
     rename: '重命名',
     quickJoin: '快速进入',
     lastPlayed: '上次游玩: {date}',
+    settings: '设置',
   },
   // 版权声明弹窗
   legal: {
