@@ -1,4 +1,4 @@
-// zh-TW 资源总表（台湾繁体，结构必须与 zh-CN 完全一致，satisfies 编译期校验）
+// ja-JP リソース一覧（構造は zh-CN と完全に一致させること、satisfies によるコンパイル時検証）
 import common from './common'
 import layout from './layout'
 import errors from './errors'
