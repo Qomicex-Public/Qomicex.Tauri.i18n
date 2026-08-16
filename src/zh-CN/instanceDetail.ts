@@ -61,7 +61,7 @@ export default {
     difficultyNormal: '普通',
     difficultyHard: '困难',
     allowCommands: '允许作弊',
-    hardcore: '硬核模式',
+    hardcore: '极限模式',
     difficultyLocked: '锁定难度',
     time: '世界时间（Time）',
     dayTime: '昼夜时间（DayTime）',
