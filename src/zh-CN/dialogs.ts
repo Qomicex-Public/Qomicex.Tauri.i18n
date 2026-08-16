@@ -129,6 +129,19 @@ export default {
     cancelled: '已取消',
     installFailed: '安装失败',
   },
+  // 导出整合包
+  modpackExport: {
+    title: '导出整合包',
+    format: '导出格式',
+    include: '包含内容',
+    includeSaves: '包含存档',
+    includeScreenshots: '包含截图',
+    fileName: '导出文件名',
+    startExport: '开始导出',
+    exporting: '正在打包...（大包可能需要较长时间）',
+    exported: '✓ 导出完成',
+    exportFailed: '导出失败',
+  },
   // 版本更新
   update: {
     foundNew: '发现新版本 {version}',

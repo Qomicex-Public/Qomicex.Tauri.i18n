@@ -165,6 +165,7 @@ export default {
     verifyIntegrity: '检查资源完整性',
     repairing: '正在补全 {progress}%',
     openGameDir: '打开游戏目录',
+    exportModpack: '导出整合包',
     deleteInstance: '删除实例',
     refresh: '刷新',
   },
