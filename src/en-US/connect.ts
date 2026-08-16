@@ -7,6 +7,8 @@ export default {
   kickReviewAllow: 'Allow',
   kickReviewReject: 'Reject',
   kickReviewRejectSilent: 'Reject & stop asking',
+  kickedPlayersTitle: 'Kicked players ({count})',
+  unban: 'Unban',
   noPlayers: 'No players',
   playerList: 'Players ({count})',
   hostMods: 'Host mods',

@@ -7,6 +7,8 @@ export default {
   kickReviewAllow: '允许',
   kickReviewReject: '拒绝',
   kickReviewRejectSilent: '拒绝且不再提示',
+  kickedPlayersTitle: '已踢玩家 ({count})',
+  unban: '解除封禁',
   noPlayers: '暂无玩家',
   playerList: '玩家列表 ({count})',
   hostMods: '房主 Mods',
