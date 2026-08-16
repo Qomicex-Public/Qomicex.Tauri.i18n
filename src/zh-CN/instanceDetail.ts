@@ -205,6 +205,9 @@ export default {
     noMatch: '无匹配设置项',
     empty: '暂无游戏设置',
     pressKey: '按下按键...',
+    add: '添加',
+    addPlaceholder: '输入名称…',
+    remove: '移除',
     keys: {
       unbound: '未绑定',
       space: '空格',

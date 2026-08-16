@@ -205,6 +205,9 @@ export default {
     noMatch: 'No matching settings',
     empty: 'No game settings',
     pressKey: 'Press a key...',
+    add: 'Add',
+    addPlaceholder: 'Enter name…',
+    remove: 'Remove',
     keys: {
       unbound: 'Unbound',
       space: 'Space',
