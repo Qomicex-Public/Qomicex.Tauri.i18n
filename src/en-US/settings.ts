@@ -76,6 +76,8 @@ export default {
     versionIsolationDesc: 'Each version uses separate mods/config/saves directories; keeping this on is recommended',
     closeAfterLaunch: 'Close launcher after launching the game',
     closeAfterLaunchDesc: 'Automatically closes the launcher after the game starts',
+    autoReportErrors: 'Auto-report severe error logs',
+    autoReportErrorsDesc: 'Automatically uploads error logs and device info (system/hardware) when the launcher hits a severe error like a crash, to help troubleshooting; ordinary launch failures and download/install errors are not reported',
     downloadSource: 'Download source',
     downloadSourceName: { 0: 'Official', 1: 'BMCLAPI mirror' },
     modSource: 'Resource download source',

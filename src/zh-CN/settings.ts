@@ -76,6 +76,8 @@ export default {
     versionIsolationDesc: '每个版本使用独立的 mods/config/saves 目录，推荐保持开启',
     closeAfterLaunch: '启动游戏后关闭启动器',
     closeAfterLaunchDesc: '游戏启动后自动关闭本启动器',
+    autoReportErrors: '自动上报严重错误日志',
+    autoReportErrorsDesc: '启动器出现崩溃等严重错误时，自动上传错误日志与设备信息（系统/硬件）帮助定位问题；普通启动失败、下载安装错误不会上报',
     downloadSource: '下载源',
     downloadSourceName: { 0: '官方源', 1: 'BMCLAPI 镜像' },
     modSource: '资源下载源',
