@@ -1,7 +1,7 @@
-// i18n 类型定义：zh-CN 为基准 schema，en 必须结构一致（satisfies 编译期校验）
+// i18n 类型定义：zh-CN 为基准 schema，其余语言必须结构一致（satisfies 编译期校验）
 import type zhCN from './zh-CN/index'
 
-export type Lang = 'zh-CN' | 'en'
+export type Lang = 'zh-CN' | 'zh-TW' | 'en-US' | 'en-GB'
 
 /** 把叶子值放宽为 string（翻译值本身因语言而异，只校验 key 结构） */
 type DeepStringify<T> = T extends object ? { [K in keyof T]: DeepStringify<T[K]> } : string

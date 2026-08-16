@@ -1,4 +1,4 @@
-// en 资源总表（结构必须与 zh-CN 完全一致，satisfies 编译期校验）
+// en-GB 资源总表（结构必须与 zh-CN 完全一致，satisfies 编译期校验）
 import common from './common'
 import layout from './layout'
 import errors from './errors'

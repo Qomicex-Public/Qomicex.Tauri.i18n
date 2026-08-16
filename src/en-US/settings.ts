@@ -14,6 +14,7 @@ export default {
   appearance: {
     title: 'Interface',
     language: 'Language',
+    followSystem: 'Follow system',
     theme: 'Theme',
     dark: 'Dark',
     light: 'Light',

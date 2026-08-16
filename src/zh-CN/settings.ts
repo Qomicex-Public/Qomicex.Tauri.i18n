@@ -14,6 +14,7 @@ export default {
   appearance: {
     title: '界面',
     language: '界面语言',
+    followSystem: '跟随系统',
     theme: '主题',
     dark: '深色',
     light: '亮色',
