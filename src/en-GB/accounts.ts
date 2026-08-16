@@ -66,6 +66,12 @@ export default {
     chooseRole: 'Choose a role to sign in:',
     back: 'Back',
     confirmCount: 'Confirm ({count})',
+    dndHint: 'Or drag an auth server here from a web page',
+    dndTitle: 'Add auth server',
+    dndConfirm: 'Add this auth server?\n{url}',
+    resolvedTo: 'API root: {url}',
+    resolveFailed: 'Cannot reach this address; will try as-is',
+    httpWarning: 'Warning: this auth server uses plain HTTP; your password will be sent unencrypted',
   },
   unified: {
     desc: 'Unified Pass is an authentication system used by some Minecraft servers; a server ID is required.',

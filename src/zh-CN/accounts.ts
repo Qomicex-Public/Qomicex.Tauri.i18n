@@ -66,6 +66,12 @@ export default {
     chooseRole: '选择要登录的角色：',
     back: '返回',
     confirmCount: '确认 ({count})',
+    dndHint: '或将验证服务器从网页拖拽到此处',
+    dndTitle: '添加验证服务器',
+    dndConfirm: '是否添加此验证服务器？\n{url}',
+    resolvedTo: 'API 地址：{url}',
+    resolveFailed: '无法连接该地址，将按原地址尝试',
+    httpWarning: '警告：该验证服务器使用明文 HTTP 协议，密码将以明文传输，存在泄露风险',
   },
   unified: {
     desc: '统一通行证是部分 Minecraft 服务器使用的认证系统，需要输入服务器 ID。',
