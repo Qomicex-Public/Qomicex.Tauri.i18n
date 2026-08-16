@@ -129,6 +129,19 @@ export default {
     cancelled: 'Cancelled',
     installFailed: 'Install failed',
   },
+  // Export modpack
+  modpackExport: {
+    title: 'Export Modpack',
+    format: 'Export Format',
+    include: 'Include',
+    includeSaves: 'Include saves',
+    includeScreenshots: 'Include screenshots',
+    fileName: 'Export File Name',
+    startExport: 'Start Export',
+    exporting: 'Packaging... (large packs may take a while)',
+    exported: '✓ Export complete',
+    exportFailed: 'Export failed',
+  },
   // App update
   update: {
     foundNew: 'New version {version} available',

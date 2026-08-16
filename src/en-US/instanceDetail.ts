@@ -165,6 +165,7 @@ export default {
     verifyIntegrity: 'Verify file integrity',
     repairing: 'Repairing {progress}%',
     openGameDir: 'Open game directory',
+    exportModpack: 'Export Modpack',
     deleteInstance: 'Delete instance',
     refresh: 'Refresh',
   },
