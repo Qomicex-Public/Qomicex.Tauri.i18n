@@ -6,6 +6,7 @@ export default {
     gamesettings: 'Game Settings',
     saves: 'Saves',
     screenshots: 'Screenshots',
+    mods: 'Mods',
     resourcepacks: 'Resource Packs',
     shaderpacks: 'Shader Packs',
     datapacks: 'Data Packs',

@@ -6,6 +6,7 @@ export default {
     gamesettings: '游戏设置',
     saves: '存档',
     screenshots: '截图',
+    mods: 'Mod',
     resourcepacks: '资源包',
     shaderpacks: '光影包',
     datapacks: '数据包',

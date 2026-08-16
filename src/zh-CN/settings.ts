@@ -239,6 +239,7 @@ export default {
     serviceBmclapi: '提供BMCLAPI下载镜像服务',
     serviceMcmod: '中文 Mod 数据库',
     serviceMinecraft: 'Minecraft 官方网站,支持正版!',
+    serviceMinecraftName: 'Minecraft 官网',
     refVersionCheck: '版本检测参考',
     refModloaderInstaller: 'ModLoader 安装器参考',
     refLaunchFlow: '启动流程参考',

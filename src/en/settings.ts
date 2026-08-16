@@ -239,6 +239,7 @@ export default {
     serviceBmclapi: 'Provides BMCLAPI download mirror service',
     serviceMcmod: 'Chinese mod database',
     serviceMinecraft: 'Minecraft official website, support the game!',
+    serviceMinecraftName: 'Minecraft Official Website',
     refVersionCheck: 'Version detection reference',
     refModloaderInstaller: 'ModLoader installer reference',
     refLaunchFlow: 'Launch flow reference',
