@@ -18,4 +18,10 @@ export default {
   mcApiError: 'Minecraft 官方 API 请求失败',
   fsAuthRequired: '文件系统访问未授权',
   pluginMissingDependency: '插件缺少必要的前置依赖',
+  connectorTimeout: '联机操作超时，请检查网络后重试',
+  exportDiagnosticsFailed: '导出诊断报告失败',
+  modpackParseFailed: '整合包解析失败',
+  skinUploadFailed: '皮肤上传失败',
+  skinSaveFailed: '皮肤保存失败',
+  skinResetFailed: '皮肤重置失败',
 } as const

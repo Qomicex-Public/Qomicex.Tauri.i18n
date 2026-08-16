@@ -250,5 +250,6 @@ export default {
     depStylesTools: 'Styles & tools',
     depAnimation: 'Animation',
     depRendering: 'Rendering & display',
+    depInHouse: 'In-house',
   },
 } as const

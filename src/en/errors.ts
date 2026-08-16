@@ -18,4 +18,10 @@ export default {
   mcApiError: 'Minecraft official API request failed',
   fsAuthRequired: 'Filesystem access not authorized',
   pluginMissingDependency: 'Plugin is missing required dependencies',
+  connectorTimeout: 'Connection operation timed out, please check your network and retry',
+  exportDiagnosticsFailed: 'Failed to export diagnostics report',
+  modpackParseFailed: 'Failed to parse modpack',
+  skinUploadFailed: 'Failed to upload skin',
+  skinSaveFailed: 'Failed to save skin',
+  skinResetFailed: 'Failed to reset skin',
 } as const

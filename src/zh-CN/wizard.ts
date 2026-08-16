@@ -74,4 +74,5 @@ export default {
   finish: '开始使用',
   saving: '保存中...',
   saveFailed: '保存失败，请重试',
+  default: '默认',
 } as const

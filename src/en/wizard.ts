@@ -74,4 +74,5 @@ export default {
   finish: 'Get started',
   saving: 'Saving...',
   saveFailed: 'Save failed, please retry',
+  default: 'Default',
 } as const

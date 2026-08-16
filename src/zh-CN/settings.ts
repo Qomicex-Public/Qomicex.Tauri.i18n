@@ -250,5 +250,6 @@ export default {
     depStylesTools: '样式与工具',
     depAnimation: '动画',
     depRendering: '渲染与展示',
+    depInHouse: '自研',
   },
 } as const
