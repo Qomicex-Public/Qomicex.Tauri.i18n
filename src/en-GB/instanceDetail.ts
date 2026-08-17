@@ -181,6 +181,8 @@ export default {
     copy: 'Copy material list',
     minY: 'Min layer',
     maxY: 'Max layer',
+    mouseSensitivity: 'Mouse sensitivity',
+    moveSpeed: 'Move speed',
     controlsHint: 'Left drag: pan · Middle drag: rotate · Wheel: zoom · WASD: move',
   },
   mods: {

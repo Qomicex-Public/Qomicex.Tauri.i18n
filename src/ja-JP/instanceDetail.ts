@@ -181,6 +181,8 @@ export default {
     copy: '素材リストをコピー',
     minY: '最下層',
     maxY: '最上層',
+    mouseSensitivity: 'マウス感度',
+    moveSpeed: '移動速度',
     controlsHint: '左ドラッグ: パン · 中ドラッグ: 回転 · ホイール: ズーム · WASD: 移動',
   },
   mods: {

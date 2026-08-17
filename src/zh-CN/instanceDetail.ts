@@ -181,6 +181,8 @@ export default {
     copy: '复制材料列表',
     minY: '最低层',
     maxY: '最高层',
+    mouseSensitivity: '鼠标灵敏度',
+    moveSpeed: '移动速度',
     controlsHint: '左键拖拽平移 · 中键旋转 · 滚轮缩放 · WASD 移动',
   },
   mods: {
