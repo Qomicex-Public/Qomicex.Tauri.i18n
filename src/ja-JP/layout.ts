@@ -7,6 +7,7 @@ export default {
     accounts: 'アカウント',
     resourceCenter: 'リソースセンター',
     connect: 'マルチプレイ',
+    logAnalysis: 'ログ分析',
     running: '実行中',
     settings: '設定',
   },

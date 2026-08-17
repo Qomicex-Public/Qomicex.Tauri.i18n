@@ -182,6 +182,11 @@ export default {
     installing: 'Установка…',
     downloadingAction: 'Загрузка…',
     updateNow: 'Обновить сейчас',
+    retry: 'Повторить',
+    cancelDownload: 'Отменить загрузку',
+    released: 'Выпущено: {date}',
+    viewRelease: 'Просмотр релиза',
+    requiredNotice: 'Это обязательное обновление. Для продолжения работы необходимо обновиться',
   },
   // Активация лицензии
   license: {

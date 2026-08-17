@@ -7,6 +7,7 @@ export default {
     accounts: '帳號',
     resourceCenter: '資源中心',
     connect: '聯機',
+    logAnalysis: '日誌分析',
     running: '執行中',
     settings: '設定',
   },

@@ -7,6 +7,7 @@ export default {
     accounts: '账户',
     resourceCenter: '资源中心',
     connect: '联机',
+    logAnalysis: '日志分析',
     running: '运行中',
     settings: '设置',
   },

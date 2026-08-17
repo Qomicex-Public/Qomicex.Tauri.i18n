@@ -7,6 +7,7 @@ export default {
     accounts: 'Accounts',
     resourceCenter: 'Resource Center',
     connect: 'Multiplayer',
+    logAnalysis: 'Log Analysis',
     running: 'Running',
     settings: 'Settings',
   },

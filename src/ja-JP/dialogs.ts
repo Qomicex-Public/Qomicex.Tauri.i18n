@@ -182,6 +182,11 @@ export default {
     installing: 'インストール中...',
     downloadingAction: 'ダウンロード中...',
     updateNow: '今すぐ更新',
+    retry: '再試行',
+    cancelDownload: 'ダウンロードをキャンセル',
+    released: '公開日: {date}',
+    viewRelease: 'リリースページを見る',
+    requiredNotice: 'このバージョンは必須アップデートです。更新しないと利用を続けられません',
   },
   // ライセンス有効化
   license: {

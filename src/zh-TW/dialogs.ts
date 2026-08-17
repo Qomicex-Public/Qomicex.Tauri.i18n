@@ -182,6 +182,11 @@ export default {
     installing: '安裝中...',
     downloadingAction: '下載中...',
     updateNow: '立即更新',
+    retry: '重試',
+    cancelDownload: '取消下載',
+    released: '發佈於 {date}',
+    viewRelease: '查看發佈頁',
+    requiredNotice: '此版本為強制更新，必須更新後才能繼續使用',
   },
   // 授權啟動
   license: {

@@ -7,6 +7,7 @@ export default {
     accounts: 'Аккаунты',
     resourceCenter: 'Ресурсный центр',
     connect: 'Сетевая игра',
+    logAnalysis: 'Анализ логов',
     running: 'Запущенные',
     settings: 'Настройки',
   },
