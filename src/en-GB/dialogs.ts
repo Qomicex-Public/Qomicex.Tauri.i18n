@@ -182,6 +182,11 @@ export default {
     installing: 'Installing...',
     downloadingAction: 'Downloading...',
     updateNow: 'Update Now',
+    retry: 'Retry',
+    cancelDownload: 'Cancel download',
+    released: 'Released on {date}',
+    viewRelease: 'View release',
+    requiredNotice: 'This is a required update. Please update to continue.',
   },
   // License activation
   license: {

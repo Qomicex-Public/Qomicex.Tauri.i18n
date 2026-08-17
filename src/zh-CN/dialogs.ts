@@ -182,6 +182,11 @@ export default {
     installing: '安装中...',
     downloadingAction: '下载中...',
     updateNow: '立即更新',
+    retry: '重试',
+    cancelDownload: '取消下载',
+    released: '发布于 {date}',
+    viewRelease: '查看发布页',
+    requiredNotice: '此版本为强制更新，必须更新后才能继续使用',
   },
   // 许可证激活
   license: {
