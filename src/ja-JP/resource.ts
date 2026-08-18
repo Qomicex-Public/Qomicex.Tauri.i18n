@@ -1,5 +1,8 @@
 // リソースセンター（ja-JP）
 export default {
+  sources: {
+    all: 'すべて',
+  },
   categories: {
     mod: 'Mod',
     modpack: 'Modパック',

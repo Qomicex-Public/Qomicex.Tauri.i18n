@@ -1,5 +1,8 @@
 // Resource center (en)
 export default {
+  sources: {
+    all: 'All',
+  },
   categories: {
     mod: 'Mods',
     modpack: 'Modpacks',

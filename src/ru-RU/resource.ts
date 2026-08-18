@@ -1,5 +1,8 @@
 // Ресурсный центр (ru-RU)
 export default {
+  sources: {
+    all: 'Все',
+  },
   categories: {
     mod: 'Моды',
     modpack: 'Модпаки',

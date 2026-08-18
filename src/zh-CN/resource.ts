@@ -1,5 +1,8 @@
 // 资源中心（zh-CN）
 export default {
+  sources: {
+    all: '全部',
+  },
   categories: {
     mod: '模组',
     modpack: '整合包',

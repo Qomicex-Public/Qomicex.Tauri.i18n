@@ -1,5 +1,8 @@
 // 資源中心（zh-HK）
 export default {
+  sources: {
+    all: '全部',
+  },
   categories: {
     mod: '模組',
     modpack: '整合包',
