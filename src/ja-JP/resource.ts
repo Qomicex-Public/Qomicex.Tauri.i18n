@@ -8,6 +8,9 @@ export default {
     datapack: 'データパック',
     save: 'ワールド',
   },
+  sources: {
+    all: 'すべて',
+  },
   sort: {
     relevance: '関連度',
     downloads: 'ダウンロード数',
