@@ -11,6 +11,9 @@ export default {
     datapack: 'Data Packs',
     save: 'Saves',
   },
+  sources: {
+    all: 'All',
+  },
   sort: {
     relevance: 'Relevance',
     downloads: 'Downloads',

@@ -11,6 +11,9 @@ export default {
     datapack: '資料包',
     save: '存檔',
   },
+  sources: {
+    all: '全部',
+  },
   sort: {
     relevance: '相關度',
     downloads: '下載量',
