@@ -81,6 +81,7 @@ export default {
   launchFailedDetail: 'Launch failed: {error}\n{detail}',
   refresh: 'Refresh',
   dirManagerTitle: 'Directory Manager',
+  currentDir: 'Current Directory',
   noDir: 'No directories',
   noDirHint: 'Click the button below to add a game directory',
   dirCount: '{count} directories, check to mark the active one',

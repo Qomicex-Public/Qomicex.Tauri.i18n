@@ -81,6 +81,7 @@ export default {
   launchFailedDetail: '啟動失敗: {error}\n{detail}',
   refresh: '重新整理',
   dirManagerTitle: '目錄管理',
+  currentDir: '目前目錄',
   noDir: '暫無目錄',
   noDirHint: '點擊下方按鈕新增一個遊戲目錄',
   dirCount: '共 {count} 個目錄，勾選標記目前使用的目錄',

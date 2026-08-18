@@ -81,6 +81,7 @@ export default {
   launchFailedDetail: '启动失败: {error}\n{detail}',
   refresh: '刷新',
   dirManagerTitle: '目录管理',
+  currentDir: '当前目录',
   noDir: '暂无目录',
   noDirHint: '点击下方按钮添加一个游戏目录',
   dirCount: '共 {count} 个目录，勾选标记当前使用的目录',

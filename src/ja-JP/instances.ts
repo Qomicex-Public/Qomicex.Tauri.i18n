@@ -81,6 +81,7 @@ export default {
   launchFailedDetail: '起動に失敗しました: {error}\n{detail}',
   refresh: '更新',
   dirManagerTitle: 'ディレクトリ管理',
+  currentDir: '現在のディレクトリ',
   noDir: 'ディレクトリがありません',
   noDirHint: '下のボタンからゲームディレクトリを追加します',
   dirCount: '計 {count} 個のディレクトリ。チェックで現在使用中のディレクトリをマーク',

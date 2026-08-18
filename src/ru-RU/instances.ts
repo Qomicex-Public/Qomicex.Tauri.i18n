@@ -81,6 +81,7 @@ export default {
   launchFailedDetail: 'Ошибка запуска: {error}\n{detail}',
   refresh: 'Обновить',
   dirManagerTitle: 'Управление каталогами',
+  currentDir: 'Текущий каталог',
   noDir: 'Каталогов нет',
   noDirHint: 'Нажмите кнопку ниже, чтобы добавить игровой каталог',
   dirCount: 'Всего каталогов: {count}; отметьте каталог, используемый в данный момент',
