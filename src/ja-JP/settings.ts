@@ -1,7 +1,10 @@
 // 設定ページ（ja-JP；バッチ0 に category ナビ + appearance 外観の中核項目、その他は移行バッチで補充）
 export default {
   category: {
-    launcher: 'ランチャー',
+    basic: '基本設定',
+    launch: '起動設定',
+    download: 'ダウンロード',
+    storage: 'ストレージとキャッシュ',
     java: 'Java ランタイム',
     plugins: 'プラグイン',
     appearance: '外観',
