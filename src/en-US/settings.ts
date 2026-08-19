@@ -96,7 +96,7 @@ export default {
     downloadTimeout: 'Download timeout (seconds)',
     downloadTimeoutDesc: 'A file with no response for longer than this is retried automatically (0=no timeout, 1-120 seconds)',
     enableHttp3: 'Enable HTTP/3 file downloads (experimental)',
-    enableHttp3Desc: 'When enabled, downloads use HTTP/3 only; if the server does not support it the download fails (no fallback to HTTP/2)',
+    enableHttp3Desc: 'When enabled, downloads prefer HTTP/3 and automatically fall back to HTTP/2 if the server does not support it; when disabled, downloads use HTTP/2 only',
     logLevelLabel: 'Log level',
     logLevel: { error: 'Error', warn: 'Warning', info: 'Info', debug: 'Debug', trace: 'Trace' },
     logLevelDesc: 'Controls verbosity of console and log file output; info is the default',
