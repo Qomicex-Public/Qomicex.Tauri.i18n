@@ -95,6 +95,8 @@ export default {
     bingApiKeyDesc: 'Azure Portal で Translator リソースを作成して Key を取得してください。リージョンは global に設定する必要があります',
     downloadTimeout: 'ダウンロードタイムアウト (秒)',
     downloadTimeoutDesc: '単一ファイルのダウンロードがこの時間応答しない場合は自動的に再試行します（0=タイムアウトなし、1-120 秒）',
+    enableHttp3: 'HTTP/3 ファイルダウンロードを有効化（実験的）',
+    enableHttp3Desc: '有効にするとダウンロードは HTTP/3 のみを使用し、サーバーが対応していない場合は失敗します（HTTP/2 へはフォールバックしません）',
     logLevelLabel: 'ログレベル',
     logLevel: { error: 'エラー', warn: '警告', info: '情報', debug: 'デバッグ', trace: 'トレース' },
     logLevelDesc: 'コンソールとログファイルの出力詳細度を制御します。情報レベルが既定です',

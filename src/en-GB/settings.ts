@@ -95,6 +95,8 @@ export default {
     bingApiKeyDesc: 'Create a Translator resource in Azure Portal to get a Key; the region must be set to global',
     downloadTimeout: 'Download timeout (seconds)',
     downloadTimeoutDesc: 'A file with no response for longer than this is retried automatically (0=no timeout, 1-120 seconds)',
+    enableHttp3: 'Enable HTTP/3 file downloads (experimental)',
+    enableHttp3Desc: 'When enabled, downloads use HTTP/3 only; if the server does not support it the download fails (no fallback to HTTP/2)',
     logLevelLabel: 'Log level',
     logLevel: { error: 'Error', warn: 'Warning', info: 'Info', debug: 'Debug', trace: 'Trace' },
     logLevelDesc: 'Controls verbosity of console and log file output; info is the default',

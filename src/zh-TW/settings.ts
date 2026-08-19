@@ -95,6 +95,8 @@ export default {
     bingApiKeyDesc: '在 Azure Portal 建立 Translator 資源取得 Key，區域需設為 global',
     downloadTimeout: '下載逾時 (秒)',
     downloadTimeoutDesc: '單個檔案下載無回應超過此時間則自動重試（0=不逾時，1-120 秒）',
+    enableHttp3: '啟用 HTTP/3 檔案下載（實驗性）',
+    enableHttp3Desc: '開啟後下載強制走 HTTP/3，伺服器不支援時下載會失敗（不會回退到 HTTP/2）',
     logLevelLabel: '日誌等級',
     logLevel: { error: '錯誤', warn: '警告', info: '資訊', debug: '偵錯', trace: '追蹤' },
     logLevelDesc: '控制主控台和日誌檔案的輸出詳細程度，資訊等級為預設',
