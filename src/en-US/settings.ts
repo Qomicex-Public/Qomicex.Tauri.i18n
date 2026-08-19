@@ -1,6 +1,7 @@
 // Settings page (en; batch0 covers category nav + appearance core, rest filled by migration batches)
 export default {
   category: {
+    launcher: 'Launcher',
     basic: 'Basic',
     launch: 'Launch',
     download: 'Download',

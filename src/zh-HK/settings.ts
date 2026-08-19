@@ -1,6 +1,7 @@
 // 設定頁（zh-HK；批0 含 category 導覽 + appearance 外觀核心項，其餘由遷移批次補充）
 export default {
   category: {
+    launcher: '啟動器設定',
     basic: '基礎設定',
     launch: '啟動設定',
     download: '下載設定',

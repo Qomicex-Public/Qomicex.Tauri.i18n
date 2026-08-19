@@ -1,6 +1,7 @@
 // Страница настроек (ru-RU; пакет 0: навигация category + основные элементы appearance, остальное дополняется миграционными пакетами)
 export default {
   category: {
+    launcher: 'Лаунчер',
     basic: 'Базовые',
     launch: 'Запуск',
     download: 'Загрузка',

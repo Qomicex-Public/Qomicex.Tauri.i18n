@@ -1,6 +1,7 @@
 // 设置页（zh-CN；批0 含 category 导航 + appearance 外观核心项，其余由迁移批次补充）
 export default {
   category: {
+    launcher: '启动器设置',
     basic: '基础设置',
     launch: '启动设置',
     download: '下载设置',
