@@ -11,9 +11,6 @@ export default {
     datapack: 'Датапаки',
     save: 'Миры',
   },
-  sources: {
-    all: 'Все',
-  },
   sort: {
     relevance: 'По релевантности',
     downloads: 'По скачиваниям',
