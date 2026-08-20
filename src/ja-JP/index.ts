@@ -17,6 +17,7 @@ import plugins from './plugins'
 import dialogs from './dialogs'
 import tools from './tools'
 import wizard from './wizard'
+import gameLog from './gameLog'
 import type { TranslationSchema } from '../types'
 
 export default {
@@ -38,4 +39,5 @@ export default {
   dialogs,
   tools,
   wizard,
+  gameLog,
 } satisfies TranslationSchema
