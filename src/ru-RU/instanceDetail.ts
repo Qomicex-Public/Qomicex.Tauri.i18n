@@ -259,6 +259,8 @@ export default {
     added: '«{name}» добавлен',
     opFailed: 'Ошибка операции',
     loadFailed: 'Не удалось загрузить список серверов',
+    empty: 'Серверов нет',
+    noMatch: 'Подходящих серверов не найдено',
   },
   overview: {
     launch: 'Запуск',

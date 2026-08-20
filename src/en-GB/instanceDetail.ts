@@ -259,6 +259,8 @@ export default {
     added: 'Added "{name}"',
     opFailed: 'Operation failed',
     loadFailed: 'Failed to load server list',
+    empty: 'No servers',
+    noMatch: 'No matching servers',
   },
   overview: {
     launch: 'Launch',

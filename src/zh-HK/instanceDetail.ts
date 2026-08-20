@@ -259,6 +259,8 @@ export default {
     added: '已新增「{name}」',
     opFailed: '操作失敗',
     loadFailed: '載入伺服器列表失敗',
+    empty: '暫無伺服器',
+    noMatch: '搵唔到相符嘅伺服器',
   },
   overview: {
     launch: '啟動',

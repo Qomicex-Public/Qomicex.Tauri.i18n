@@ -259,6 +259,8 @@ export default {
     added: '已添加「{name}」',
     opFailed: '操作失败',
     loadFailed: '加载服务器列表失败',
+    empty: '暂无服务器',
+    noMatch: '未找到匹配的服务器',
   },
   overview: {
     launch: '启动',
