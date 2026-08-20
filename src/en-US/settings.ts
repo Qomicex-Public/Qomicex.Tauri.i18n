@@ -100,7 +100,7 @@ export default {
     modSource: 'Resource download source',
     modSourceName: { 0: 'Modrinth/CurseForge official', 1: 'MCIM mirror' },
     resourceDownloadSource: 'File download source',
-    resourceDownloadSourceName: { 0: 'Official', 1: 'QML Mirror' },
+    resourceDownloadSourceName: { 0: 'Official', 1: 'QML Mirror', 2: 'QML Mirror HK' },
     resourceDownloadSourceDesc: 'CDN used for MOD file downloads: Official connects to the original CDN, QML Mirror is the QML mirror.',
     autoSelectFileDownloadSource: 'Auto-select download source',
     autoSelectFileDownloadSourceDesc: 'Automatically use the fastest available source.',

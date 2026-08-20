@@ -100,7 +100,7 @@ export default {
     modSource: 'リソースダウンロードソース',
     modSourceName: { 0: 'Modrinth/CurseForge 公式', 1: 'MCIM ミラー' },
     resourceDownloadSource: 'ファイルダウンロード元',
-    resourceDownloadSourceName: { 0: '公式', 1: 'QML Mirror' },
+    resourceDownloadSourceName: { 0: '公式', 1: 'QML Mirror', 2: 'QML Mirror HK' },
     resourceDownloadSourceDesc: 'MOD ファイルのダウンロード元 CDN：公式は元の CDN、QML Mirror は QML ミラー。',
     autoSelectFileDownloadSource: 'ダウンロード元を自動選択',
     autoSelectFileDownloadSourceDesc: '最も応答の速い利用可能なソースを自動選択します',

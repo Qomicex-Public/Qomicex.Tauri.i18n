@@ -100,7 +100,7 @@ export default {
     modSource: '资源下载源',
     modSourceName: { 0: 'Modrinth/CurseForge 官方', 1: 'MCIM 镜像' },
     resourceDownloadSource: '文件下载源',
-    resourceDownloadSourceName: { 0: '官方源', 1: 'QML Mirror' },
+    resourceDownloadSourceName: { 0: '官方源', 1: 'QML Mirror', 2: 'QML Mirror HK' },
     resourceDownloadSourceDesc: '选择 MOD 文件下载用的 CDN：官方源直连原站，QML Mirror 为QML镜像。',
     autoSelectFileDownloadSource: '自动选择下载源',
     autoSelectFileDownloadSourceDesc: '自动选用延迟最低的可用下载源',
