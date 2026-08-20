@@ -126,6 +126,7 @@ export default {
     proxy: '代理设置',
     proxyMode: '使用什么代理',
     proxyOff: '不使用代理',
+    proxySystem: '使用系统代理',
     http: 'HTTP(S) 代理',
     socks5: 'SOCKS5 代理',
     proxyModeDesc: '为下载和资源请求配置代理服务器',

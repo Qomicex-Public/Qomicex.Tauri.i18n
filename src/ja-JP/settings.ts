@@ -126,6 +126,7 @@ export default {
     proxy: 'プロキシ設定',
     proxyMode: '使用するプロキシ',
     proxyOff: 'プロキシを使用しない',
+    proxySystem: 'システムプロキシを使用',
     http: 'HTTP(S) プロキシ',
     socks5: 'SOCKS5 プロキシ',
     proxyModeDesc: 'ダウンロードとリソースリクエストにプロキシサーバーを設定します',

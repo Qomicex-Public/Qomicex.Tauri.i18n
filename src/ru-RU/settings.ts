@@ -126,6 +126,7 @@ export default {
     proxy: 'Прокси',
     proxyMode: 'Тип прокси',
     proxyOff: 'Без прокси',
+    proxySystem: 'Использовать системный прокси',
     http: 'HTTP(S) прокси',
     socks5: 'SOCKS5 прокси',
     proxyModeDesc: 'Настройка прокси-сервера для загрузок и запросов ресурсов',

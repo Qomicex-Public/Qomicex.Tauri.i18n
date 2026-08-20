@@ -126,6 +126,7 @@ export default {
     proxy: 'Proxy',
     proxyMode: 'Proxy type',
     proxyOff: 'No proxy',
+    proxySystem: 'Use system proxy',
     http: 'HTTP(S) proxy',
     socks5: 'SOCKS5 proxy',
     proxyModeDesc: 'Configure a proxy server for downloads and resource requests',
