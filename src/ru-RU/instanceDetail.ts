@@ -264,6 +264,7 @@ export default {
   },
   overview: {
     launch: 'Запуск',
+    testGame: 'Тестовый запуск',
     unpin: 'Открепить',
     pin: 'Закрепить на главной',
     gameVersion: 'Версия игры',

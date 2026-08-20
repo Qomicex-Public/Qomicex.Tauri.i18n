@@ -264,6 +264,7 @@ export default {
   },
   overview: {
     launch: 'Launch',
+    testGame: 'Test Game',
     unpin: 'Unpin',
     pin: 'Pin to home',
     gameVersion: 'Game version',

@@ -264,6 +264,7 @@ export default {
   },
   overview: {
     launch: '启动',
+    testGame: '测试游戏',
     unpin: '取消固定',
     pin: '固定到主页',
     gameVersion: '游戏版本',

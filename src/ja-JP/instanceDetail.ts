@@ -264,6 +264,7 @@ export default {
   },
   overview: {
     launch: '起動',
+    testGame: 'テスト起動',
     unpin: '固定を解除',
     pin: 'ホームに固定',
     gameVersion: 'ゲームバージョン',
