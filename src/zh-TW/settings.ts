@@ -107,6 +107,8 @@ export default {
     downloadTimeoutDesc: '單個檔案下載無回應超過此時間則自動重試（0=不逾時，1-120 秒）',
     enableHttp3: '啟用 HTTP/3 檔案下載（實驗性）',
     enableHttp3Desc: '開啟後下載優先使用 HTTP/3，伺服器不支援時自動回退到 HTTP/2；關閉則強制使用 HTTP/2',
+    http1Parallel: 'HTTP/1.1 並行連線下載',
+    http1ParallelDesc: '每個檔案用獨立 TCP 連線並行下載，可在按連線限速的 CDN（如 Modrinth/CurseForge）上大幅提升下載速度；關閉則回退 HTTP/2 多路復用',
     logLevelLabel: '日誌等級',
     logLevel: { error: '錯誤', warn: '警告', info: '資訊', debug: '偵錯', trace: '追蹤' },
     logLevelDesc: '控制主控台和日誌檔案的輸出詳細程度，資訊等級為預設',
@@ -140,8 +142,6 @@ export default {
     proxyHostDesc: '格式為 host:port；僅在選擇 HTTP(S) 或 SOCKS5 代理時生效',
     ignoreSslCert: '忽略 SSL 憑證驗證',
     ignoreSslCertDesc: '下載或請求時不驗證 TLS 憑證（適用於自簽憑證/內網代理等情境，請審慎開啟）',
-    http1Parallel: 'HTTP/1.1 並行連線下載',
-    http1ParallelDesc: '每個檔案用獨立 TCP 連線並行下載，可在按連線限速的 CDN（如 Modrinth/CurseForge）上大幅提升下載速度；關閉則回退 HTTP/2 多路復用',
   },
   java: {
     title: 'Java 執行環境',

@@ -107,6 +107,8 @@ export default {
     downloadTimeoutDesc: 'A file with no response for longer than this is retried automatically (0=no timeout, 1-120 seconds)',
     enableHttp3: 'Enable HTTP/3 file downloads (experimental)',
     enableHttp3Desc: 'When enabled, downloads prefer HTTP/3 and automatically fall back to HTTP/2 if the server does not support it; when disabled, downloads use HTTP/2 only',
+    http1Parallel: 'Force HTTP/1.1 parallel connections',
+    http1ParallelDesc: 'When on, every file downloads over its own TCP connection. Default off = per-source auto: per-connection-limited CDNs (e.g. Modrinth) use parallel, other sources (Mojang/BMCLAPI) use HTTP/2.',
     logLevelLabel: 'Log level',
     logLevel: { error: 'Error', warn: 'Warning', info: 'Info', debug: 'Debug', trace: 'Trace' },
     logLevelDesc: 'Controls verbosity of console and log file output; info is the default',
@@ -140,8 +142,6 @@ export default {
     proxyHostDesc: 'Format: host:port; only used when HTTP(S) or SOCKS5 proxy is selected',
     ignoreSslCert: 'Ignore SSL certificate verification',
     ignoreSslCertDesc: 'Skip TLS certificate verification when downloading or requesting (for self-signed certs / internal proxies; use with caution)',
-    http1Parallel: 'Force HTTP/1.1 parallel connections',
-    http1ParallelDesc: 'When on, every file downloads over its own TCP connection. Default off = per-source auto: per-connection-limited CDNs (e.g. Modrinth) use parallel, other sources (Mojang/BMCLAPI) use HTTP/2.',
   },
   java: {
     title: 'Java Runtime',

@@ -107,6 +107,8 @@ export default {
     downloadTimeoutDesc: '单个文件下载无响应超过此时间则自动重试（0=不超时，1-120 秒）',
     enableHttp3: '启用 HTTP/3 文件下载（实验性）',
     enableHttp3Desc: '开启后下载优先使用 HTTP/3，服务器不支持时自动回退到 HTTP/2；关闭则强制使用 HTTP/2',
+    http1Parallel: '强制 HTTP/1.1 并行连接下载',
+    http1ParallelDesc: '开启时所有下载都用独立 TCP 连接并行。默认关闭 = 按来源自动：Modrinth 等按连接限速的源自动用并行，Mojang/BMCLAPI 等其余源用 HTTP/2',
     logLevelLabel: '日志等级',
     logLevel: { error: '错误', warn: '警告', info: '信息', debug: '调试', trace: '跟踪' },
     logLevelDesc: '控制控制台和日志文件的输出详细程度，信息等级为默认',
@@ -140,8 +142,6 @@ export default {
     proxyHostDesc: '格式为 host:port；仅当选择了 HTTP(S) 或 SOCKS5 代理时生效',
     ignoreSslCert: '忽略 SSL 证书校验',
     ignoreSslCertDesc: '下载或请求时不校验 TLS 证书（适用于自签名证书/内网代理等场景，请谨慎开启）',
-    http1Parallel: '强制 HTTP/1.1 并行连接下载',
-    http1ParallelDesc: '开启时所有下载都用独立 TCP 连接并行。默认关闭 = 按来源自动：Modrinth 等按连接限速的源自动用并行，Mojang/BMCLAPI 等其余源用 HTTP/2',
   },
   java: {
     title: 'Java 运行时',

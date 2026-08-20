@@ -107,6 +107,8 @@ export default {
     downloadTimeoutDesc: '単一ファイルのダウンロードがこの時間応答しない場合は自動的に再試行します（0=タイムアウトなし、1-120 秒）',
     enableHttp3: 'HTTP/3 ファイルダウンロードを有効化（実験的）',
     enableHttp3Desc: '有効にするとダウンロードは HTTP/3 を優先し、サーバーが対応していない場合は HTTP/2 へ自動的にフォールバックします。無効では HTTP/2 のみを使用します',
+    http1Parallel: 'HTTP/1.1 並列接続でダウンロード',
+    http1ParallelDesc: '各ファイルを独立した TCP 接続で並列にダウンロードします。接続ごとに帯域が制限された CDN（Modrinth/CurseForge など）で大幅に高速化します。オフにすると HTTP/2 多重化に戻ります。',
     logLevelLabel: 'ログレベル',
     logLevel: { error: 'エラー', warn: '警告', info: '情報', debug: 'デバッグ', trace: 'トレース' },
     logLevelDesc: 'コンソールとログファイルの出力詳細度を制御します。情報レベルが既定です',
@@ -140,8 +142,6 @@ export default {
     proxyHostDesc: '形式: host:port。HTTP(S) または SOCKS5 プロキシ選択時のみ有効です',
     ignoreSslCert: 'SSL 証明書の検証を無視',
     ignoreSslCertDesc: 'ダウンロード・リクエスト時に TLS 証明書を検証しません（自己署名証明書・社内プロキシ等向け。ご注意のうえ有効化してください）',
-    http1Parallel: 'HTTP/1.1 並列接続でダウンロード',
-    http1ParallelDesc: '各ファイルを独立した TCP 接続で並列にダウンロードします。接続ごとに帯域が制限された CDN（Modrinth/CurseForge など）で大幅に高速化します。オフにすると HTTP/2 多重化に戻ります。',
   },
   java: {
     title: 'Java ランタイム',
