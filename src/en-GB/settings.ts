@@ -180,6 +180,7 @@ export default {
     unusable: 'Unavailable',
     openFolder: 'Open folder',
     availableCount: '{valid} / {total} available',
+    showInvalid: 'Show unavailable',
     defaultConfig: 'Default configuration',
     defaultRuntime: 'Default Java runtime',
     autoSelect: 'Auto-select',

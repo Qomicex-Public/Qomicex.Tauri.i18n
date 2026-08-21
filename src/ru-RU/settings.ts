@@ -180,6 +180,7 @@ export default {
     unusable: 'Недоступна',
     openFolder: 'Открыть папку',
     availableCount: 'Доступно: {valid} / {total}',
+    showInvalid: 'Показать недоступные',
     defaultConfig: 'Конфигурация по умолчанию',
     defaultRuntime: 'Среда Java по умолчанию',
     autoSelect: 'Автовыбор',

@@ -180,6 +180,7 @@ export default {
     unusable: '利用不可',
     openFolder: 'フォルダーを開く',
     availableCount: '{valid} / {total} 利用可能',
+    showInvalid: '無効な項目を表示',
     defaultConfig: '既定の設定',
     defaultRuntime: '既定の Java ランタイム',
     autoSelect: '自動選択',

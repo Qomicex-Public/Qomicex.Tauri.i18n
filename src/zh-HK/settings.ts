@@ -180,6 +180,7 @@ export default {
     unusable: '不可用',
     openFolder: '開啟資料夾',
     availableCount: '{valid} / {total} 可用',
+    showInvalid: '顯示無效項',
     defaultConfig: '預設配置',
     defaultRuntime: '預設 Java 執行環境',
     autoSelect: '自動選擇',
