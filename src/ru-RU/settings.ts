@@ -30,7 +30,7 @@ export default {
     themeColorDesc: 'Глобальный акцентный цвет для кнопок, подсветки и выделения. По умолчанию используется стандартный цвет лаунчера.',
     componentMaterial: 'Материал',
     componentMaterialDefault: 'Стандарт',
-    componentMaterialFrosted: 'Матовое стекло',
+    componentMaterialFrosted: 'Акриловое стекло',
     componentMaterialAero: 'Aero',
     componentMaterialLiquid: 'Жидкое стекло',
     glassBlurLow: 'Чётко',

@@ -30,7 +30,7 @@ export default {
     themeColorDesc: 'ボタン・ハイライト・選択状態に使うアクセントカラーを設定します。デフォルトのままにすると起動器の標準配色を使用します。',
     componentMaterial: 'コンポーネント素材',
     componentMaterialDefault: 'デフォルト',
-    componentMaterialFrosted: 'すりガラス',
+    componentMaterialFrosted: 'アクリルガラス',
     componentMaterialAero: 'Aero',
     componentMaterialLiquid: 'リキッドグラス',
     glassBlurLow: 'クリア',

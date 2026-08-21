@@ -30,7 +30,7 @@ export default {
     themeColorDesc: 'Custom global accent color for buttons, highlights and selections. Default uses the launcher theme color.',
     componentMaterial: 'Component material',
     componentMaterialDefault: 'Default',
-    componentMaterialFrosted: 'Frosted glass',
+    componentMaterialFrosted: 'Acrylic glass',
     componentMaterialAero: 'Aero',
     componentMaterialLiquid: 'Liquid glass',
     glassBlurLow: 'Clear',
