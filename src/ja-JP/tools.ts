@@ -9,6 +9,11 @@ export default {
     pickFolder: 'フォルダーを選択',
     submitting: '送信中...',
     startDownload: 'ダウンロードを開始',
+    startDownloadCount: 'ダウンロードを開始 ({count})',
+    urlHint: '1 行に 1 つの URL、一括追加対応',
+    toastAdded: '{count} 件のダウンロードタスクを追加しました',
+    toastPartial: '成功 {ok} 件、失敗 {failed} 件',
+    invalidLines: '無効な行 {count} 件をスキップしました',
     downloadFailed: 'ダウンロードに失敗しました',
   },
   logs: {
