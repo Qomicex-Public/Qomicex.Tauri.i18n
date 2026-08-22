@@ -9,6 +9,11 @@ export default {
     pickFolder: '选择文件夹',
     submitting: '提交中...',
     startDownload: '开始下载',
+    startDownloadCount: '开始下载 ({count})',
+    urlHint: '每行一个链接，支持批量添加',
+    toastAdded: '已添加 {count} 个下载任务',
+    toastPartial: '成功 {ok} 个，失败 {failed} 个',
+    invalidLines: '{count} 行链接无效已跳过',
     downloadFailed: '下载失败',
   },
   logs: {

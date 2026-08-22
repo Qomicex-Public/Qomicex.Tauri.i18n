@@ -9,6 +9,11 @@ export default {
     pickFolder: 'Выбрать папку',
     submitting: 'Отправка…',
     startDownload: 'Начать загрузку',
+    startDownloadCount: 'Начать загрузку ({count})',
+    urlHint: 'Одна ссылка на строку, поддерживается пакетное добавление',
+    toastAdded: 'Добавлено задач загрузки: {count}',
+    toastPartial: 'Успешно: {ok}, с ошибками: {failed}',
+    invalidLines: 'Пропущено неверных строк: {count}',
     downloadFailed: 'Ошибка загрузки',
   },
   logs: {

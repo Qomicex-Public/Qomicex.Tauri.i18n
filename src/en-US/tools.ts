@@ -9,6 +9,11 @@ export default {
     pickFolder: 'Choose folder',
     submitting: 'Submitting...',
     startDownload: 'Start download',
+    startDownloadCount: 'Start download ({count})',
+    urlHint: 'One URL per line, batch supported',
+    toastAdded: 'Added {count} download task(s)',
+    toastPartial: '{ok} succeeded, {failed} failed',
+    invalidLines: 'Skipped {count} invalid line(s)',
     downloadFailed: 'Download failed',
   },
   logs: {
