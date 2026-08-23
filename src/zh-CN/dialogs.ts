@@ -287,6 +287,23 @@ export default {
     installedDone: '安装完成：{name}',
     addedToDownloadCenter: '已加入下载中心',
   },
+  // 拖拽安装
+  dropInstall: {
+    title: '安装拖入的文件',
+    filesTitle: '待安装文件 ({count})',
+    dropHere: '释放以安装',
+    dropHint: '模组 (.jar) · 资源包 (.zip) · 光影包 (.zip) · 整合包 (.mrpack / .zip)',
+    targetDir: '目标目录',
+    isolated: '版本隔离',
+    installSuccess: '已安装 {count} 个文件到「{instance}」',
+    installPartial: '{ok} 个安装成功，{failed} 个失败',
+    modpackQueued: '整合包「{name}」已开始后台安装',
+    modpackStartFailed: '整合包安装启动失败',
+    classifyFailed: '无法读取拖入的文件',
+    unsupportedHint: '以下文件无法识别：{names}',
+    mixedTypesHint: '同时拖入了多种类型的资源，请分开拖入安装',
+    modpackSingleHint: '一次只支持安装一个整合包，已忽略 {count} 个文件',
+  },
   // 模组卡片
   mod: {
     mcwiki: 'MC百科',

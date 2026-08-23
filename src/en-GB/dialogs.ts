@@ -287,6 +287,23 @@ export default {
     installedDone: 'Install complete: {name}',
     addedToDownloadCenter: 'Added to download center',
   },
+  // Drag-and-drop install
+  dropInstall: {
+    title: 'Install Dropped Files',
+    filesTitle: 'Files to install ({count})',
+    dropHere: 'Drop to install',
+    dropHint: 'Mods (.jar) · Resource packs (.zip) · Shader packs (.zip) · Modpacks (.mrpack / .zip)',
+    targetDir: 'Target directory',
+    isolated: 'version isolation',
+    installSuccess: 'Installed {count} file(s) into "{instance}"',
+    installPartial: '{ok} installed, {failed} failed',
+    modpackQueued: 'Modpack "{name}" is now installing in the background',
+    modpackStartFailed: 'Failed to start modpack installation',
+    classifyFailed: 'Could not read the dropped files',
+    unsupportedHint: 'Unrecognised files: {names}',
+    mixedTypesHint: 'Multiple resource types dropped — please drop them separately',
+    modpackSingleHint: 'Only one modpack can be installed at a time; ignored {count} file(s)',
+  },
   // Mod card
   mod: {
     mcwiki: 'MC Encyclopedia',

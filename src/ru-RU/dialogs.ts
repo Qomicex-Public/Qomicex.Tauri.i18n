@@ -287,6 +287,23 @@ export default {
     installedDone: 'Установлено: {name}',
     addedToDownloadCenter: 'Добавлено в центр загрузок',
   },
+  // Установка перетаскиванием
+  dropInstall: {
+    title: 'Установка перемещённых файлов',
+    filesTitle: 'Файлы для установки ({count})',
+    dropHere: 'Отпустите для установки',
+    dropHint: 'Моды (.jar) · Ресурспаки (.zip) · Шейдерпаки (.zip) · Сборки (.mrpack / .zip)',
+    targetDir: 'Целевой каталог',
+    isolated: 'изоляция версий',
+    installSuccess: '{count} файл(ов) установлено в «{instance}»',
+    installPartial: 'Успешно: {ok}, с ошибками: {failed}',
+    modpackQueued: 'Установка сборки «{name}» запущена в фоне',
+    modpackStartFailed: 'Не удалось запустить установку сборки',
+    classifyFailed: 'Не удалось прочитать перемещённые файлы',
+    unsupportedHint: 'Нераспознанные файлы: {names}',
+    mixedTypesHint: 'Перетащены ресурсы разных типов — устанавливайте их по отдельности',
+    modpackSingleHint: 'За раз можно установить только одну сборку; пропущено файлов: {count}',
+  },
   // Карточка мода
   mod: {
     mcwiki: 'MCWiki',

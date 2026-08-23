@@ -287,6 +287,23 @@ export default {
     installedDone: 'インストール完了: {name}',
     addedToDownloadCenter: 'ダウンロードセンターに追加しました',
   },
+  // ドラッグ＆ドロップインストール
+  dropInstall: {
+    title: 'ドロップしたファイルをインストール',
+    filesTitle: 'インストール予定のファイル ({count})',
+    dropHere: 'ドロップでインストール',
+    dropHint: 'MOD (.jar) · リソースパック (.zip) · シェーダーパック (.zip) · MODパック (.mrpack / .zip)',
+    targetDir: '対象ディレクトリ',
+    isolated: 'バージョン分離',
+    installSuccess: '{count} 個のファイルを「{instance}」にインストールしました',
+    installPartial: '{ok} 個成功、{failed} 個失敗',
+    modpackQueued: 'MODパック「{name}」のバックグラウンドインストールを開始しました',
+    modpackStartFailed: 'MODパックのインストール開始に失敗しました',
+    classifyFailed: 'ドロップしたファイルを読み取できませんでした',
+    unsupportedHint: '認識できないファイル: {names}',
+    mixedTypesHint: '複数種類のリソースが同時にドロップされました。分けてドロップしてください',
+    modpackSingleHint: '一度にインストールできるMODパックは1つです。{count} 個のファイルを無視しました',
+  },
   // Mod カード
   mod: {
     mcwiki: 'MC百科',
