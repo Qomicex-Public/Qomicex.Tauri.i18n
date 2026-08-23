@@ -54,6 +54,7 @@ export default {
     uuid: 'UUID（可选，留空自动生成）',
     uuidPlaceholder: '例如: 069a79f4-44e9-4726-a5be-fca90e38aaf5',
     add: '添加离线账户',
+    idFormatWarning: '你输入的玩家 ID 不符合标准（3-16 位，只可以包含英文字母、数字与下划线），可能导致部分版本的游戏无法启动或发生错误。\n强烈建议使用规范的玩家 ID！\n如果你坚持，仍然可以继续创建账户。',
   },
   ygg: {
     presetServer: '预设服务器',

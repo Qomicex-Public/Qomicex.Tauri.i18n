@@ -54,6 +54,7 @@ export default {
     uuid: 'UUID (optional, auto-generated if empty)',
     uuidPlaceholder: 'e.g. 069a79f4-44e9-4726-a5be-fca90e38aaf5',
     add: 'Add offline account',
+    idFormatWarning: 'The player ID you entered does not meet the standard (3-16 characters, only English letters, digits and underscores). This may cause some game versions to fail to launch or error. A standard player ID is strongly recommended!\nIf you insist, you can still create the account.',
   },
   ygg: {
     presetServer: 'Preset server',

@@ -54,6 +54,7 @@ export default {
     uuid: 'UUID（可選，留空自動產生）',
     uuidPlaceholder: '例如: 069a79f4-44e9-4726-a5be-fca90e38aaf5',
     add: '新增離線帳號',
+    idFormatWarning: '你輸入的玩家 ID 不符合標準（3-16 位，只可以包含英文字母、數字與底線），可能導致部分版本的遊戲無法啟動或發生錯誤。\n強烈建議使用規範的玩家 ID！\n如果你堅持，仍然可以繼續建立帳號。',
   },
   ygg: {
     presetServer: '預設伺服器',
