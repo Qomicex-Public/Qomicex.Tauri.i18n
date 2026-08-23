@@ -45,9 +45,12 @@ export default {
     'download-modpack': 'Download modpack',
     'parse-modpack': 'Parse modpack',
     'download-files': 'Download modpack files',
+    'download-deps': 'Download dependencies',
+    'download-main': 'Download main file',
     overrides: 'Extract overrides',
   },
   speedLabel: 'Download speed',
+  quickInstallName: 'Install: {name}',
   stepsDone: '{done}/{total} steps done',
   filter: {
     all: 'All',

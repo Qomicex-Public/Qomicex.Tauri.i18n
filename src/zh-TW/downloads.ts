@@ -45,9 +45,12 @@ export default {
     'download-modpack': '下載整合包',
     'parse-modpack': '解析整合包',
     'download-files': '下載整合包檔案',
+    'download-deps': '下載前置資源',
+    'download-main': '下載資源本體',
     overrides: '釋放覆寫檔案',
   },
   speedLabel: '下載速度',
+  quickInstallName: '安裝: {name}',
   stepsDone: '{done}/{total} 步完成',
   filter: {
     all: '全部',

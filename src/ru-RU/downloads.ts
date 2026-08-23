@@ -45,9 +45,12 @@ export default {
     'download-modpack': 'Скачать модпак',
     'parse-modpack': 'Разобрать модпак',
     'download-files': 'Скачать файлы модпака',
+    'download-deps': 'Скачать зависимости',
+    'download-main': 'Скачать основной файл',
     overrides: 'Распаковать файлы замены',
   },
   speedLabel: 'Скорость загрузки',
+  quickInstallName: 'Установка: {name}',
   stepsDone: 'Выполнено шагов: {done}/{total}',
   filter: {
     all: 'Все',

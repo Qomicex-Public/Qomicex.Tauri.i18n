@@ -45,9 +45,12 @@ export default {
     'download-modpack': 'Modパックをダウンロード',
     'parse-modpack': 'Modパックを解析',
     'download-files': 'Modパックファイルをダウンロード',
+    'download-deps': '依存リソースをダウンロード',
+    'download-main': '本体をダウンロード',
     overrides: '上書きファイルを展開',
   },
   speedLabel: 'ダウンロード速度',
+  quickInstallName: 'インストール: {name}',
   stepsDone: '{done}/{total} ステップ完了',
   filter: {
     all: 'すべて',
