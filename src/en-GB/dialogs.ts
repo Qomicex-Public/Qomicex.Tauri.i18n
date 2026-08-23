@@ -285,6 +285,7 @@ export default {
     installing: 'Installing...',
     installingWithName: 'Downloading {name} ({step}/{total})',
     installedDone: 'Install complete: {name}',
+    addedToDownloadCenter: 'Added to download center',
   },
   // Mod card
   mod: {

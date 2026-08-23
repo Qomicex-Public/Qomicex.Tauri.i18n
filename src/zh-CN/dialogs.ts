@@ -285,6 +285,7 @@ export default {
     installing: '安装中...',
     installingWithName: '正在下载 {name} ({step}/{total})',
     installedDone: '安装完成：{name}',
+    addedToDownloadCenter: '已加入下载中心',
   },
   // 模组卡片
   mod: {

@@ -285,6 +285,7 @@ export default {
     installing: 'Установка…',
     installingWithName: 'Загрузка {name} ({step}/{total})',
     installedDone: 'Установлено: {name}',
+    addedToDownloadCenter: 'Добавлено в центр загрузок',
   },
   // Карточка мода
   mod: {

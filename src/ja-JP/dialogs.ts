@@ -285,6 +285,7 @@ export default {
     installing: 'インストール中...',
     installingWithName: '{name} をダウンロード中 ({step}/{total})',
     installedDone: 'インストール完了: {name}',
+    addedToDownloadCenter: 'ダウンロードセンターに追加しました',
   },
   // Mod カード
   mod: {
