@@ -15,6 +15,8 @@ export default {
   licenseRemoteCheckFailed: 'License remote verification failed',
   licenseIoError: 'Failed to read license file',
   tokenExpired: 'Login token expired, please sign in again',
+  networkError:
+    'Cannot reach the Microsoft authentication service. Check your network or launch in offline mode',
   mcApiError: 'Minecraft official API request failed',
   fsAuthRequired: 'Filesystem access not authorized',
   pluginMissingDependency: 'Plugin is missing required dependencies',

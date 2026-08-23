@@ -15,6 +15,8 @@ export default {
   licenseRemoteCheckFailed: 'ライセンスのリモート検証に失敗しました',
   licenseIoError: 'ライセンスファイルの読み取りに失敗しました',
   tokenExpired: 'ログイントークンの有効期限が切れました。再ログインしてください',
+  networkError:
+    'Microsoft認証サービスに接続できません。ネットワークを確認するか、オフラインモードで起動してください',
   mcApiError: 'Minecraft 公式 API へのリクエストに失敗しました',
   fsAuthRequired: 'ファイルシステムへのアクセスが許可されていません',
   pluginMissingDependency: 'プラグインに必要な前提依存がありません',

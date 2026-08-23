@@ -15,6 +15,7 @@ export default {
   licenseRemoteCheckFailed: '许可证远程校验失败',
   licenseIoError: '许可证文件读取失败',
   tokenExpired: '登录令牌已过期，请重新登录',
+  networkError: '无法连接微软认证服务，请检查网络后重试，或改用离线模式启动',
   mcApiError: 'Minecraft 官方 API 请求失败',
   fsAuthRequired: '文件系统访问未授权',
   pluginMissingDependency: '插件缺少必要的前置依赖',
