@@ -25,4 +25,9 @@ export default {
   skinUploadFailed: '皮肤上传失败',
   skinSaveFailed: '皮肤保存失败',
   skinResetFailed: '皮肤重置失败',
+  pluginSignatureMissing: '插件包缺少签名，已拒绝安装。请联系开发者重新打包签名',
+  pluginSignatureInvalid: '插件包签名验证失败，包可能已被篡改',
+  pluginSignatureCertInvalid: '插件签名证书无效（根钥验证失败）',
+  pluginSignatureHashMismatch: '插件包签名哈希不匹配，包可能已被篡改',
+  noRollbackSnapshot: '没有可回滚的版本快照',
 } as const

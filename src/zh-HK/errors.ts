@@ -25,4 +25,9 @@ export default {
   skinUploadFailed: '皮膚上載失敗',
   skinSaveFailed: '皮膚儲存失敗',
   skinResetFailed: '皮膚重設失敗',
+  pluginSignatureMissing: '插件包缺少簽名，已拒絕安裝。請聯絡開發者重新打包簽名',
+  pluginSignatureInvalid: '插件包簽名驗證失敗，包可能已被篡改',
+  pluginSignatureCertInvalid: '插件簽名證書無效（根鑰驗證失敗）',
+  pluginSignatureHashMismatch: '插件包簽名哈希不匹配，包可能已被篡改',
+  noRollbackSnapshot: '沒有可回滾的版本快照',
 } as const

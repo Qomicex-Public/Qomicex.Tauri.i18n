@@ -26,4 +26,9 @@ export default {
   skinUploadFailed: 'Не удалось загрузить скин',
   skinSaveFailed: 'Не удалось сохранить скин',
   skinResetFailed: 'Не удалось сбросить скин',
+  pluginSignatureMissing: 'В пакете плагина отсутствует подпись. Разработчику нужно подписать пакет',
+  pluginSignatureInvalid: 'Не удалось проверить подпись плагина — пакет мог быть изменён',
+  pluginSignatureCertInvalid: 'Сертификат подписи плагина недействителен',
+  pluginSignatureHashMismatch: 'Хэш подписи пакета не совпадает — пакет мог быть изменён',
+  noRollbackSnapshot: 'Нет доступного снимка версии для отката',
 } as const
