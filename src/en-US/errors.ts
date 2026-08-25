@@ -26,4 +26,9 @@ export default {
   skinUploadFailed: 'Failed to upload skin',
   skinSaveFailed: 'Failed to save skin',
   skinResetFailed: 'Failed to reset skin',
+  pluginSignatureMissing: 'Plugin package is missing signature. The developer needs to sign this package',
+  pluginSignatureInvalid: 'Plugin package signature verification failed — the package may be tampered',
+  pluginSignatureCertInvalid: 'Plugin signature certificate is invalid (root key verification failed)',
+  pluginSignatureHashMismatch: 'Plugin package signature hash mismatch — the package may be tampered',
+  noRollbackSnapshot: 'No rollback snapshot available for this plugin',
 } as const

@@ -26,4 +26,9 @@ export default {
   skinUploadFailed: 'スキンのアップロードに失敗しました',
   skinSaveFailed: 'スキンの保存に失敗しました',
   skinResetFailed: 'スキンのリセットに失敗しました',
+  pluginSignatureMissing: 'プラグインパッケージに署名がありません。開発者による再署名が必要です',
+  pluginSignatureInvalid: 'プラグインパッケージの署名検証に失敗しました（改ざんの可能性）',
+  pluginSignatureCertInvalid: 'プラグイン署名証明書が無効です（ルート鍵の検証失敗）',
+  pluginSignatureHashMismatch: 'プラグインパッケージの署名ハッシュが一致しません（改ざんの可能性）',
+  noRollbackSnapshot: 'ロールバック可能なバージョンスナップショットがありません',
 } as const
