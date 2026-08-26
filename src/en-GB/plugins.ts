@@ -2,6 +2,8 @@
 export default {
   notFound: 'Plugin not found',
   notActivated: 'Plugin not activated',
+  webviewPlaceholder: 'This plugin has been opened in a separate window',
+  webviewFocus: 'Focus window',
   installTitle: 'Install Plugin',
   permissionsRequest: 'This plugin requests the following permissions:',
   highRisk: 'High risk',

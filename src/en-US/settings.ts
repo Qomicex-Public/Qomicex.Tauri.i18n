@@ -100,6 +100,8 @@ export default {
     closeAfterLaunchDesc: 'Automatically closes the launcher after the game starts',
     autoReportErrors: 'Auto-report severe error logs',
     autoReportErrorsDesc: 'Automatically uploads error logs and device info (system/hardware) when the launcher hits a severe error like a crash, to help troubleshooting; ordinary launch failures and download/install errors are not reported',
+    telemetry: 'Anonymous plugin error telemetry',
+    telemetryDesc: 'When enabled, the launcher reports anonymous error categories when a plugin fails to load or errors at runtime (plugin ID, version, error type and launcher version only — no paths, stacks or personal data), used to auto-pause problematic plugin version rollouts. Off by default',
     downloadSource: 'Download source',
     downloadSourceName: { 0: 'Official', 1: 'BMCLAPI mirror' },
     modSource: 'Resource download source',

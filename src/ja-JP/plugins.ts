@@ -2,6 +2,8 @@
 export default {
   notFound: 'プラグインが見つかりません',
   notActivated: 'プラグインが有効になっていません',
+  webviewPlaceholder: 'このプラグインは別ウィンドウで開かれています',
+  webviewFocus: 'ウィンドウにフォーカス',
   installTitle: 'プラグインをインストール',
   permissionsRequest: 'このプラグインは以下の権限を要求します:',
   highRisk: '高リスク権限',

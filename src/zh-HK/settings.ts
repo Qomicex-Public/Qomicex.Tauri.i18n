@@ -100,6 +100,8 @@ export default {
     closeAfterLaunchDesc: '遊戲啟動後自動關閉本啟動器',
     autoReportErrors: '自動上報嚴重錯誤日誌',
     autoReportErrorsDesc: '啟動器出現崩潰等嚴重錯誤時，自動上載錯誤日誌與設備資訊（系統/硬件）協助定位問題；普通啟動失敗、下載安裝錯誤不會上報',
+    telemetry: '匿名插件錯誤遙測',
+    telemetryDesc: '開啟後，插件載入或執行出錯時自動上報匿名錯誤類別（僅插件 ID、版本、錯誤類型與啟動器版本，不含路徑、堆疊或任何私隱資料），用於自動暫停異常的插件版本灰度。預設關閉',
     downloadSource: '下載源',
     downloadSourceName: { 0: '官方源', 1: 'BMCLAPI 鏡像' },
     modSource: '資源下載源',

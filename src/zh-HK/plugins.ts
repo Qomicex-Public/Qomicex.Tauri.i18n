@@ -2,6 +2,8 @@
 export default {
   notFound: '插件未找到',
   notActivated: '插件未啟動',
+  webviewPlaceholder: '此插件已在獨立視窗中開啟',
+  webviewFocus: '聚焦視窗',
   installTitle: '安裝插件',
   permissionsRequest: '此插件申請以下權限：',
   highRisk: '高危權限',

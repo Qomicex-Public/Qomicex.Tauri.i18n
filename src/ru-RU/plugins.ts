@@ -2,6 +2,8 @@
 export default {
   notFound: 'Плагин не найден',
   notActivated: 'Плагин не активирован',
+  webviewPlaceholder: 'Этот плагин открыт в отдельном окне',
+  webviewFocus: 'Сфокусировать окно',
   installTitle: 'Установить плагин',
   permissionsRequest: 'Этот плагин запрашивает следующие разрешения:',
   highRisk: 'Высокий риск',
