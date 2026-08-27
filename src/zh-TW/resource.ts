@@ -35,6 +35,8 @@ export default {
   allVersions: '全部版本',
   loaderLabel: '載入器',
   allLoaders: '全部載入器',
+  categoryFilterLabel: '類別篩選',
+  clearFilter: '清除篩選',
   notFound: '未找到相關資源',
   notFoundHint: '嘗試更換關鍵字、資源源或分類',
   retry: '重試',
