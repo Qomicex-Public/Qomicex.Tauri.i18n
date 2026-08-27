@@ -127,4 +127,5 @@ export default {
   unpin: 'Unpin',
   pinToHome: 'Pin to home',
   openFolder: 'Open folder',
+  deleteInstanceConfirm: 'Delete instance "{name}"? The instance record and its version directory will be permanently removed. This action cannot be undone.',
 } as const

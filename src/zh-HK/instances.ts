@@ -127,4 +127,5 @@ export default {
   unpin: '取消固定',
   pinToHome: '固定到主頁',
   openFolder: '開啟資料夾',
+  deleteInstanceConfirm: '確定要刪除實例"{name}"嗎？實例記錄和版本目錄將被永久刪除，此操作不可恢復。',
 } as const
