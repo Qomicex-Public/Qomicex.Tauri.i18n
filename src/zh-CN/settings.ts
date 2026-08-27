@@ -150,7 +150,7 @@ export default {
   network: {
     title: '网络设置',
     proxy: '代理设置',
-    proxyMode: '使用什么代理',
+    proxyMode: '代理类型',
     proxyOff: '不使用代理',
     proxySystem: '使用系统代理',
     http: 'HTTP(S) 代理',
