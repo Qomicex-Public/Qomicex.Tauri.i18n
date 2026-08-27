@@ -315,9 +315,13 @@ export default {
     gameAlloc: '遊戲分配 {size} GiB',
     remainingMem: '剩餘 {size} GiB',
     jvmArgs: 'JVM 參數',
+    jvmArgsWarning: '非專業玩家請勿修改，錯誤的 JVM 參數可能導致遊戲無法啟動',
     linkedAccount: '關聯帳戶',
     unlinked: '未關聯',
     saving: '儲存中...',
+    resetSection: '重置該板塊',
+    resetConfirm: '確定要重置該板塊的全部設定嗎？將恢復到實例預設值。',
+    resetDone: '已重置',
   },
   gamesettings: {
     search: '搜尋設定項...',

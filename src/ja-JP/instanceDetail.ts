@@ -315,9 +315,13 @@ export default {
     gameAlloc: 'ゲーム割り当て {size} GiB',
     remainingMem: '残り {size} GiB',
     jvmArgs: 'JVM 引数',
+    jvmArgsWarning: '上級者向け設定です。誤った JVM 引数はゲームが起動できなくなる可能性があります。',
     linkedAccount: '関連アカウント',
     unlinked: '未関連',
     saving: '保存中...',
+    resetSection: 'このセクションをリセット',
+    resetConfirm: 'このセクションの設定をすべてリセットしますか？インスタンスのデフォルト値に戻ります。',
+    resetDone: 'リセットしました',
   },
   gamesettings: {
     search: '設定項目を検索...',

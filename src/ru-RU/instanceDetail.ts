@@ -315,9 +315,13 @@ export default {
     gameAlloc: 'Выделено игре: {size} ГиБ',
     remainingMem: 'Осталось: {size} ГиБ',
     jvmArgs: 'Аргументы JVM',
+    jvmArgsWarning: 'Только для опытных пользователей. Неверные аргументы JVM могут помешать запуску игры.',
     linkedAccount: 'Связанный аккаунт',
     unlinked: 'Не связан',
     saving: 'Сохранение…',
+    resetSection: 'Сбросить раздел',
+    resetConfirm: 'Сбросить все настройки этого раздела? Они вернутся к значениям по умолчанию.',
+    resetDone: 'Сброшено',
   },
   gamesettings: {
     search: 'Поиск параметров…',

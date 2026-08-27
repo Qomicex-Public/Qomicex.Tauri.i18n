@@ -315,9 +315,13 @@ export default {
     gameAlloc: '游戏分配 {size} GiB',
     remainingMem: '剩余 {size} GiB',
     jvmArgs: 'JVM 参数',
+    jvmArgsWarning: '非专业玩家请勿修改，错误的 JVM 参数可能导致游戏无法启动',
     linkedAccount: '关联账号',
     unlinked: '未关联',
     saving: '保存中...',
+    resetSection: '重置该板块',
+    resetConfirm: '确定要重置该板块的全部设置吗？将恢复到实例默认值。',
+    resetDone: '已重置',
   },
   gamesettings: {
     search: '搜索设置项...',

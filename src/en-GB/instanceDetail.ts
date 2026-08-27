@@ -315,9 +315,13 @@ export default {
     gameAlloc: 'Game allocation {size} GiB',
     remainingMem: 'Remaining {size} GiB',
     jvmArgs: 'JVM arguments',
+    jvmArgsWarning: 'For advanced users only. Incorrect JVM arguments may prevent the game from starting.',
     linkedAccount: 'Linked account',
     unlinked: 'Not linked',
     saving: 'Saving...',
+    resetSection: 'Reset section',
+    resetConfirm: 'Reset all settings in this section? They will revert to instance defaults.',
+    resetDone: 'Reset',
   },
   gamesettings: {
     search: 'Search settings...',
