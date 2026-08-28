@@ -22,6 +22,7 @@ export default {
     followSystem: '跟随系统',
     theme: '主题',
     themePreset: '主题预设',
+    themeMode: '主题模式',
     dark: '深色',
     light: '亮色',
     themeColor: '主题色',

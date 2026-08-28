@@ -22,6 +22,7 @@ export default {
     followSystem: 'Follow system',
     theme: 'Theme',
     themePreset: 'Theme preset',
+    themeMode: 'Theme mode',
     dark: 'Dark',
     light: 'Light',
     themeColor: 'Accent color',

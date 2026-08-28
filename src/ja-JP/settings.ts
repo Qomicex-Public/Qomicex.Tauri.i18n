@@ -22,6 +22,7 @@ export default {
     followSystem: 'システムに合わせる',
     theme: 'テーマ',
     themePreset: 'テーマプリセット',
+    themeMode: 'テーマモード',
     dark: 'ダーク',
     light: 'ライト',
     themeColor: 'アクセントカラー',

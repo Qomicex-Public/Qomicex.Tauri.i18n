@@ -22,6 +22,7 @@ export default {
     followSystem: 'Как в системе',
     theme: 'Тема',
     themePreset: 'Пресет темы',
+    themeMode: 'Режим темы',
     dark: 'Тёмная',
     light: 'Светлая',
     themeColor: 'Акцентный цвет',
