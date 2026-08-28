@@ -21,6 +21,7 @@ export default {
     language: '介面語言',
     followSystem: '跟隨系統',
     theme: '主題',
+    themePreset: '主題預設',
     dark: '深色',
     light: '亮色',
     themeColor: '主題色',

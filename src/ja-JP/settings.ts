@@ -21,6 +21,7 @@ export default {
     language: '表示言語',
     followSystem: 'システムに合わせる',
     theme: 'テーマ',
+    themePreset: 'テーマプリセット',
     dark: 'ダーク',
     light: 'ライト',
     themeColor: 'アクセントカラー',

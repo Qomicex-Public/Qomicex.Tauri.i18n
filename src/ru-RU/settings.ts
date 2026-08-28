@@ -21,6 +21,7 @@ export default {
     language: 'Язык интерфейса',
     followSystem: 'Как в системе',
     theme: 'Тема',
+    themePreset: 'Пресет темы',
     dark: 'Тёмная',
     light: 'Светлая',
     themeColor: 'Акцентный цвет',
