@@ -287,6 +287,11 @@ export default {
     exportModpack: 'Экспортировать модпак',
     deleteInstance: 'Удалить экземпляр',
     refresh: 'Обновить',
+    remark: 'Примечание',
+    editRemark: 'Изменить примечание',
+    remarkPlaceholder: 'Нажмите, чтобы добавить примечание…',
+    remarkSaved: 'Примечание сохранено',
+    remarkSaveFailed: 'Не удалось сохранить примечание',
   },
   settingsTab: {
     instanceName: 'Название экземпляра',

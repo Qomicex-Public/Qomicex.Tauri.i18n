@@ -159,6 +159,11 @@ export default {
     cacheClearFailed: 'Failed to clear cache',
     curseforgeCacheCleared: 'CurseForge version cache cleared',
     curseforgeCacheClearFailed: 'Failed to clear CurseForge cache',
+    neoforgeCache: 'NeoForge version cache',
+    neoforgeCacheDesc: 'Clear NeoForge version list memory cache',
+    clearNeoforgeCache: 'Clear NeoForge version cache',
+    neoforgeCacheCleared: 'NeoForge version cache cleared ({count} files deleted)',
+    neoforgeCacheClearFailed: 'Failed to clear NeoForge cache',
   },
   network: {
     title: 'Network',

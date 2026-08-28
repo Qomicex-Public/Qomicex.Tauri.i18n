@@ -287,6 +287,11 @@ export default {
     exportModpack: '匯出整合包',
     deleteInstance: '刪除實例',
     refresh: '重新整理',
+    remark: '備註',
+    editRemark: '編輯備註',
+    remarkPlaceholder: '點擊新增備註…',
+    remarkSaved: '備註已儲存',
+    remarkSaveFailed: '儲存備註失敗',
   },
   settingsTab: {
     instanceName: '實例名稱',

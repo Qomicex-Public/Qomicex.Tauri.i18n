@@ -287,6 +287,11 @@ export default {
     exportModpack: 'Export Modpack',
     deleteInstance: 'Delete instance',
     refresh: 'Refresh',
+    remark: 'Remark',
+    editRemark: 'Edit remark',
+    remarkPlaceholder: 'Click to add a remark…',
+    remarkSaved: 'Remark saved',
+    remarkSaveFailed: 'Failed to save remark',
   },
   settingsTab: {
     instanceName: 'Instance name',

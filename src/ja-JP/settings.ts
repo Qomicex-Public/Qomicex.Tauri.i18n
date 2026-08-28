@@ -159,6 +159,11 @@ export default {
     cacheClearFailed: 'キャッシュのクリアに失敗しました',
     curseforgeCacheCleared: 'CurseForge バージョンキャッシュをクリアしました',
     curseforgeCacheClearFailed: 'CurseForge キャッシュのクリアに失敗しました',
+    neoforgeCache: 'NeoForge バージョンキャッシュ',
+    neoforgeCacheDesc: 'NeoForge のバージョン一覧のメモリキャッシュを削除',
+    clearNeoforgeCache: 'NeoForge バージョンキャッシュを削除',
+    neoforgeCacheCleared: 'NeoForge バージョンキャッシュを削除しました（{count} ファイル削除）',
+    neoforgeCacheClearFailed: 'NeoForge キャッシュの削除に失敗しました',
   },
   network: {
     title: 'ネットワーク',

@@ -159,6 +159,11 @@ export default {
     cacheClearFailed: '清理暫存失敗',
     curseforgeCacheCleared: 'CurseForge 版本暫存已清除',
     curseforgeCacheClearFailed: '清除 CurseForge 暫存失敗',
+    neoforgeCache: 'NeoForge 版本暫存',
+    neoforgeCacheDesc: '清除 NeoForge 版本清單的記憶體暫存',
+    clearNeoforgeCache: '清除 NeoForge 版本暫存',
+    neoforgeCacheCleared: 'NeoForge 版本暫存已清除（刪除 {count} 個檔案）',
+    neoforgeCacheClearFailed: '清除 NeoForge 暫存失敗',
   },
   network: {
     title: '網路設定',

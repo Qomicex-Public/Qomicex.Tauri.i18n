@@ -287,6 +287,11 @@ export default {
     exportModpack: 'Modパックをエクスポート',
     deleteInstance: 'インスタンスを削除',
     refresh: '更新',
+    remark: '備考',
+    editRemark: '備考を編集',
+    remarkPlaceholder: 'クリックして備考を追加…',
+    remarkSaved: '備考を保存しました',
+    remarkSaveFailed: '備考の保存に失敗しました',
   },
   settingsTab: {
     instanceName: 'インスタンス名',

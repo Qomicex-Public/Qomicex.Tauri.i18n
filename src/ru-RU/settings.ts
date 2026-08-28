@@ -159,6 +159,11 @@ export default {
     cacheClearFailed: 'Ошибка очистки кэша',
     curseforgeCacheCleared: 'Кэш версий CurseForge очищен',
     curseforgeCacheClearFailed: 'Ошибка очистки кэша CurseForge',
+    neoforgeCache: 'Кэш версий NeoForge',
+    neoforgeCacheDesc: 'Очистить кэш списка версий NeoForge',
+    clearNeoforgeCache: 'Очистить кэш NeoForge',
+    neoforgeCacheCleared: 'Кэш NeoForge очищен (удалено файлов: {count})',
+    neoforgeCacheClearFailed: 'Не удалось очистить кэш NeoForge',
   },
   network: {
     title: 'Сеть',
