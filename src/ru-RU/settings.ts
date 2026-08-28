@@ -211,6 +211,7 @@ export default {
     remainingMemory: 'Осталось: {value} ГиБ',
     jvmArgs: 'Дополнительные аргументы JVM',
     jvmArgsDesc: 'Аргументы JVM, добавляемые при запуске Minecraft',
+    jvmArgsWarning: 'Только для опытных пользователей. Неверные аргументы JVM могут помешать запуску игры.',
     pickJavaExecutable: 'Выберите исполняемый файл Java',
     unrecognizedPath: 'Не удалось распознать среду Java по этому пути',
     added: 'Добавлена: {name} {version}',

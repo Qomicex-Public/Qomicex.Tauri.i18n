@@ -211,6 +211,7 @@ export default {
     remainingMemory: '剩余 {value} GiB',
     jvmArgs: '额外 JVM 参数',
     jvmArgsDesc: '启动 Minecraft 时附加的 JVM 参数',
+    jvmArgsWarning: '非专业玩家请勿修改，错误的 JVM 参数可能导致游戏无法启动',
     pickJavaExecutable: '选择 Java 可执行文件',
     unrecognizedPath: '无法识别该路径下的 Java 运行时',
     added: '已添加 {name} {version}',

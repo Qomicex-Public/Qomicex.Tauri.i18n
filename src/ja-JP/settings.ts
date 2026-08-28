@@ -211,6 +211,7 @@ export default {
     remainingMemory: '残り {value} GiB',
     jvmArgs: '追加の JVM 引数',
     jvmArgsDesc: 'Minecraft 起動時に付加する JVM 引数',
+    jvmArgsWarning: '上級者向け設定です。誤った JVM 引数はゲームが起動できなくなる可能性があります。',
     pickJavaExecutable: 'Java 実行ファイルを選択',
     unrecognizedPath: 'このパスの Java ランタイムを認識できません',
     added: '{name} {version} を追加しました',

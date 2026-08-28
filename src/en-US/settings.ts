@@ -211,6 +211,7 @@ export default {
     remainingMemory: 'Remaining {value} GiB',
     jvmArgs: 'Additional JVM arguments',
     jvmArgsDesc: 'JVM arguments passed when launching Minecraft',
+    jvmArgsWarning: 'For advanced users only. Incorrect JVM arguments may prevent the game from starting.',
     pickJavaExecutable: 'Select Java executable',
     unrecognizedPath: 'Cannot recognize a Java runtime at this path',
     added: 'Added {name} {version}',
