@@ -42,6 +42,7 @@ export default {
     wasmExecute: 'Execute WASM modules',
     pluginInstall: 'Install/Uninstall/Update plugins',
     pluginList: 'Read installed plugin list',
+    pluginLog: 'Write plugin logs (for debugging)',
     resourceRead: 'Read game resource files',
     resourceWrite: 'Write game resource files',
     javaManage: 'Manage Java runtimes',

@@ -42,6 +42,7 @@ export default {
     wasmExecute: '执行 WASM 模块',
     pluginInstall: '安装/卸载/更新插件',
     pluginList: '读取已安装插件列表',
+    pluginLog: '写入插件日志（调试排障用）',
     resourceRead: '读取游戏资源文件',
     resourceWrite: '写入游戏资源文件',
     javaManage: '管理 Java 运行时',

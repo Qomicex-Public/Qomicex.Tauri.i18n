@@ -42,6 +42,7 @@ export default {
     wasmExecute: 'WASM モジュールを実行',
     pluginInstall: 'プラグインをインストール/アンインストール/更新',
     pluginList: 'インストール済みプラグインリストを読み取り',
+    pluginLog: 'プラグインのログを書き込む（デバッグ用）',
     resourceRead: 'ゲームリソースファイルを読み取り',
     resourceWrite: 'ゲームリソースファイルに書き込み',
     javaManage: 'Java ランタイムを管理',
