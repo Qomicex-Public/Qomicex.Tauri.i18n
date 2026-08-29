@@ -259,6 +259,7 @@ export default {
     uninstallFailed: '卸载失败',
     installSuccess: '插件安装成功',
     installFailed: '安装失败: {message}',
+    unsigndInstallConfirm: '该插件包未签名或签名无效（{message}），无法验证来源。仍要无视风险继续安装吗？',
     permissions: '权限 ({count})',
     contributes: '扩展点',
     store: {

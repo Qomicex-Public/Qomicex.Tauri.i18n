@@ -259,6 +259,7 @@ export default {
     uninstallFailed: 'Failed to uninstall',
     installSuccess: 'Plugin installed successfully',
     installFailed: 'Install failed: {message}',
+    unsigndInstallConfirm: 'This plugin package is unsigned or has an invalid signature ({message}) and its source cannot be verified. Install anyway at your own risk?',
     permissions: 'Permissions ({count})',
     contributes: 'Contributes',
     store: {
