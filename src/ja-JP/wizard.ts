@@ -59,6 +59,9 @@ export default {
   javaVersion21: 'Java 21',
   javaReady: '必要なすべてのバージョンが準備完了です',
   javaRequired: '必要なすべてのバージョンが準備できると続行できます',
+  javaSkip: 'スキップ',
+  javaSkipConfirmTitle: 'Java 設定をスキップ',
+  javaSkipConfirm: 'Java 環境が不完全なため、一部のゲームバージョンが起動できない可能性があります。スキップしますか？',
   // メモリ
   memoryTitle: 'メモリを割り当て',
   memoryDesc: '自動割り当てを推奨します',

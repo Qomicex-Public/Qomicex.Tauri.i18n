@@ -59,6 +59,9 @@ export default {
   javaVersion21: 'Java 21',
   javaReady: 'All required versions are ready',
   javaRequired: 'Continue once all required versions are ready',
+  javaSkip: 'Skip',
+  javaSkipConfirmTitle: 'Skip Java Setup',
+  javaSkipConfirm: 'The Java environment is incomplete, so some game versions may fail to launch. Skip anyway?',
   // Memory
   memoryTitle: 'Allocate memory',
   memoryDesc: 'Auto allocation is recommended',

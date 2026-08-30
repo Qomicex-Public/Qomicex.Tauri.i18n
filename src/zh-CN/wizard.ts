@@ -59,6 +59,9 @@ export default {
   javaVersion21: 'Java 21',
   javaReady: '所有必需版本已就绪',
   javaRequired: '所有必需版本就绪后即可继续',
+  javaSkip: '跳过',
+  javaSkipConfirmTitle: '跳过 Java 检测',
+  javaSkipConfirm: 'Java 环境不完整，部分游戏版本可能无法启动。确定要跳过吗？',
   // 内存
   memoryTitle: '分配内存',
   memoryDesc: '建议使用自动分配',
