@@ -54,5 +54,6 @@ export default {
     shellExecute: '執行系統指令',
     filesystemRead: '讀取檔案系統',
     filesystemWrite: '寫入檔案系統',
+    hookRegister: '鉤住啟動器方法（修改參數/結果、阻止執行）',
   },
 } as const

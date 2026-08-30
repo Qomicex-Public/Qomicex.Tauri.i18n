@@ -54,5 +54,6 @@ export default {
     shellExecute: 'Execute system commands',
     filesystemRead: 'Read filesystem',
     filesystemWrite: 'Write filesystem',
+    hookRegister: 'Intercept launcher methods (modify args/result, prevent execution)',
   },
 } as const

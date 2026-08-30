@@ -54,5 +54,6 @@ export default {
     shellExecute: 'システムコマンドを実行',
     filesystemRead: 'ファイルシステムを読み取り',
     filesystemWrite: 'ファイルシステムに書き込み',
+    hookRegister: 'ランチャーのメソッドをフックする（引数・結果の変更、実行の阻止）',
   },
 } as const
