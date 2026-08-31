@@ -16,6 +16,11 @@ export default {
     'parsing-modpack': 'Modパックを解析',
     'modpack-files': 'Modパックファイルをダウンロード',
     'modpack-overrides': '上書きファイルを解凍',
+    'installing-game': 'ゲームとローダーをインストール',
+    'building-version': 'コンポーネントパッチをマージ',
+    'downloading-game': 'ゲームファイルをダウンロード',
+    'copying-files': 'インスタンス内容をコピー',
+    'finishing': '仕上げ',
   },
   // ダイアログ／カード共通の文言
   common: {
@@ -108,6 +113,11 @@ export default {
     backgroundDownload: 'バックグラウンドでダウンロード',
     parseFailed: '解析に失敗しました',
     installFailed: 'インストールに失敗しました',
+    chooseFolder: 'フォルダを選択',
+    folderHint: 'MultiMC インスタンスフォルダ（instance.cfg / mmc-pack.json を含む）を選択、または zip をアップロード',
+    dropHint: 'ファイルをドロップ、またはクリックして選択',
+    dropSubHint: 'MultiMC 整合パック/インスタンス（フォルダ含む）、CurseForge、Modrinth、Qomicex に対応',
+    folderDropUnsupported: 'ブラウザ環境ではフォルダのドロップはサポートされていません。「フォルダを選択」ボタンを使用してください。',
   },
   // Modパックのインストール（オンライン）
   modpackInstall: {
@@ -128,6 +138,13 @@ export default {
     backgroundDownload: 'バックグラウンドでダウンロード',
     cancelled: 'キャンセル済み',
     installFailed: 'インストールに失敗しました',
+
+
+
+
+
+
+
   },
   // Modパックのエクスポート
   modpackExport: {

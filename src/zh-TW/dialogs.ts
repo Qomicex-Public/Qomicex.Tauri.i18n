@@ -16,6 +16,11 @@ export default {
     'parsing-modpack': '解析整合包',
     'modpack-files': '下載整合包檔案',
     'modpack-overrides': '解壓覆寫檔案',
+    'installing-game': '安裝遊戲與載入器',
+    'building-version': '合併元件修補程式',
+    'downloading-game': '下載遊戲檔案',
+    'copying-files': '複製實例內容',
+    'finishing': '收尾',
   },
   // 跨彈窗/卡片通用文案
   common: {
@@ -108,6 +113,11 @@ export default {
     backgroundDownload: '背景下載',
     parseFailed: '解析失敗',
     installFailed: '安裝失敗',
+    chooseFolder: '選擇資料夾',
+    folderHint: '選擇 MultiMC 實例目錄（需含 instance.cfg / mmc-pack.json），或上傳其打包 zip',
+    dropHint: '拖入檔案，或點擊選擇',
+    dropSubHint: '支援 MultiMC 整合包/實例（含資料夾）、CurseForge、Modrinth、Qomicex',
+    folderDropUnsupported: '瀏覽器環境不支援拖入資料夾，請使用「選擇資料夾」按鈕',
   },
   // 安裝整合包（線上）
   modpackInstall: {
@@ -128,6 +138,13 @@ export default {
     backgroundDownload: '背景下載',
     cancelled: '已取消',
     installFailed: '安裝失敗',
+
+
+
+
+
+
+
   },
   // 匯出整合包
   modpackExport: {

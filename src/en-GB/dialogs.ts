@@ -16,6 +16,11 @@ export default {
     'parsing-modpack': 'Parsing modpack',
     'modpack-files': 'Downloading modpack files',
     'modpack-overrides': 'Extracting override files',
+    'installing-game': 'Installing game and loader',
+    'building-version': 'Merging component patches',
+    'downloading-game': 'Downloading game files',
+    'copying-files': 'Copying instance content',
+    'finishing': 'Finalizing',
   },
   // Shared strings across dialogs / cards
   common: {
@@ -108,6 +113,11 @@ export default {
     backgroundDownload: 'Download in Background',
     parseFailed: 'Parse failed',
     installFailed: 'Install failed',
+    chooseFolder: 'Choose Folder',
+    folderHint: 'Pick a MultiMC instance folder (with instance.cfg / mmc-pack.json), or upload its packaged zip',
+    dropHint: 'Drop a file, or click to select',
+    dropSubHint: 'Supports MultiMC modpacks/instances (incl. folders), CurseForge, Modrinth, Qomicex',
+    folderDropUnsupported: 'Folder drop is not supported in the browser. Use the "Choose Folder" button instead.',
   },
   // Install modpack (online)
   modpackInstall: {
@@ -128,6 +138,13 @@ export default {
     backgroundDownload: 'Download in Background',
     cancelled: 'Cancelled',
     installFailed: 'Install failed',
+
+
+
+
+
+
+
   },
   // Export modpack
   modpackExport: {

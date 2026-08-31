@@ -16,6 +16,11 @@ export default {
     'parsing-modpack': 'Разбор модпака',
     'modpack-files': 'Загрузка файлов модпака',
     'modpack-overrides': 'Распаковка файлов замены',
+    'installing-game': 'Установка игры и загрузчика',
+    'building-version': 'Объединение патчей',
+    'downloading-game': 'Загрузка игровых файлов',
+    'copying-files': 'Копирование содержимого',
+    'finishing': 'Завершение',
   },
   // Общие тексты для всех диалогов/карточек
   common: {
@@ -108,6 +113,11 @@ export default {
     backgroundDownload: 'Загрузка в фоне',
     parseFailed: 'Ошибка разбора',
     installFailed: 'Ошибка установки',
+    chooseFolder: 'Выбрать папку',
+    folderHint: 'Выберите папку экземпляра MultiMC (с instance.cfg / mmc-pack.json) или загрузите zip',
+    dropHint: 'Перетащите файл или нажмите для выбора',
+    dropSubHint: 'Поддерживаются модпаки MultiMC (вкл. папки), CurseForge, Modrinth, Qomicex',
+    folderDropUnsupported: 'Перетаскивание папки не поддерживается в браузере. Используйте кнопку «Выбрать папку».',
   },
   // Установка модпака (онлайн)
   modpackInstall: {
@@ -128,6 +138,13 @@ export default {
     backgroundDownload: 'Загрузка в фоне',
     cancelled: 'Отменено',
     installFailed: 'Ошибка установки',
+
+
+
+
+
+
+
   },
   // Экспорт модпака
   modpackExport: {
