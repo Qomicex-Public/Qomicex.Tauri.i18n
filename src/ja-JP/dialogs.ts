@@ -352,4 +352,99 @@ export default {
 - 本ソフトウェアには Minecraft ゲーム本体は含まれていません。ゲームリソースの著作権は各所有者に帰属します。
 - 本ソフトウェアを使用することで、《利用規約》と《プライバシーポリシー》を読了し同意したものとみなされます。`,
   },
+  // Privacy policy dialog
+  privacy: {
+    title: 'プライバシーポリシー',
+    content: `**Last Updated: September 2026**
+
+Qomicex Launcher (hereinafter referred to as "this software") is developed and maintained by the Qomicex team. We value your privacy protection. This policy aims to help you understand how we collect, use, and protect your information.
+
+## 1. Legal Disclaimer
+
+- This software has no affiliation, partnership, or endorsement with **Mojang Studios / Microsoft** or their products.
+- **Minecraft** and related names, logos, and copyrights belong to **Mojang Studios / Microsoft**.
+- This software does not include the Minecraft game itself; game resources belong to their respective owners.
+- By using this software, you agree to the *User Agreement* and this *Privacy Policy*.
+
+## 2. Data Collection Scope
+
+This software may collect the following information:
+
+| Data Type | Description | Purpose | Anonymous |
+|-----------|-------------|---------|-----------|
+| Microsoft account credentials | Used for Minecraft authentication (Microsoft login only) | Identity verification | No (stored locally) |
+| Plugin error telemetry | Plugin ID, version, error type | Improve plugin ecosystem | Yes |
+| Crash reports | Error stack trace, device info (OS, CPU, RAM) | Diagnostics and fixes | No (contains device info) |
+| Crash logs | Minecraft crash logs, game logs | Problem diagnosis | No (contains path info) |
+| Launcher version | Current version number | Update check | Yes |
+| License information | Hardware fingerprint + license token | License verification | No (license-required builds only) |
+
+## 3. Data Usage
+
+- **Account credentials**: Used only for Microsoft/Minecraft authentication, never transmitted to third parties
+- **Error telemetry**: Used to improve plugin ecosystem stability, completely anonymous, no personal identity information
+- **Crash reports**: Used to diagnose and fix software issues, sent with your consent or on critical errors
+- **Crash log sharing**: When you trigger crash analysis, crash logs are automatically uploaded to mclo.gs (third-party service) to generate shareable links
+- **Version information**: Used only for checking software updates
+- **License information**: Used only to verify software authorization (license-required builds only)
+
+## 4. Data Storage and Retention
+
+- **Account data**: Stored on your local device, can be deleted when uninstalling
+- **Crash reports**: Retained for 90 days, then automatically deleted
+- **Telemetry data**: Retained for 365 days, then automatically anonymized
+- **License information**: Retained for the duration of the license validity
+
+## 5. Data Security
+
+- We employ industry-standard security measures to protect your data
+- Data transmission uses HTTPS encryption
+- Locally stored sensitive data (such as tokens) is encrypted
+- We do not sell, trade, or otherwise transfer your personal data to third parties
+
+## 6. Third-Party Services
+
+This software interacts with the following third-party services:
+
+| Service | Purpose | Data Transfer | Privacy Policy |
+|---------|---------|---------------|----------------|
+| Microsoft | Account authentication | OAuth tokens | https://privacy.microsoft.com |
+| mclo.gs | Crash log sharing | Crash log content | https://mclo.gs/privacy |
+| api.qomicex.top | Update check, error reports | Version info, crash reports | This policy applies |
+| plugins.qomicex.top | Plugin store | Plugin queries, install records | This policy applies |
+
+## 7. Cookies and Local Storage
+
+- This software uses LocalStorage to save user preference settings
+- This software does not use browser cookies
+- Locally stored data is not accessible by third parties
+
+## 8. Cross-Border Data Transfer
+
+- This software primarily operates within China
+- Crash log sharing service (mclo.gs) may involve cross-border data transfer
+- Using third-party services indicates your consent to such data transfers
+
+## 9. Your Rights
+
+- **Right of Access**: You may view locally stored account data at any time
+- **Right of Deletion**: You may delete locally stored account data at any time
+- **Right of Control**: You may enable/disable automatic error reporting and plugin error telemetry in Settings
+- **Right to Withdraw Consent**: You may withdraw consent to this Privacy Policy at any time
+
+## 10. Protection of Minors
+
+This software does not collect personal information from children under 14. If you are a minor, please use this software under parental guidance.
+
+## 11. Policy Updates
+
+We may update this Privacy Policy from time to time. Updated policies will be announced within this software. For significant changes, we will notify you within the software.
+
+## 12. Contact Us
+
+For privacy-related questions, please contact us at:
+
+- Website: https://www.qomicex.top
+- Email: support@qomicex.top`,
+  },
 } as const
