@@ -11,4 +11,17 @@ export default {
   launch: 'Запуск',
   noPinnedInstance: 'Ещё нет закреплённых экземпляров',
   goToInstances: 'Перейти к экземплярам',
+  editLayout: 'Изменить макет',
+  editMode: 'Режим редактирования: перетаскивайте для размещения, тяните правый нижний угол для изменения размера',
+  addWidget: 'Добавить виджет',
+  resetLayout: 'Сбросить макет',
+  allWidgetsVisible: 'Все виджеты отображаются',
+  done: 'Готово',
+  widget: {
+    watermark: 'Водяной знак',
+    account: 'Аккаунт',
+    instance: 'Экземпляр по умолчанию',
+    launch: 'Запуск',
+    announcements: 'Объявления',
+  },
 } as const

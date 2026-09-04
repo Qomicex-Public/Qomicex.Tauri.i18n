@@ -11,4 +11,17 @@ export default {
   launch: 'Launch',
   noPinnedInstance: 'No pinned instance',
   goToInstances: 'Go to instances',
+  editLayout: 'Edit layout',
+  editMode: 'Edit mode: drag to arrange, drag bottom-right corner to resize',
+  addWidget: 'Add widget',
+  resetLayout: 'Reset layout',
+  allWidgetsVisible: 'All widgets are visible',
+  done: 'Done',
+  widget: {
+    watermark: 'Watermark',
+    account: 'Account',
+    instance: 'Default instance',
+    launch: 'Launch',
+    announcements: 'Announcements',
+  },
 } as const

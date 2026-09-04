@@ -11,4 +11,17 @@ export default {
   launch: '起動',
   noPinnedInstance: '固定されたインスタンスはまだありません',
   goToInstances: 'インスタンス管理へ',
+  editLayout: 'レイアウトを編集',
+  editMode: '編集モード：ドラッグで配置、右下をドラッグでサイズ変更',
+  addWidget: 'ウィジェットを追加',
+  resetLayout: 'レイアウトをリセット',
+  allWidgetsVisible: 'すべてのウィジェットが表示されています',
+  done: '完了',
+  widget: {
+    watermark: 'ウォーターマーク',
+    account: 'アカウント',
+    instance: '既定インスタンス',
+    launch: '起動',
+    announcements: 'お知らせ',
+  },
 } as const

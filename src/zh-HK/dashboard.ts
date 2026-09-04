@@ -11,4 +11,17 @@ export default {
   launch: '啟動',
   noPinnedInstance: '尚未固定實例',
   goToInstances: '前往實例管理',
+  editLayout: '編輯佈局',
+  editMode: '編輯模式：拖動排列組件，拖動右下角調整大小',
+  addWidget: '新增組件',
+  resetLayout: '恢復預設佈局',
+  allWidgetsVisible: '所有組件均已顯示',
+  done: '完成',
+  widget: {
+    watermark: '浮水印',
+    account: '帳戶',
+    instance: '預設實例',
+    launch: '啟動',
+    announcements: '公告',
+  },
 } as const
