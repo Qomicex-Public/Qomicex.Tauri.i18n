@@ -389,6 +389,7 @@ export default {
     refVersionCheck: 'バージョン検出の参考',
     refModloaderInstaller: 'ModLoader インストーラーの参考',
     refLaunchFlow: '起動フローの参考',
+    refModCnData: 'Mod日本語名データファイルの提供元',
     depBackendRuntime: 'Rust バックエンドランタイム',
     depCoreLibraries: 'コアライブラリ',
     depCoreFramework: 'コアフレームワーク',

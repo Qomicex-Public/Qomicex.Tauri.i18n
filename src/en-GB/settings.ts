@@ -389,6 +389,7 @@ export default {
     refVersionCheck: 'Version detection reference',
     refModloaderInstaller: 'ModLoader installer reference',
     refLaunchFlow: 'Launch flow reference',
+    refModCnData: 'Source of mod Chinese-name data files',
     depBackendRuntime: 'Rust backend runtime',
     depCoreLibraries: 'Core libraries',
     depCoreFramework: 'Core framework',

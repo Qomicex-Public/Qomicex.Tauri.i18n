@@ -389,6 +389,7 @@ export default {
     refVersionCheck: '版本偵測參考',
     refModloaderInstaller: 'ModLoader 安裝器參考',
     refLaunchFlow: '啟動流程參考',
+    refModCnData: '模組中文名稱資料檔案來源',
     depBackendRuntime: 'Rust 後端執行環境',
     depCoreLibraries: '核心程式庫',
     depCoreFramework: '核心框架',
