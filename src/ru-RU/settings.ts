@@ -268,6 +268,8 @@ export default {
       tabBrowse: 'Обзор',
       tabManage: 'Мои плагины',
       tabAccount: 'Аккаунт',
+      tabSettings: 'Настройки плагинов',
+      tabSettingsEmpty: 'Плагины не предоставляют страниц настроек',
       searchPlaceholder: 'Поиск в магазине...',
       categoryAll: 'Все',
       categoryTool: 'Инструменты',

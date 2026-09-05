@@ -268,6 +268,8 @@ export default {
       tabBrowse: '瀏覽插件',
       tabManage: '外掛管理',
       tabAccount: '帳戶管理',
+      tabSettings: '插件設定',
+      tabSettingsEmpty: '尚無插件提供設定頁面',
       searchPlaceholder: '搜尋商店插件...',
       categoryAll: '全部',
       categoryTool: '工具',

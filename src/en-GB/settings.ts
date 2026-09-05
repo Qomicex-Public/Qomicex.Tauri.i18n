@@ -268,6 +268,8 @@ export default {
       tabBrowse: 'Browse',
       tabManage: 'My plugins',
       tabAccount: 'Account',
+      tabSettings: 'Plugin Settings',
+      tabSettingsEmpty: 'No plugins provide settings pages',
       searchPlaceholder: 'Search store plugins...',
       categoryAll: 'All',
       categoryTool: 'Tools',

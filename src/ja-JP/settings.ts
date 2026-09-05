@@ -268,6 +268,8 @@ export default {
       tabBrowse: 'プラグインを探す',
       tabManage: 'プラグイン管理',
       tabAccount: 'アカウント',
+      tabSettings: 'プラグイン設定',
+      tabSettingsEmpty: '設定ページを提供するプラグインはありません',
       searchPlaceholder: 'ストアのプラグインを検索...',
       categoryAll: 'すべて',
       categoryTool: 'ツール',
