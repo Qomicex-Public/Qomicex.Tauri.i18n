@@ -45,7 +45,7 @@ export default {
   pingFailed: '測定に失敗しました',
   // Java
   javaTitle: 'Java ランタイムを設定',
-  javaDesc: 'Java 8 / 17 / 21 の3つのランタイムが必要です。不足するバージョンはオンラインでダウンロードできます',
+  javaDesc: 'Java 8 / 17 / 21 / 25 の4つのランタイムが必要です。不足するバージョンはオンラインでダウンロードできます',
   javaScanning: 'Java ランタイムをディープスキャン中...',
   javaScanAgain: '再スキャン',
   javaFound: '見つかりました',
@@ -57,6 +57,7 @@ export default {
   javaVersion8: 'Java 8',
   javaVersion17: 'Java 17',
   javaVersion21: 'Java 21',
+  javaVersion25: 'Java 25',
   javaReady: '必要なすべてのバージョンが準備完了です',
   javaRequired: '必要なすべてのバージョンが準備できると続行できます',
   javaSkip: 'スキップ',

@@ -45,7 +45,7 @@ export default {
   pingFailed: '測速失敗',
   // Java
   javaTitle: '設定 Java 執行環境',
-  javaDesc: '需要 Java 8 / 17 / 21 三個執行環境，缺失的版本可線上安裝',
+  javaDesc: '需要 Java 8 / 17 / 21 / 25 四個執行環境，缺失的版本可線上安裝',
   javaScanning: '正在深度掃描 Java 執行環境...',
   javaScanAgain: '重新掃描',
   javaFound: '已找到',
@@ -57,6 +57,7 @@ export default {
   javaVersion8: 'Java 8',
   javaVersion17: 'Java 17',
   javaVersion21: 'Java 21',
+  javaVersion25: 'Java 25',
   javaReady: '所有必需版本已就緒',
   javaRequired: '所有必需版本就緒後即可繼續',
   javaSkip: '跳過',

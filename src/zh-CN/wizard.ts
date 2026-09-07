@@ -45,7 +45,7 @@ export default {
   pingFailed: '测速失败',
   // Java
   javaTitle: '配置 Java 运行时',
-  javaDesc: '需要 Java 8 / 17 / 21 三个运行时，缺失的版本可在线下载',
+  javaDesc: '需要 Java 8 / 17 / 21 / 25 四个运行时，缺失的版本可在线下载',
   javaScanning: '正在深度扫描 Java 运行时...',
   javaScanAgain: '重新扫描',
   javaFound: '已找到',
@@ -57,6 +57,7 @@ export default {
   javaVersion8: 'Java 8',
   javaVersion17: 'Java 17',
   javaVersion21: 'Java 21',
+  javaVersion25: 'Java 25',
   javaReady: '所有必需版本已就绪',
   javaRequired: '所有必需版本就绪后即可继续',
   javaSkip: '跳过',

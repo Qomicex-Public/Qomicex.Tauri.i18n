@@ -45,7 +45,7 @@ export default {
   pingFailed: 'Ping failed',
   // Java
   javaTitle: 'Set up Java runtime',
-  javaDesc: 'Java 8 / 17 / 21 are required. Missing versions can be downloaded online',
+  javaDesc: 'Java 8 / 17 / 21 / 25 are required. Missing versions can be downloaded online',
   javaScanning: 'Deep-scanning for Java runtimes...',
   javaScanAgain: 'Rescan',
   javaFound: 'Found',
@@ -57,6 +57,7 @@ export default {
   javaVersion8: 'Java 8',
   javaVersion17: 'Java 17',
   javaVersion21: 'Java 21',
+  javaVersion25: 'Java 25',
   javaReady: 'All required versions are ready',
   javaRequired: 'Continue once all required versions are ready',
   javaSkip: 'Skip',

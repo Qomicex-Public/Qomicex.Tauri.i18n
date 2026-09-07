@@ -45,7 +45,7 @@ export default {
   pingFailed: 'Ошибка замера',
   // Java
   javaTitle: 'Настройка среды выполнения Java',
-  javaDesc: 'Нужны три среды: Java 8 / 17 / 21; отсутствующие версии можно скачать онлайн',
+  javaDesc: 'Нужны четыре среды: Java 8 / 17 / 21 / 25; отсутствующие версии можно скачать онлайн',
   javaScanning: 'Глубокое сканирование сред выполнения Java…',
   javaScanAgain: 'Сканировать заново',
   javaFound: 'Найдено',
@@ -57,6 +57,7 @@ export default {
   javaVersion8: 'Java 8',
   javaVersion17: 'Java 17',
   javaVersion21: 'Java 21',
+  javaVersion25: 'Java 25',
   javaReady: 'Все необходимые версии готовы',
   javaRequired: 'Продолжить можно после того, как будут готовы все необходимые версии',
   javaSkip: 'Пропустить',
