@@ -58,6 +58,7 @@ export default {
     title: 'Launch Game',
     titleFailed: 'Launch Failed',
     stage: {
+      java: 'Java environment',
       starting: 'Preparing',
       checking: 'Checking file integrity',
       repairing: 'Repairing files',

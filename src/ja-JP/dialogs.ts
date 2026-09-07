@@ -58,6 +58,7 @@ export default {
     title: 'ゲームを起動',
     titleFailed: '起動に失敗しました',
     stage: {
+      java: 'Java 環境',
       starting: '準備中',
       checking: 'ファイルの整合性を確認',
       repairing: 'ファイルを補完',

@@ -58,6 +58,7 @@ export default {
     title: '启动游戏',
     titleFailed: '启动失败',
     stage: {
+      java: 'Java 环境',
       starting: '准备中',
       checking: '检查文件完整性',
       repairing: '补全文件',

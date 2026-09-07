@@ -58,6 +58,7 @@ export default {
     title: 'Запуск игры',
     titleFailed: 'Ошибка запуска',
     stage: {
+      java: 'Среда Java',
       starting: 'Подготовка',
       checking: 'Проверка целостности файлов',
       repairing: 'Дозаполнение файлов',
