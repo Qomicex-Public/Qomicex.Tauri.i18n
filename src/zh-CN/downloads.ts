@@ -35,6 +35,7 @@ export default {
     'installing-game': '安装游戏与加载器',
     'building-version': '合并组件补丁',
     'downloading-game': '下载游戏文件',
+    'extracting-modpack': '解压整合包',
     'copying-files': '拷贝实例内容',
   },
   steps: {
@@ -53,6 +54,7 @@ export default {
     'download-main': '下载资源本体',
     overrides: '释放覆盖文件',
     'install-game': '安装游戏与加载器',
+    extract: '解压整合包文件',
     'copy-files': '拷贝实例内容',
   },
   speedLabel: '下载速度',

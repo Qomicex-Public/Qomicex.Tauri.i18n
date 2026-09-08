@@ -35,6 +35,7 @@ export default {
     'installing-game': 'Installing game and loader',
     'building-version': 'Merging component patches',
     'downloading-game': 'Downloading game files',
+    'extracting-modpack': 'Extracting modpack',
     'copying-files': 'Copying instance content',
   },
   steps: {
@@ -53,6 +54,7 @@ export default {
     'download-main': 'Download main file',
     overrides: 'Extract overrides',
     'install-game': 'Installing game and loader',
+    extract: 'Extract modpack files',
     'copy-files': 'Copying instance content',
   },
   speedLabel: 'Download speed',

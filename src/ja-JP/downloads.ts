@@ -35,6 +35,7 @@ export default {
     'installing-game': 'ゲームとローダーをインストール',
     'building-version': 'コンポーネントパッチをマージ',
     'downloading-game': 'ゲームファイルをダウンロード',
+    'extracting-modpack': 'モッドパックを展開中',
     'copying-files': 'インスタンス内容をコピー',
   },
   steps: {
@@ -53,6 +54,7 @@ export default {
     'download-main': '本体をダウンロード',
     overrides: '上書きファイルを展開',
     'install-game': 'ゲームとローダーをインストール',
+    extract: 'モッドパックのファイルを展開',
     'copy-files': 'インスタンス内容をコピー',
   },
   speedLabel: 'ダウンロード速度',

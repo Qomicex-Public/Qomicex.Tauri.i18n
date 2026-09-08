@@ -35,6 +35,7 @@ export default {
     'installing-game': 'Установка игры и загрузчика',
     'building-version': 'Объединение патчей',
     'downloading-game': 'Загрузка игровых файлов',
+    'extracting-modpack': 'Распаковка сборки',
     'copying-files': 'Копирование содержимого',
   },
   steps: {
@@ -53,6 +54,7 @@ export default {
     'download-main': 'Скачать основной файл',
     overrides: 'Распаковать файлы замены',
     'install-game': 'Установка игры и загрузчика',
+    extract: 'Распаковка файлов сборки',
     'copy-files': 'Копирование содержимого',
   },
   speedLabel: 'Скорость загрузки',
