@@ -47,7 +47,9 @@ export default {
   deleteSelected: 'Delete {count}',
   addTitle: 'Add Account',
   tabOffline: 'Offline',
-  tabUnified: 'Unified',
+  tabUnified: 'Unified Pass',
+  officialRequired: 'In the current language, you must sign in to at least one Microsoft account before adding an offline or third-party account.',
+  goOfficial: 'Sign in with Microsoft',
   offline: {
     playerName: 'Player name',
     playerNamePlaceholder: 'Enter offline username',

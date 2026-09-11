@@ -47,7 +47,9 @@ export default {
   deleteSelected: '刪除 {count}',
   addTitle: '新增帳號',
   tabOffline: '離線',
-  tabUnified: '統一通',
+  tabUnified: '統一通行證',
+  officialRequired: '目前語言下，需先登入至少 1 個 Microsoft 正版帳號後才能新增離線或第三方帳號。',
+  goOfficial: '前往登入 Microsoft',
   offline: {
     playerName: '玩家名稱',
     playerNamePlaceholder: '輸入離線模式使用者名稱',

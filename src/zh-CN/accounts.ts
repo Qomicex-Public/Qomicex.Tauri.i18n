@@ -47,7 +47,9 @@ export default {
   deleteSelected: '删除 {count}',
   addTitle: '添加账户',
   tabOffline: '离线',
-  tabUnified: '统一通',
+  tabUnified: '统一通行证',
+  officialRequired: '当前语言下，需先登录至少 1 个 Microsoft 正版账户后才能添加离线或第三方账户。',
+  goOfficial: '去登录 Microsoft',
   offline: {
     playerName: '玩家名称',
     playerNamePlaceholder: '输入离线模式用户名',

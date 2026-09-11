@@ -48,6 +48,8 @@ export default {
   addTitle: 'Добавить аккаунт',
   tabOffline: 'Офлайн',
   tabUnified: 'Единый пропуск',
+  officialRequired: 'В текущем языке необходимо войти хотя бы в одну учётную запись Microsoft, прежде чем добавлять офлайн- или сторонний аккаунт.',
+  goOfficial: 'Войти через Microsoft',
   offline: {
     playerName: 'Имя игрока',
     playerNamePlaceholder: 'Введите имя пользователя в офлайне',

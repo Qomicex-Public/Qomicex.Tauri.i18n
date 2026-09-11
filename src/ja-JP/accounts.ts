@@ -48,6 +48,8 @@ export default {
   addTitle: 'アカウントを追加',
   tabOffline: 'オフライン',
   tabUnified: '統一パスポート',
+  officialRequired: '現在の言語では、オフラインまたはサードパーティのアカウントを追加する前に、少なくとも 1 つの Microsoft アカウントでサインインする必要があります。',
+  goOfficial: 'Microsoft でサインイン',
   offline: {
     playerName: 'プレイヤー名',
     playerNamePlaceholder: 'オフラインモードのユーザー名を入力',
