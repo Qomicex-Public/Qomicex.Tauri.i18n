@@ -49,6 +49,8 @@ export default {
     cardBorderColorDesc: 'Border color of category cards under the default material',
     cardBorderWidth: 'Card border width',
     cardBorderWidthDesc: 'Border thickness of category cards under the default material (0 = none)',
+    dialogOpacity: 'Dialog opacity',
+    dialogOpacityDesc: 'Background opacity of dialogs, independent of the component material',
     borderNone: 'None',
     borderThick: 'Thick',
     animations: 'Page animations',

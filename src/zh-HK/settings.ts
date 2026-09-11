@@ -49,6 +49,8 @@ export default {
     cardBorderColorDesc: '預設材質下分類卡片的邊框顏色',
     cardBorderWidth: '卡片邊框粗細',
     cardBorderWidthDesc: '預設材質下分類卡片的邊框粗細（0 為無邊框）',
+    dialogOpacity: '對話框透明度',
+    dialogOpacityDesc: '對話框背景的不透明度，獨立於組件材質',
     borderNone: '無邊框',
     borderThick: '加粗',
     animations: '頁面動畫',

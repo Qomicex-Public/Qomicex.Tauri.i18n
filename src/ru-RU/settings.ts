@@ -49,6 +49,8 @@ export default {
     cardBorderColorDesc: 'Цвет рамки карточек категорий для материала по умолчанию',
     cardBorderWidth: 'Толщина рамки карточек',
     cardBorderWidthDesc: 'Толщина рамки карточек категорий для материала по умолчанию (0 = без рамки)',
+    dialogOpacity: 'Непрозрачность диалога',
+    dialogOpacityDesc: 'Непрозрачность фона диалогов, независимо от материала компонентов',
     borderNone: 'Нет',
     borderThick: 'Толстая',
     animations: 'Анимации страниц',

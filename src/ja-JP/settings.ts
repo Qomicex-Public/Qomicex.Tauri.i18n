@@ -49,6 +49,8 @@ export default {
     cardBorderColorDesc: 'デフォルト素材でのカテゴリカードの枠線の色',
     cardBorderWidth: 'カードの枠線の太さ',
     cardBorderWidthDesc: 'デフォルト素材でのカテゴリカードの枠線の太さ（0 で枠線なし）',
+    dialogOpacity: 'ダイアログの不透明度',
+    dialogOpacityDesc: 'ダイアログ背景の不透明度（コンポーネント素材とは独立）',
     borderNone: 'なし',
     borderThick: '太く',
     animations: 'ページアニメーション',
