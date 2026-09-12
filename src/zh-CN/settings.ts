@@ -440,5 +440,9 @@ export default {
     depAnimation: '动画',
     depRendering: '渲染与展示',
     depInHouse: '自研',
+    sponsors: '鸣谢赞助者',
+    sponsorsEmpty: '暂时还没有赞助者',
+    sponsorsFailed: '赞助者列表加载失败',
+    sponsorsAmount: '累计 {amount}',
   },
 } as const

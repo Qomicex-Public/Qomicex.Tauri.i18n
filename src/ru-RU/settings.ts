@@ -441,5 +441,9 @@ export default {
     depAnimation: 'Анимации',
     depRendering: 'Отрисовка и отображение',
     depInHouse: 'Собственная разработка',
+    sponsors: 'Спонсоры',
+    sponsorsEmpty: 'Пока нет спонсоров',
+    sponsorsFailed: 'Не удалось загрузить список спонсоров',
+    sponsorsAmount: 'Всего {amount}',
   },
 } as const

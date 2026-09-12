@@ -441,5 +441,9 @@ export default {
     depAnimation: '動畫',
     depRendering: '渲染與展示',
     depInHouse: '自研',
+    sponsors: '鳴謝贊助者',
+    sponsorsEmpty: '暫時還沒有贊助者',
+    sponsorsFailed: '贊助者列表載入失敗',
+    sponsorsAmount: '累計 {amount}',
   },
 } as const

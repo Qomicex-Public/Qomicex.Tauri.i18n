@@ -441,5 +441,9 @@ export default {
     depAnimation: 'アニメーション',
     depRendering: 'レンダリングと表示',
     depInHouse: '自社開発',
+    sponsors: 'スポンサー',
+    sponsorsEmpty: 'まだスポンサーはいません',
+    sponsorsFailed: 'スポンサー一覧の読み込みに失敗しました',
+    sponsorsAmount: '累計 {amount}',
   },
 } as const

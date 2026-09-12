@@ -440,5 +440,9 @@ export default {
     depAnimation: 'Animation',
     depRendering: 'Rendering & display',
     depInHouse: 'In-house',
+    sponsors: 'Sponsors',
+    sponsorsEmpty: 'No sponsors yet',
+    sponsorsFailed: 'Failed to load sponsors',
+    sponsorsAmount: 'Total {amount}',
   },
 } as const
