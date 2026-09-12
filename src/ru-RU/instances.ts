@@ -127,5 +127,10 @@ export default {
   unpin: 'Открепить',
   pinToHome: 'Закрепить на главной',
   openFolder: 'Открыть папку',
+  launchGame: 'Запустить игру',
+  testGame: 'Проверить игру',
+  instanceDetail: 'Сведения об экземпляре',
+  browseFolder: 'Открыть папку',
+  deleteInstance: 'Удалить экземпляр',
   deleteInstanceConfirm: 'Удалить экземпляр "{name}"? Запись экземпляра и каталог версии будут безвозвратно удалены. Это действие нельзя отменить.',
 } as const

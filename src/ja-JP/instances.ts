@@ -127,5 +127,10 @@ export default {
   unpin: '固定を解除',
   pinToHome: 'ホームに固定',
   openFolder: 'フォルダーを開く',
+  launchGame: 'ゲームを起動',
+  testGame: 'ゲームをテスト',
+  instanceDetail: 'インスタンス詳細',
+  browseFolder: 'フォルダーを開く',
+  deleteInstance: 'インスタンスを削除',
   deleteInstanceConfirm: 'インスタンス"{name}"を削除しますか？インスタンスレコードとバージョンディレクトリは完全に削除され、元に戻せません。',
 } as const

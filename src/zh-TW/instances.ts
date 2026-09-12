@@ -127,5 +127,10 @@ export default {
   unpin: '取消固定',
   pinToHome: '固定到首頁',
   openFolder: '開啟資料夾',
+  launchGame: '啟動遊戲',
+  testGame: '測試遊戲',
+  instanceDetail: '實例詳情',
+  browseFolder: '瀏覽資料夾',
+  deleteInstance: '刪除實例',
   deleteInstanceConfirm: '確定要刪除實例"{name}"嗎？實例記錄和版本目錄將被永久刪除，此操作不可恢復。',
 } as const

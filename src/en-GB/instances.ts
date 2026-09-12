@@ -127,5 +127,10 @@ export default {
   unpin: 'Unpin',
   pinToHome: 'Pin to home',
   openFolder: 'Open folder',
+  launchGame: 'Launch game',
+  testGame: 'Test game',
+  instanceDetail: 'Instance details',
+  browseFolder: 'Browse folder',
+  deleteInstance: 'Delete instance',
   deleteInstanceConfirm: 'Delete instance "{name}"? The instance record and its version directory will be permanently removed. This action cannot be undone.',
 } as const
