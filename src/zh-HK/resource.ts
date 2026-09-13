@@ -37,6 +37,8 @@ export default {
   allLoaders: '全部載入器',
   categoryFilterLabel: '類別篩選',
   clearFilter: '清除篩選',
+  expandTags: '展開全部',
+  collapseTags: '收起',
   notFound: '未找到相關資源',
   notFoundHint: '嘗試更換關鍵字、資源源或分類',
   retry: '重試',

@@ -37,6 +37,8 @@ export default {
   allLoaders: '全部加载器',
   categoryFilterLabel: '类别筛选',
   clearFilter: '清除筛选',
+  expandTags: '展开全部',
+  collapseTags: '收起',
   notFound: '未找到相关资源',
   notFoundHint: '尝试更换关键词、资源源或分类',
   retry: '重试',

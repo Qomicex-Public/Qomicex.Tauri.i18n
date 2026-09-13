@@ -37,6 +37,8 @@ export default {
   allLoaders: 'すべてのローダー',
   categoryFilterLabel: 'カテゴリフィルター',
   clearFilter: 'フィルターをクリア',
+  expandTags: 'すべて表示',
+  collapseTags: '折りたたむ',
   notFound: '該当するリソースが見つかりません',
   notFoundHint: 'キーワード、リソースソース、カテゴリを変更してみてください',
   retry: '再試行',

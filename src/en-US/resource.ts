@@ -37,6 +37,8 @@ export default {
   allLoaders: 'All loaders',
   categoryFilterLabel: 'Category filter',
   clearFilter: 'Clear filter',
+  expandTags: 'Show all',
+  collapseTags: 'Collapse',
   notFound: 'No resources found',
   notFoundHint: 'Try different keywords, source or category',
   retry: 'Retry',

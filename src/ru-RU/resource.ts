@@ -37,6 +37,8 @@ export default {
   allLoaders: 'Все загрузчики',
   categoryFilterLabel: 'Фильтр категорий',
   clearFilter: 'Очистить фильтр',
+  expandTags: 'Показать все',
+  collapseTags: 'Свернуть',
   notFound: 'Ресурсы не найдены',
   notFoundHint: 'Попробуйте изменить ключевые слова, источник или категорию',
   retry: 'Повторить',
