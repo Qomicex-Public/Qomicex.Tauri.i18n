@@ -13,6 +13,11 @@ export default {
     schematics: '投影原理图',
     servers: '服务器',
   },
+  tabGroups: {
+    instance: '实例',
+    resources: '资源',
+    online: '联机',
+  },
   confirm: {
     cancel: '取消',
     deleting: '删除中...',
@@ -208,6 +213,12 @@ export default {
     sortTimeAsc: '最早优先',
     sortSizeDesc: '最大优先',
     sortSizeAsc: '最小优先',
+    viewDetailed: '详细',
+    viewCompact: '紧凑',
+    selectMod: '选择 {name}',
+    selectMode: '多选（Ctrl+A 全选）',
+    moreActions: '更多操作',
+    openModsFolder: '打开 Mod 文件夹',
     batchEnable: '批量启用',
     batchDisable: '批量禁用',
     batchDelete: '批量删除',
@@ -265,6 +276,8 @@ export default {
   overview: {
     launch: '启动',
     testGame: '测试游戏',
+    launchWithLog: '启动并查看日志',
+    launchOptions: '启动选项',
     unpin: '取消固定',
     pin: '固定到主页',
     gameVersion: '游戏版本',

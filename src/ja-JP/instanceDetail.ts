@@ -13,6 +13,11 @@ export default {
     servers: 'サーバー',
     schematics: 'スケマティック',
   },
+  tabGroups: {
+    instance: 'インスタンス',
+    resources: 'リソース',
+    online: 'オンライン',
+  },
   confirm: {
     cancel: 'キャンセル',
     deleting: '削除中...',
@@ -208,6 +213,12 @@ export default {
     sortTimeAsc: '古い順',
     sortSizeDesc: '大きい順',
     sortSizeAsc: '小さい順',
+    viewDetailed: '詳細',
+    viewCompact: 'コンパクト',
+    selectMod: '「{name}」を選択',
+    selectMode: '複数選択（Ctrl+A で全選択）',
+    moreActions: 'その他の操作',
+    openModsFolder: 'Mod フォルダーを開く',
     batchEnable: '一括有効',
     batchDisable: '一括無効',
     batchDelete: '一括削除',
@@ -265,6 +276,8 @@ export default {
   overview: {
     launch: '起動',
     testGame: 'テスト起動',
+    launchWithLog: '起動してログを表示',
+    launchOptions: '起動オプション',
     unpin: '固定を解除',
     pin: 'ホームに固定',
     gameVersion: 'ゲームバージョン',

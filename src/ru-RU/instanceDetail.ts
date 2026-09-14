@@ -13,6 +13,11 @@ export default {
     servers: 'Серверы',
     schematics: 'Схемы',
   },
+  tabGroups: {
+    instance: 'Экземпляр',
+    resources: 'Ресурсы',
+    online: 'Сеть',
+  },
   confirm: {
     cancel: 'Отмена',
     deleting: 'Удаление…',
@@ -208,6 +213,12 @@ export default {
     sortTimeAsc: 'Сначала старые',
     sortSizeDesc: 'Сначала большие',
     sortSizeAsc: 'Сначала маленькие',
+    viewDetailed: 'Подробно',
+    viewCompact: 'Компактно',
+    selectMod: 'Выбрать «{name}»',
+    selectMode: 'Множественный выбор (Ctrl+A — выбрать все)',
+    moreActions: 'Другие действия',
+    openModsFolder: 'Открыть папку модов',
     batchEnable: 'Включить все',
     batchDisable: 'Отключить все',
     batchDelete: 'Удалить выбранные',
@@ -265,6 +276,8 @@ export default {
   overview: {
     launch: 'Запуск',
     testGame: 'Тестовый запуск',
+    launchWithLog: 'Запустить и открыть журнал',
+    launchOptions: 'Параметры запуска',
     unpin: 'Открепить',
     pin: 'Закрепить на главной',
     gameVersion: 'Версия игры',

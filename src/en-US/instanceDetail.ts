@@ -13,6 +13,11 @@ export default {
     servers: 'Servers',
     schematics: 'Schematics',
   },
+  tabGroups: {
+    instance: 'Instance',
+    resources: 'Resources',
+    online: 'Online',
+  },
   confirm: {
     cancel: 'Cancel',
     deleting: 'Deleting...',
@@ -208,6 +213,12 @@ export default {
     sortTimeAsc: 'Oldest first',
     sortSizeDesc: 'Largest first',
     sortSizeAsc: 'Smallest first',
+    viewDetailed: 'Detailed',
+    viewCompact: 'Compact',
+    selectMod: 'Select {name}',
+    selectMode: 'Select multiple (Ctrl+A to select all)',
+    moreActions: 'More actions',
+    openModsFolder: 'Open mods folder',
     batchEnable: 'Enable selected',
     batchDisable: 'Disable selected',
     batchDelete: 'Delete selected',
@@ -265,6 +276,8 @@ export default {
   overview: {
     launch: 'Launch',
     testGame: 'Test Game',
+    launchWithLog: 'Launch and view log',
+    launchOptions: 'Launch options',
     unpin: 'Unpin',
     pin: 'Pin to home',
     gameVersion: 'Game version',

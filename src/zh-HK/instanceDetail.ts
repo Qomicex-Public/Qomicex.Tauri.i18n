@@ -13,6 +13,11 @@ export default {
     servers: '伺服器',
     schematics: '投影原理圖',
   },
+  tabGroups: {
+    instance: '實例',
+    resources: '資源',
+    online: '聯機',
+  },
   confirm: {
     cancel: '取消',
     deleting: '刪除中...',
@@ -208,6 +213,12 @@ export default {
     sortTimeAsc: '最早優先',
     sortSizeDesc: '最大優先',
     sortSizeAsc: '最小優先',
+    viewDetailed: '詳細',
+    viewCompact: '緊湊',
+    selectMod: '選擇 {name}',
+    selectMode: '多選（Ctrl+A 全選）',
+    moreActions: '更多操作',
+    openModsFolder: '開啟 Mod 資料夾',
     batchEnable: '批次啟用',
     batchDisable: '批次停用',
     batchDelete: '批次刪除',
@@ -265,6 +276,8 @@ export default {
   overview: {
     launch: '啟動',
     testGame: '測試遊戲',
+    launchWithLog: '啟動並檢視日誌',
+    launchOptions: '啟動選項',
     unpin: '取消固定',
     pin: '固定到主頁',
     gameVersion: '遊戲版本',
