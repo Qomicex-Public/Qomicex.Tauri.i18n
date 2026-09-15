@@ -398,6 +398,8 @@ export default {
     fullHeight: '全高',
     ymaxValue: 'Y ≤ {value}',
     heightHint: '向下拖曳可查看地下結構（洞穴 / 礦道）',
+    zoomIn: '放大',
+    zoomOut: '縮小',
     heightRange: '範圍 {min} .. {max}',
     block: '方塊',
     legend: '圖例',

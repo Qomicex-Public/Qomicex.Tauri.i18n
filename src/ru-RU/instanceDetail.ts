@@ -398,6 +398,8 @@ export default {
     fullHeight: 'Полная высота',
     ymaxValue: 'Y ≤ {value}',
     heightHint: 'Потяните вниз, чтобы увидеть подземные структуры (пещеры, шахты)',
+    zoomIn: 'Приблизить',
+    zoomOut: 'Отдалить',
     heightRange: 'Диапазон {min} .. {max}',
     block: 'Блок',
     legend: 'Легенда',

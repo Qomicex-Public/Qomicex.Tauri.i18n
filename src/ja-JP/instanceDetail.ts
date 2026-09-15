@@ -398,6 +398,8 @@ export default {
     fullHeight: '全高',
     ymaxValue: 'Y ≤ {value}',
     heightHint: '下へドラッグすると地下構造（洞窟・坑道）を表示します',
+    zoomIn: '拡大',
+    zoomOut: '縮小',
     heightRange: '範囲 {min} .. {max}',
     block: 'ブロック',
     legend: '凡例',
