@@ -336,6 +336,7 @@ export default {
   },
   // Карточка мира
   save: {
+    worldPreview: 'Просмотр мира',
     backup: 'Резервная копия',
     rename: 'Переименовать',
     quickJoin: 'Быстрый вход',

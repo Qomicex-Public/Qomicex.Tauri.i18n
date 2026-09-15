@@ -329,6 +329,7 @@ export default {
   },
   // 存档卡片
   save: {
+    worldPreview: '世界预览',
     backup: '备份',
     rename: '重命名',
     quickJoin: '快速进入',
