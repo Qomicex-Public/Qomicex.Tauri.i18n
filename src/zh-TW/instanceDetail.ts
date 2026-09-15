@@ -398,6 +398,8 @@ export default {
     fullHeight: '全高',
     ymaxValue: 'Y ≤ {value}',
     heightHint: '向下拖曳可查看地下結構（洞穴 / 礦道）',
+    heightRange: '範圍 {min} .. {max}',
+    block: '方塊',
     legend: '圖例',
     legendPlayer: '玩家最後位置',
     legendWaypoint: '路徑點',

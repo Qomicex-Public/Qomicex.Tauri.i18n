@@ -398,6 +398,8 @@ export default {
     fullHeight: '全高',
     ymaxValue: 'Y ≤ {value}',
     heightHint: '下へドラッグすると地下構造（洞窟・坑道）を表示します',
+    heightRange: '範囲 {min} .. {max}',
+    block: 'ブロック',
     legend: '凡例',
     legendPlayer: 'プレイヤーの最終位置',
     legendWaypoint: 'ウェイポイント',

@@ -398,6 +398,8 @@ export default {
     fullHeight: 'Полная высота',
     ymaxValue: 'Y ≤ {value}',
     heightHint: 'Потяните вниз, чтобы увидеть подземные структуры (пещеры, шахты)',
+    heightRange: 'Диапазон {min} .. {max}',
+    block: 'Блок',
     legend: 'Легенда',
     legendPlayer: 'Последняя позиция игрока',
     legendWaypoint: 'Точка маршрута',

@@ -398,6 +398,8 @@ export default {
     fullHeight: 'Full height',
     ymaxValue: 'Y ≤ {value}',
     heightHint: 'Drag down to reveal underground structures (caves / mineshafts)',
+    heightRange: 'Range {min} .. {max}',
+    block: 'Block',
     legend: 'Legend',
     legendPlayer: 'Last player position',
     legendWaypoint: 'Waypoint',
