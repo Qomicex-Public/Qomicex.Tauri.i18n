@@ -329,6 +329,7 @@ export default {
   },
   // Save card
   save: {
+    worldPreview: 'World preview',
     backup: 'Backup',
     rename: 'Rename',
     quickJoin: 'Quick Join',

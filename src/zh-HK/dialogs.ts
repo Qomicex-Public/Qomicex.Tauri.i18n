@@ -336,6 +336,7 @@ export default {
   },
   // 存檔卡片
   save: {
+    worldPreview: '世界預覽',
     backup: '備份',
     rename: '重新命名',
     quickJoin: '快速進入',

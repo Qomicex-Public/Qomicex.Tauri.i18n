@@ -336,6 +336,7 @@ export default {
   },
   // ワールドカード
   save: {
+    worldPreview: 'ワールドプレビュー',
     backup: 'バックアップ',
     rename: '名前を変更',
     quickJoin: 'クイック参加',
