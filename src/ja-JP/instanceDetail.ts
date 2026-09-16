@@ -47,6 +47,7 @@ export default {
     noMatch: '一致するワールドがありません',
     empty: 'ワールドがありません',
     type: 'ワールド',
+    loadFailed: 'セーブデータの読み込みに失敗しました: {error}',
   },
   saveSettings: {
     title: 'ワールド設定',
@@ -134,6 +135,7 @@ export default {
     noMatch: '一致するスクリーンショットがありません',
     empty: 'スクリーンショットがありません',
     type: 'スクリーンショット',
+    loadFailed: 'スクリーンショットの読み込みに失敗しました: {error}',
   },
   resourcepacks: {
     search: 'リソースパックを検索...',
@@ -157,6 +159,7 @@ export default {
     empty: 'データパックがありません',
     type: 'データパック',
     install: 'データパックをインストール',
+    loadFailed: 'データパックの読み込みに失敗しました: {error}',
   },
   schematics: {
     search: 'スケマティックを検索...',
@@ -207,6 +210,7 @@ export default {
     disable: '無効',
     updateMods: 'Modを更新',
     filterAll: 'すべて',
+    filterLocal: 'ローカル',
     updatable: '更新可能',
     duplicate: '重複',
     sortNameAsc: '名前 A-Z',

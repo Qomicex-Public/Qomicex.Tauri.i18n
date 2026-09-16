@@ -47,6 +47,7 @@ export default {
     noMatch: '无匹配存档',
     empty: '暂无存档',
     type: '存档',
+    loadFailed: '加载存档失败: {error}',
   },
   saveSettings: {
     title: '存档设置',
@@ -134,6 +135,7 @@ export default {
     noMatch: '无匹配截图',
     empty: '暂无截图',
     type: '截图',
+    loadFailed: '加载截图失败: {error}',
   },
   resourcepacks: {
     search: '搜索资源包...',
@@ -157,6 +159,7 @@ export default {
     empty: '暂无数据包',
     type: '数据包',
     install: '安装数据包',
+    loadFailed: '加载数据包失败: {error}',
   },
   schematics: {
     search: '搜索原理图...',
@@ -207,6 +210,7 @@ export default {
     disable: '禁用',
     updateMods: '更新模组',
     filterAll: '全部',
+    filterLocal: '本地',
     updatable: '可更新',
     duplicate: '重复',
     sortNameAsc: '名称 A-Z',
