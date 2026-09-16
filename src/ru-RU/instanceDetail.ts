@@ -40,6 +40,8 @@ export default {
   deleteSelected: 'Удалить: {count}',
   batchDeleteTitle: 'Массовое удаление {type}',
   batchDeleteConfirm: 'Удалить выбранные {type} ({count})? Они будут перемещены в корзину.',
+  batchDeleteDone: 'Удалено {count} {type}',
+  batchDeleteResult: 'Успешно: {success}, не удалось: {failed}{failNames}',
   saves: {
     search: 'Поиск миров…',
     noMatch: 'Нет подходящих миров',

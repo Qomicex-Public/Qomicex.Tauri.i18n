@@ -40,6 +40,8 @@ export default {
   deleteSelected: 'Delete {count}',
   batchDeleteTitle: 'Delete {type}',
   batchDeleteConfirm: 'Delete the selected {count} {type}? They will be moved to recycle bin.',
+  batchDeleteDone: 'Deleted {count} {type}',
+  batchDeleteResult: 'Completed {success}, failed {failed}{failNames}',
   saves: {
     search: 'Search saves...',
     noMatch: 'No matching saves',

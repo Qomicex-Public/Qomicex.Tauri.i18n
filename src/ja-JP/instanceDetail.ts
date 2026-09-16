@@ -40,6 +40,8 @@ export default {
   deleteSelected: '{count} 件削除',
   batchDeleteTitle: '{type}を一括削除',
   batchDeleteConfirm: '選択した {count} 個の{type}を削除しますか？ゴミ箱に移動されます。',
+  batchDeleteDone: '{count} 個の{type}を削除しました',
+  batchDeleteResult: '成功 {success} 個、失敗 {failed} 個{failNames}',
   saves: {
     search: 'ワールドを検索...',
     noMatch: '一致するワールドがありません',

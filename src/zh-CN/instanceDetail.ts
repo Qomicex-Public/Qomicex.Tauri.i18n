@@ -40,6 +40,8 @@ export default {
   deleteSelected: '删除 {count}',
   batchDeleteTitle: '批量删除{type}',
   batchDeleteConfirm: '确定要删除选中的 {count} 个{type}吗？将被移至回收站。',
+  batchDeleteDone: '已删除 {count} 个{type}',
+  batchDeleteResult: '完成 {success} 个，失败 {failed} 个{failNames}',
   saves: {
     search: '搜索存档...',
     noMatch: '无匹配存档',
