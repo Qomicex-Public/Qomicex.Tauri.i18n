@@ -40,11 +40,14 @@ export default {
   deleteSelected: 'Удалить: {count}',
   batchDeleteTitle: 'Массовое удаление {type}',
   batchDeleteConfirm: 'Удалить выбранные {type} ({count})? Они будут перемещены в корзину.',
+  batchDeleteDone: 'Удалено {count} {type}',
+  batchDeleteResult: 'Успешно: {success}, не удалось: {failed}{failNames}',
   saves: {
     search: 'Поиск миров…',
     noMatch: 'Нет подходящих миров',
     empty: 'Миров нет',
     type: 'Мир',
+    loadFailed: 'Не удалось загрузить сохранения: {error}',
   },
   saveSettings: {
     title: 'Настройки мира',
@@ -132,6 +135,7 @@ export default {
     noMatch: 'Нет подходящих скриншотов',
     empty: 'Скриншотов нет',
     type: 'Скриншот',
+    loadFailed: 'Не удалось загрузить скриншоты: {error}',
   },
   resourcepacks: {
     search: 'Поиск ресурспаков…',
@@ -155,6 +159,7 @@ export default {
     empty: 'Датапаков нет',
     type: 'Датапак',
     install: 'Установить датапак',
+    loadFailed: 'Не удалось загрузить наборы данных: {error}',
   },
   schematics: {
     search: 'Поиск схем…',
@@ -205,6 +210,7 @@ export default {
     disable: 'Отключить',
     updateMods: 'Обновить моды',
     filterAll: 'Все',
+    filterLocal: 'Локальные',
     updatable: 'Доступны обновления',
     duplicate: 'Дубликат',
     sortNameAsc: 'Имя А-Я',

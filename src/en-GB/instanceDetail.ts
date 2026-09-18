@@ -40,11 +40,14 @@ export default {
   deleteSelected: 'Delete {count}',
   batchDeleteTitle: 'Delete {type}',
   batchDeleteConfirm: 'Delete the selected {count} {type}? They will be moved to recycle bin.',
+  batchDeleteDone: 'Deleted {count} {type}',
+  batchDeleteResult: 'Completed {success}, failed {failed}{failNames}',
   saves: {
     search: 'Search saves...',
     noMatch: 'No matching saves',
     empty: 'No saves',
     type: 'saves',
+    loadFailed: 'Failed to load saves: {error}',
   },
   saveSettings: {
     title: 'Save Settings',
@@ -132,6 +135,7 @@ export default {
     noMatch: 'No matching screenshots',
     empty: 'No screenshots',
     type: 'screenshots',
+    loadFailed: 'Failed to load screenshots: {error}',
   },
   resourcepacks: {
     search: 'Search resource packs...',
@@ -155,6 +159,7 @@ export default {
     empty: 'No data packs',
     type: 'data packs',
     install: 'Install data pack',
+    loadFailed: 'Failed to load data packs: {error}',
   },
   schematics: {
     search: 'Search schematics...',
@@ -205,6 +210,7 @@ export default {
     disable: 'Disable',
     updateMods: 'Update mods',
     filterAll: 'All',
+    filterLocal: 'Local',
     updatable: 'Updatable',
     duplicate: 'Duplicate',
     sortNameAsc: 'Name A-Z',

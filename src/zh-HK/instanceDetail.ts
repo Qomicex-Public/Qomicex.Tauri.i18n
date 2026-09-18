@@ -40,11 +40,14 @@ export default {
   deleteSelected: '刪除 {count}',
   batchDeleteTitle: '批次刪除{type}',
   batchDeleteConfirm: '確定要刪除選取的 {count} 個{type}嗎？將被移至資源回收筒。',
+  batchDeleteDone: '已刪除 {count} 個{type}',
+  batchDeleteResult: '完成 {success} 個，失敗 {failed} 個{failNames}',
   saves: {
     search: '搜尋存檔...',
     noMatch: '無匹配存檔',
     empty: '暫無存檔',
     type: '存檔',
+    loadFailed: '載入存檔失敗: {error}',
   },
   saveSettings: {
     title: '存檔設定',
@@ -132,6 +135,7 @@ export default {
     noMatch: '無匹配截圖',
     empty: '暫無截圖',
     type: '截圖',
+    loadFailed: '載入截圖失敗: {error}',
   },
   resourcepacks: {
     search: '搜尋資源包...',
@@ -155,6 +159,7 @@ export default {
     empty: '暫無數據包',
     type: '數據包',
     install: '安裝數據包',
+    loadFailed: '載入資料包失敗: {error}',
   },
   schematics: {
     search: '搜尋原理圖...',
@@ -205,6 +210,7 @@ export default {
     disable: '停用',
     updateMods: '更新模組',
     filterAll: '全部',
+    filterLocal: '本地',
     updatable: '可更新',
     duplicate: '重複',
     sortNameAsc: '名稱 A-Z',
