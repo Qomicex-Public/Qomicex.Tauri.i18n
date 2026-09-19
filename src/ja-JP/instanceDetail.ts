@@ -169,6 +169,7 @@ export default {
     import: 'インポート',
     imported: '{name} をインポートしました',
     importFailed: 'インポートに失敗しました',
+    loadFailed: 'スケマティックの読み込みに失敗しました: {error}',
     deleteFailed: '削除に失敗しました',
     renamed: '{name} に名前を変更しました',
     renameFailed: '名前の変更に失敗しました',

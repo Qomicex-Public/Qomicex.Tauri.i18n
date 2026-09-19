@@ -169,6 +169,7 @@ export default {
     import: '导入原理图',
     imported: '已导入 {name}',
     importFailed: '导入失败',
+    loadFailed: '加载原理图失败: {error}',
     deleteFailed: '删除失败',
     renamed: '已重命名为 {name}',
     renameFailed: '重命名失败',

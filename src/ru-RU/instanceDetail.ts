@@ -169,6 +169,7 @@ export default {
     import: 'Импортировать схему',
     imported: 'Импортировано: {name}',
     importFailed: 'Ошибка импорта',
+    loadFailed: 'Не удалось загрузить схемы: {error}',
     deleteFailed: 'Ошибка удаления',
     renamed: 'Переименовано в {name}',
     renameFailed: 'Ошибка переименования',

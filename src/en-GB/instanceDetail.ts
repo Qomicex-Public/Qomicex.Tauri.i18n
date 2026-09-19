@@ -169,6 +169,7 @@ export default {
     import: 'Import schematic',
     imported: 'Imported {name}',
     importFailed: 'Import failed',
+    loadFailed: 'Failed to load schematics: {error}',
     deleteFailed: 'Delete failed',
     renamed: 'Renamed to {name}',
     renameFailed: 'Rename failed',
