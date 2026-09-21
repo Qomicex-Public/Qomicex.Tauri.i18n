@@ -198,6 +198,8 @@ export default {
     released: 'Released on {date}',
     viewRelease: 'View release',
     requiredNotice: 'This is a required update. Please update to continue.',
+    channelSwitchTitle: 'Switch to the {channel} channel',
+    channelSwitchNotice: 'You are switching to a different release channel. This is a channel change rather than a regular version upgrade; you will receive further updates from that channel.',
   },
   // License activation
   license: {

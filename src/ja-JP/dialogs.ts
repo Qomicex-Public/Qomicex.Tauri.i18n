@@ -205,6 +205,8 @@ export default {
     released: '公開日: {date}',
     viewRelease: 'リリースページを見る',
     requiredNotice: 'このバージョンは必須アップデートです。更新しないと利用を続けられません',
+    channelSwitchTitle: '{channel} チャンネルに切り替え',
+    channelSwitchNotice: '別のリリースチャンネルに切り替えようとしています。これは通常のバージョンアップではなくチャンネルの変更であり、以降はそのチャンネルから更新を受け取ります。',
   },
   // ライセンス有効化
   license: {

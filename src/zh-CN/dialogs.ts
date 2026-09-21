@@ -198,6 +198,8 @@ export default {
     released: '发布于 {date}',
     viewRelease: '查看发布页',
     requiredNotice: '此版本为强制更新，必须更新后才能继续使用',
+    channelSwitchTitle: '切换到 {channel} 通道',
+    channelSwitchNotice: '你正在切换到另一条发布通道。这属于通道变更而非普通版本升级，切换后将按该通道接收后续更新。',
   },
   // 许可证激活
   license: {

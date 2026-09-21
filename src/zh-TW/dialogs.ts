@@ -205,6 +205,8 @@ export default {
     released: '發佈於 {date}',
     viewRelease: '查看發佈頁',
     requiredNotice: '此版本為強制更新，必須更新後才能繼續使用',
+    channelSwitchTitle: '切換到 {channel} 通道',
+    channelSwitchNotice: '你正在切換到另一條發布通道。這屬於通道變更而非普通版本升級，切換後將按該通道接收後續更新。',
   },
   // 授權啟動
   license: {
