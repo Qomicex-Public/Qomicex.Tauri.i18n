@@ -204,6 +204,7 @@ export default {
   mods: {
     management: 'Mod 管理',
     noModsHint: '该实例不可使用 Mod，需要使用 Forge、Fabric 等加载器',
+    noLoaderAction: '下载带加载器的实例',
     search: '搜索 Mod...',
     checkUpdates: '检查更新',
     install: '安装 Mod',

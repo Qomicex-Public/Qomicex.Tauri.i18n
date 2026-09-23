@@ -204,6 +204,7 @@ export default {
   mods: {
     management: 'Mod 管理',
     noModsHint: 'このインスタンスは Mod を使用できません。Forge、Fabric などのローダーが必要です',
+    noLoaderAction: 'ローダー付きのインスタンスをダウンロード',
     search: 'Mod を検索...',
     checkUpdates: '更新を確認',
     install: 'Mod をインストール',
