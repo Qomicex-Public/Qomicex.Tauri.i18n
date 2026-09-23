@@ -204,6 +204,7 @@ export default {
   mods: {
     management: 'Управление модами',
     noModsHint: 'Этот экземпляр не поддерживает моды, требуется загрузчик, например Forge, Fabric',
+    noLoaderAction: 'Скачать экземпляр с загрузчиком',
     search: 'Поиск модов…',
     checkUpdates: 'Проверить обновления',
     install: 'Установить мод',

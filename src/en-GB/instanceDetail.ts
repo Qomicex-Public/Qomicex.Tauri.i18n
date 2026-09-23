@@ -204,6 +204,7 @@ export default {
   mods: {
     management: 'Mod Management',
     noModsHint: 'This instance cannot use mods; a loader such as Forge or Fabric is required',
+    noLoaderAction: 'Download an instance with a loader',
     search: 'Search mods...',
     checkUpdates: 'Check updates',
     install: 'Install Mod',

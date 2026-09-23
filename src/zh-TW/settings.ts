@@ -378,6 +378,7 @@ export default {
     aboutApp: '關於 {name}',
     beta: '測試版',
     stable: '穩定版',
+    unknownBuild: '未知構建',
     alpha: '開發版',
     devBuild: '開發構建',
     devBuildNoUpdate: '開發構建，不檢查更新',

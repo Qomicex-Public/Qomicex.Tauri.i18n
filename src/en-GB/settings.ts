@@ -378,6 +378,7 @@ export default {
     aboutApp: 'About {name}',
     beta: 'Beta',
     stable: 'Stable',
+    unknownBuild: 'Unknown build',
     alpha: 'Alpha',
     devBuild: 'Dev build',
     devBuildNoUpdate: 'Dev build — update checks disabled',

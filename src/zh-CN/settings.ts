@@ -377,6 +377,7 @@ export default {
     aboutApp: '关于 {name}',
     beta: '测试版',
     stable: '稳定版',
+    unknownBuild: '未知构建',
     alpha: '开发版',
     devBuild: '开发构建',
     devBuildNoUpdate: '开发构建，不检查更新',

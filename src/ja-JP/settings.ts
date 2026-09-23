@@ -378,6 +378,7 @@ export default {
     aboutApp: '{name} について',
     beta: 'ベータ版',
     stable: '安定版',
+    unknownBuild: '不明なビルド',
     alpha: '開発版',
     devBuild: '開発ビルド',
     devBuildNoUpdate: '開発ビルドのため更新確認を行いません',
