@@ -149,6 +149,8 @@ export default {
     http1ParallelDesc: 'When on, every file downloads over its own TCP connection. Default off = per-source auto: per-connection-limited CDNs (e.g. Modrinth) use parallel, other sources (Mojang/BMCLAPI) use HTTP/2.',
     fileNaming: 'Resource file naming',
     fileNamingDesc: 'Customize the file name format for downloaded resources (mods/shaderpacks/etc). Only applies to newly downloaded files.',
+    scanSkipJarProbe: 'Skip JAR-level version detection',
+    scanSkipJarProbeDesc: 'When on, instance scanning no longer opens game JARs to read the version; it uses the version JSON only (clientVersion / minecraftVersion / inheritsFrom / id). The first scan of a large instance folder is much faster, but modpacks whose JSON lacks those fields may show inheritsFrom or the folder name as the game version. Affects instance scanning only',
     naming: {
       cnNameVer: '[Chinese] English-Version',
       nameCnVer: '[English] Chinese-Version',

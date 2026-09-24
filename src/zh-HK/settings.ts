@@ -149,6 +149,8 @@ export default {
     http1ParallelDesc: '每個檔案用獨立 TCP 連線並行下載，可在按連線限速嘅 CDN（如 Modrinth/CurseForge）上大幅提升下載速度；關閉則回退 HTTP/2 多路復用',
     fileNaming: '資源檔案命名方式',
     fileNamingDesc: '自訂下載資源（Mod/光影/材質等）嘅檔案命名格式，僅對新下載嘅檔案生效',
+    scanSkipJarProbe: '跳過 JAR 級版本偵測',
+    scanSkipJarProbeDesc: '開啟後掃描實例不再開啟遊戲 jar 讀取版本號，只靠版本 JSON 推斷（clientVersion / minecraftVersion / inheritsFrom / id）。大實例目錄首次掃描會快好多，但 JSON 缺欄位嘅整合包遊戲版本可能顯示為 inheritsFrom 或目錄名。僅影響實例掃描',
     naming: {
       cnNameVer: '[中文名]英文名-版本',
       nameCnVer: '[英文名]中文名-版本',

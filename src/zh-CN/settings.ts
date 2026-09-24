@@ -149,6 +149,8 @@ export default {
     http1ParallelDesc: '开启时所有下载都用独立 TCP 连接并行。默认关闭 = 按来源自动：Modrinth 等按连接限速的源自动用并行，Mojang/BMCLAPI 等其余源用 HTTP/2',
     fileNaming: '资源文件命名方式',
     fileNamingDesc: '自定义下载资源（Mod/光影/材质等）的文件命名格式，仅对新下载的文件生效',
+    scanSkipJarProbe: '跳过 JAR 级版本探测',
+    scanSkipJarProbeDesc: '开启后扫描实例不再打开游戏 jar 读取版本号，只按版本 JSON 推断（clientVersion / minecraftVersion / inheritsFrom / id）。大实例目录首次扫描会快很多，但 JSON 缺字段的整合包游戏版本可能显示为 inheritsFrom 或目录名。仅影响实例扫描',
     naming: {
       cnNameVer: '[中文名]英文名-版本',
       nameCnVer: '[英文名]中文名-版本',

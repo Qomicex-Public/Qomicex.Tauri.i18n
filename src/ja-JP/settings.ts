@@ -149,6 +149,8 @@ export default {
     http1ParallelDesc: '各ファイルを独立した TCP 接続で並列にダウンロードします。接続ごとに帯域が制限された CDN（Modrinth/CurseForge など）で大幅に高速化します。オフにすると HTTP/2 多重化に戻ります。',
     fileNaming: 'リソースファイルの命名',
     fileNamingDesc: 'ダウンロードするリソース（Mod/シェーダー/リソースパックなど）のファイル名形式をカスタマイズします。新しくダウンロードしたファイルのみに適用されます。',
+    scanSkipJarProbe: 'JAR レベルバージョン検出をスキップ',
+    scanSkipJarProbeDesc: 'オンにすると、インスタンスのスキャンでゲーム JAR を開いてバージョンを読み取らなくなります。バージョン JSON（clientVersion / minecraftVersion / inheritsFrom / id）からのみ推定します。多数のインスタンスがあるフォルダーの初回スキャンは大幅に速くなりますが、JSON に該当フィールドがないモッドパックでは inheritsFrom やフォルダー名がゲームバージョンとして表示される場合があります。インスタンスのスキャンのみに影響します',
     naming: {
       cnNameVer: '[中国語名]英語名-バージョン',
       nameCnVer: '[英語名]中国語名-バージョン',
