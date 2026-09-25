@@ -283,6 +283,7 @@ export default {
     added: '「{name}」を追加しました',
     opFailed: '操作に失敗しました',
     loadFailed: 'サーバーリストの読み込みに失敗しました',
+    lanLoadFailed: 'LAN ゲームの読み込みに失敗しました',
     empty: 'サーバーがありません',
     noMatch: '一致するサーバーがありません',
   },

@@ -283,6 +283,7 @@ export default {
     added: 'Added "{name}"',
     opFailed: 'Operation failed',
     loadFailed: 'Failed to load server list',
+    lanLoadFailed: 'Failed to load LAN games',
     empty: 'No servers',
     noMatch: 'No matching servers',
   },
