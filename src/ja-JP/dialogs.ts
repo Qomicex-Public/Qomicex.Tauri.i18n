@@ -208,6 +208,13 @@ export default {
     channelSwitchTitle: '{channel} チャンネルに切り替え',
     channelSwitchNotice: '別のリリースチャンネルに切り替えようとしています。これは通常のバージョンアップではなくチャンネルの変更であり、以降はそのチャンネルから更新を受け取ります。',
   },
+
+  // 更新完了通知（自己更新後の初回起動時に表示するダイアログ）
+  updateComplete: {
+    title: '更新が完了しました',
+    description: 'ランチャーは以下のバージョンに正常に更新されました。今回の更新内容をここで確認できます。',
+    dismiss: 'OK',
+  },
   // ライセンス有効化
   license: {
     title: 'ライセンスを有効化',
