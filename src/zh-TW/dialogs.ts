@@ -208,6 +208,13 @@ export default {
     channelSwitchTitle: '切換到 {channel} 通道',
     channelSwitchNotice: '你正在切換到另一條發布通道。這屬於通道變更而非普通版本升級，切換後將按該通道接收後續更新。',
   },
+
+  // 更新完成提示（#108：自更新重啟後彈出的「已更新到」對話框）
+  updateComplete: {
+    title: '更新完成',
+    description: '啟動器已成功更新到以下版本，可在此查看本次更新內容。',
+    dismiss: '知道了',
+  },
   // 授權啟動
   license: {
     title: '啟動授權',

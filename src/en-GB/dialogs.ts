@@ -208,6 +208,13 @@ export default {
     channelSwitchTitle: 'Switch to the {channel} channel',
     channelSwitchNotice: 'You are switching to a different release channel. This is a channel change rather than a regular version upgrade; you will receive further updates from that channel.',
   },
+
+  // Update-complete notice (dialog shown on the first launch after a self-update)
+  updateComplete: {
+    title: 'Update complete',
+    description: 'The launcher has been successfully updated to the version below. You can review the release notes here.',
+    dismiss: 'Got it',
+  },
   // License activation
   license: {
     title: 'Activate Licence',

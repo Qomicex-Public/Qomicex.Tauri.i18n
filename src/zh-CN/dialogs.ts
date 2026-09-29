@@ -201,6 +201,13 @@ export default {
     channelSwitchTitle: '切换到 {channel} 通道',
     channelSwitchNotice: '你正在切换到另一条发布通道。这属于通道变更而非普通版本升级，切换后将按该通道接收后续更新。',
   },
+
+  // 更新完成提示（#108：自更新重启后弹出的「已更新到」对话框）
+  updateComplete: {
+    title: '更新完成',
+    description: '启动器已成功更新到以下版本，可在此查看本次更新内容。',
+    dismiss: '知道了',
+  },
   // 许可证激活
   license: {
     title: '激活许可证',
