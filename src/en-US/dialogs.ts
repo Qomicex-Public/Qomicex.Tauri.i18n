@@ -252,6 +252,10 @@ export default {
     noVersions: 'No versions available',
     switching: 'Switching...',
     switch: 'Switch',
+    taskName: 'Switch {name} version',
+    addedToDownloadCenter: '{name} added to the download center',
+    noDownloadableFile: 'This version has no downloadable file',
+    switchFailed: 'Failed to switch version',
   },
   // Mod updates
   modUpdate: {

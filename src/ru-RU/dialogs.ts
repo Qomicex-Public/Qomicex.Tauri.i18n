@@ -259,6 +259,10 @@ export default {
     noVersions: 'Нет доступных версий',
     switching: 'Смена…',
     switch: 'Сменить',
+    taskName: 'Смена версии {name}',
+    addedToDownloadCenter: '{name} добавлен в центр загрузок',
+    noDownloadableFile: 'У этой версии нет файла для загрузки',
+    switchFailed: 'Не удалось сменить версию',
   },
   // Обновление модов
   modUpdate: {

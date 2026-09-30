@@ -259,6 +259,10 @@ export default {
     noVersions: '沒有可用的版本',
     switching: '更換中...',
     switch: '更換',
+    taskName: '更換 {name} 版本',
+    addedToDownloadCenter: '{name} 已加入下載中心',
+    noDownloadableFile: '該版本沒有可下載的檔案',
+    switchFailed: '更換版本失敗',
   },
   // 模組更新
   modUpdate: {

@@ -259,6 +259,10 @@ export default {
     noVersions: '利用可能なバージョンがありません',
     switching: '変更中...',
     switch: '変更',
+    taskName: '{name} のバージョンを変更',
+    addedToDownloadCenter: '{name} をダウンロードセンターに追加しました',
+    noDownloadableFile: 'このバージョンにはダウンロード可能なファイルがありません',
+    switchFailed: 'バージョンの変更に失敗しました',
   },
   // Mod 更新
   modUpdate: {
