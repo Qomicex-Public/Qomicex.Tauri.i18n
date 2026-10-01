@@ -37,6 +37,7 @@ export default {
     cancelled: '下载已取消',
     downloadFailed: '下载失败',
     startFailed: '下载启动失败',
+    cleanupFailed: '新版本已下载，但旧版本文件删除失败（{files}），请手动清理以免重复加载',
   },
   // 删除确认（按资源类型）
   confirmDelete: {

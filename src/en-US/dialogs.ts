@@ -37,6 +37,7 @@ export default {
     cancelled: 'Download cancelled',
     downloadFailed: 'Download failed',
     startFailed: 'Failed to start download',
+    cleanupFailed: 'The new version downloaded, but the old file(s) could not be removed ({files}). Please clean up manually to avoid loading both.',
   },
   // Delete confirmations (per resource type)
   confirmDelete: {

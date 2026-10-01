@@ -37,6 +37,7 @@ export default {
     cancelled: 'ダウンロードをキャンセルしました',
     downloadFailed: 'ダウンロードに失敗しました',
     startFailed: 'ダウンロードの開始に失敗しました',
+    cleanupFailed: '新しいバージョンはダウンロードされましたが、古いファイル（{files}）を削除できませんでした。二重読み込みを避けるため手動で削除してください。',
   },
   // 削除確認（リソースタイプ別）
   confirmDelete: {
