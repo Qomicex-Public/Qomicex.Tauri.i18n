@@ -333,6 +333,8 @@ export default {
     missingFiles: '{count} 個のファイルが不足',
     autoRepairing: '自動補完中...',
     integrityOk: 'リソースは整合しています',
+    verifyFailed: 'リソースの整合性チェックに失敗しました：{error}',
+    repairFailed: 'ファイルの補完に失敗しました：{error}',
     versionIsolation: 'バージョン分離',
     followGlobal: 'グローバル設定に従う',
     on: 'オン',

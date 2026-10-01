@@ -333,6 +333,8 @@ export default {
     missingFiles: '缺失 {count} 个文件',
     autoRepairing: '正在自动补全...',
     integrityOk: '资源完整',
+    verifyFailed: '检查资源完整性失败：{error}',
+    repairFailed: '补全文件失败：{error}',
     versionIsolation: '版本隔离',
     followGlobal: '跟随全局设置',
     on: '开启',

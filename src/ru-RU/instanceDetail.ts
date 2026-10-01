@@ -333,6 +333,8 @@ export default {
     missingFiles: 'Отсутствующих файлов: {count}',
     autoRepairing: 'Автодозаполнение…',
     integrityOk: 'Ресурсы целы',
+    verifyFailed: 'Не удалось проверить ресурсы: {error}',
+    repairFailed: 'Не удалось дополнить файлы: {error}',
     versionIsolation: 'Изоляция версий',
     followGlobal: 'Следовать глобальным настройкам',
     on: 'Вкл',

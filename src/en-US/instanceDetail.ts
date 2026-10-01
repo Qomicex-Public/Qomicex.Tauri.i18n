@@ -333,6 +333,8 @@ export default {
     missingFiles: '{count} missing file(s)',
     autoRepairing: 'Auto repairing...',
     integrityOk: 'Files complete',
+    verifyFailed: 'Failed to verify resources: {error}',
+    repairFailed: 'Failed to repair files: {error}',
     versionIsolation: 'Version isolation',
     followGlobal: 'Follow global setting',
     on: 'On',
