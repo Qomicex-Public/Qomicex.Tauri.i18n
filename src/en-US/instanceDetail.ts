@@ -246,6 +246,7 @@ export default {
     updateFailed: 'Failed to update mods',
     loadFailedGeneric: 'Failed to load: {error}',
     unknownError: 'Unknown error',
+    batchDeleteFailed: 'Failed to delete {count} mod(s): {detail}',
   },
   servers: {
     search: 'Search servers...',

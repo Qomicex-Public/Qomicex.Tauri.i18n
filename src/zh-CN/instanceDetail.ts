@@ -246,6 +246,7 @@ export default {
     updateFailed: '更新模组失败',
     loadFailedGeneric: '加载失败: {error}',
     unknownError: '未知错误',
+    batchDeleteFailed: '{count} 个 Mod 删除失败：{detail}',
   },
   servers: {
     search: '搜索服务器...',

@@ -2,6 +2,7 @@
 export default {
   notFound: 'Requested resource was not found',
   forbidden: 'You do not have permission to perform this action',
+  modFileInUse: 'The file is in use by another program. Close the game and try again',
   badRequest: 'Invalid request parameters',
   internalError: 'Internal server error',
   upstreamError: 'Upstream service request failed',

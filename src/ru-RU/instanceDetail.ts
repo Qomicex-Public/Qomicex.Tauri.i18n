@@ -246,6 +246,7 @@ export default {
     updateFailed: 'Ошибка обновления модов',
     loadFailedGeneric: 'Ошибка загрузки: {error}',
     unknownError: 'Неизвестная ошибка',
+    batchDeleteFailed: 'Не удалось удалить модов: {count}: {detail}',
   },
   servers: {
     search: 'Поиск серверов…',

@@ -2,6 +2,7 @@
 export default {
   notFound: '要求されたリソースが存在しません',
   forbidden: 'この操作を実行する権限がありません',
+  modFileInUse: 'ファイルが他のプログラムで使用中です。ゲームを終了してから再試行してください',
   badRequest: 'リクエストパラメータが不正です',
   internalError: 'サーバー内部エラー',
   upstreamError: '上流サービスへのリクエストに失敗しました',

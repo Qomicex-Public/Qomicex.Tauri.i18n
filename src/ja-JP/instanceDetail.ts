@@ -246,6 +246,7 @@ export default {
     updateFailed: 'Mod の更新に失敗しました',
     loadFailedGeneric: '読み込みに失敗しました: {error}',
     unknownError: '不明なエラー',
+    batchDeleteFailed: '{count} 個の Mod の削除に失敗しました: {detail}',
   },
   servers: {
     search: 'サーバーを検索...',
