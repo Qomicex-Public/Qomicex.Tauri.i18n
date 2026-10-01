@@ -2,6 +2,7 @@
 export default {
   notFound: '请求的资源不存在',
   forbidden: '没有权限执行此操作',
+  modFileInUse: '文件正被其它程序占用，请先关闭游戏再试',
   badRequest: '请求参数有误',
   internalError: '服务器内部错误',
   upstreamError: '上游服务请求失败',
