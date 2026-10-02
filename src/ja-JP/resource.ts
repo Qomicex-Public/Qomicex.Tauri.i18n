@@ -35,6 +35,7 @@ export default {
   allVersions: 'すべてのバージョン',
   loaderLabel: 'ローダー',
   allLoaders: 'すべてのローダー',
+  sortLabel: '並び順',
   categoryFilterLabel: 'カテゴリフィルター',
   clearFilter: 'フィルターをクリア',
   expandTags: 'すべて表示',

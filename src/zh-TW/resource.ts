@@ -35,6 +35,7 @@ export default {
   allVersions: '全部版本',
   loaderLabel: '載入器',
   allLoaders: '全部載入器',
+  sortLabel: '排序方式',
   categoryFilterLabel: '類別篩選',
   clearFilter: '清除篩選',
   expandTags: '展開全部',

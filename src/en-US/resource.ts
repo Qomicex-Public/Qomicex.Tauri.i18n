@@ -35,6 +35,7 @@ export default {
   allVersions: 'All versions',
   loaderLabel: 'Loader',
   allLoaders: 'All loaders',
+  sortLabel: 'Sort by',
   categoryFilterLabel: 'Category filter',
   clearFilter: 'Clear filter',
   expandTags: 'Show all',

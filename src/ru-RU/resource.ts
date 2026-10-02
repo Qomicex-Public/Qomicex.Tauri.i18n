@@ -35,6 +35,7 @@ export default {
   allVersions: 'Все версии',
   loaderLabel: 'Загрузчик',
   allLoaders: 'Все загрузчики',
+  sortLabel: 'Сортировка',
   categoryFilterLabel: 'Фильтр категорий',
   clearFilter: 'Очистить фильтр',
   expandTags: 'Показать все',

@@ -35,6 +35,7 @@ export default {
   allVersions: '全部版本',
   loaderLabel: '加载器',
   allLoaders: '全部加载器',
+  sortLabel: '排序方式',
   categoryFilterLabel: '类别筛选',
   clearFilter: '清除筛选',
   expandTags: '展开全部',
