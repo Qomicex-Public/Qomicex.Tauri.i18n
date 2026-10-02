@@ -1,9 +1,10 @@
 // Ресурсный центр (ru-RU)
 export default {
   sources: {
-    all: 'Все',
+    all: 'Агрегация',
   },
   categories: {
+    aggregate: 'Агрегация',
     mod: 'Моды',
     modpack: 'Модпаки',
     shader: 'Шейдеры',
@@ -23,7 +24,6 @@ export default {
   unknownAuthor: 'Неизвестный автор',
   install: 'Установить',
   viewDetail: 'Подробнее',
-  originalSite: 'Оригинальный сайт',
   searchFailed: 'Ошибка поиска',
   backendUnreachable: 'Не удалось подключиться к бэкенду, убедитесь, что он запущен',
   title: 'Ресурсный центр',
@@ -39,6 +39,8 @@ export default {
   clearFilter: 'Очистить фильтр',
   expandTags: 'Показать все',
   collapseTags: 'Свернуть',
+  expandFilters: 'Показать фильтры',
+  collapseFilters: 'Скрыть фильтры',
   notFound: 'Ресурсы не найдены',
   notFoundHint: 'Попробуйте изменить ключевые слова, источник или категорию',
   retry: 'Повторить',
@@ -46,8 +48,6 @@ export default {
   loadMore: 'Загрузить ещё ({current}/{total})',
   allShown: 'Показаны все результаты: {count}',
   mode: {
-    label: 'Режим просмотра',
-    browse: 'Ресурсы',
     searchPlaceholder: 'Поиск ресурсов, ключевых слов…',
   },
   favorites: {

@@ -1,9 +1,10 @@
 // 資源中心（zh-TW）
 export default {
   sources: {
-    all: '全部',
+    all: '聚合',
   },
   categories: {
+    aggregate: '聚合',
     mod: '模組',
     modpack: '整合包',
     shader: '光影',
@@ -23,7 +24,6 @@ export default {
   unknownAuthor: '未知作者',
   install: '安裝',
   viewDetail: '查看詳情',
-  originalSite: '原站',
   searchFailed: '搜尋失敗',
   backendUnreachable: '無法連線到後端服務，請確保後端已啟動',
   title: '資源中心',
@@ -39,6 +39,8 @@ export default {
   clearFilter: '清除篩選',
   expandTags: '展開全部',
   collapseTags: '收起',
+  expandFilters: '展開篩選',
+  collapseFilters: '收起篩選',
   notFound: '未找到相關資源',
   notFoundHint: '嘗試更換關鍵字、資源源或分類',
   retry: '重試',
@@ -46,8 +48,6 @@ export default {
   loadMore: '載入更多（{current}/{total}）',
   allShown: '已顯示全部 {count} 個結果',
   mode: {
-    label: '瀏覽模式',
-    browse: '資源',
     searchPlaceholder: '搜尋資源、關鍵字...',
   },
   favorites: {

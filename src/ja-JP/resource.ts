@@ -1,9 +1,10 @@
 // リソースセンター（ja-JP）
 export default {
   sources: {
-    all: 'すべて',
+    all: '集約',
   },
   categories: {
+    aggregate: '集約',
     mod: 'Mod',
     modpack: 'Modパック',
     shader: 'シェーダー',
@@ -23,7 +24,6 @@ export default {
   unknownAuthor: '作者不明',
   install: 'インストール',
   viewDetail: '詳細を見る',
-  originalSite: 'オリジナルサイト',
   searchFailed: '検索に失敗しました',
   backendUnreachable: 'バックエンドサービスに接続できません。バックエンドが起動していることを確認してください',
   title: 'リソースセンター',
@@ -39,6 +39,8 @@ export default {
   clearFilter: 'フィルターをクリア',
   expandTags: 'すべて表示',
   collapseTags: '折りたたむ',
+  expandFilters: 'フィルターを表示',
+  collapseFilters: 'フィルターを隠す',
   notFound: '該当するリソースが見つかりません',
   notFoundHint: 'キーワード、リソースソース、カテゴリを変更してみてください',
   retry: '再試行',
@@ -46,8 +48,6 @@ export default {
   loadMore: 'さらに読み込み（{current}/{total}）',
   allShown: 'すべての {count} 件の結果を表示しました',
   mode: {
-    label: '閲覧モード',
-    browse: 'リソース',
     searchPlaceholder: 'リソース、キーワードを検索...',
   },
   favorites: {
