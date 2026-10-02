@@ -120,6 +120,10 @@ export default {
     dropHint: 'Перетащите файл или нажмите для выбора',
     dropSubHint: 'Поддерживаются модпаки MultiMC (вкл. папки), CurseForge, Modrinth, Qomicex',
     folderDropUnsupported: 'Перетаскивание папки не поддерживается в браузере. Используйте кнопку «Выбрать папку».',
+    optionalMods: 'Дополнительные моды ({count})',
+    selectAll: 'Выбрать все',
+    selectNone: 'Снять выбор',
+    optionalSummary: 'Обязательных: {required} · выбрано {selected}/{total}',
   },
   // Установка модпака (онлайн)
   modpackInstall: {

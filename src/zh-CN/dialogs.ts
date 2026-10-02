@@ -120,6 +120,10 @@ export default {
     dropHint: '拖入文件，或点击选择',
     dropSubHint: '支持 MultiMC 整合包/实例（含文件夹）、CurseForge、Modrinth、Qomicex',
     folderDropUnsupported: '浏览器环境不支持拖入文件夹，请使用「选择文件夹」按钮',
+    optionalMods: '可选模组（{count}）',
+    selectAll: '全选',
+    selectNone: '全不选',
+    optionalSummary: '必装 {required} 个 · 已选 {selected}/{total}',
   },
   // 安装整合包（在线）
   modpackInstall: {

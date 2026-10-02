@@ -120,6 +120,10 @@ export default {
     dropHint: 'ファイルをドロップ、またはクリックして選択',
     dropSubHint: 'MultiMC 整合パック/インスタンス（フォルダ含む）、CurseForge、Modrinth、Qomicex に対応',
     folderDropUnsupported: 'ブラウザ環境ではフォルダのドロップはサポートされていません。「フォルダを選択」ボタンを使用してください。',
+    optionalMods: 'オプションMod（{count}）',
+    selectAll: 'すべて選択',
+    selectNone: 'すべて解除',
+    optionalSummary: '必須 {required} 個 · 選択 {selected}/{total}',
   },
   // Modパックのインストール（オンライン）
   modpackInstall: {

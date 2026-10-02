@@ -120,6 +120,10 @@ export default {
     dropHint: 'Drop a file, or click to select',
     dropSubHint: 'Supports MultiMC modpacks/instances (incl. folders), CurseForge, Modrinth, Qomicex',
     folderDropUnsupported: 'Folder drop is not supported in the browser. Use the "Choose Folder" button instead.',
+    optionalMods: 'Optional mods ({count})',
+    selectAll: 'Select all',
+    selectNone: 'Select none',
+    optionalSummary: '{required} required · {selected}/{total} selected',
   },
   // Install modpack (online)
   modpackInstall: {
