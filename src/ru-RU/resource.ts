@@ -45,11 +45,16 @@ export default {
   loading: 'Загрузка…',
   loadMore: 'Загрузить ещё ({current}/{total})',
   allShown: 'Показаны все результаты: {count}',
+  mode: {
+    label: 'Режим просмотра',
+    browse: 'Ресурсы',
+    searchPlaceholder: 'Поиск ресурсов, ключевых слов…',
+  },
   favorites: {
     viewSearch: 'Поиск',
     viewLabel: 'Избранное',
     viewLabelWithCount: 'Избранное ({count})',
-    filterHint: 'Избранное фильтруется по источнику и категории выше',
+    searchPlaceholder: 'Поиск в избранном…',
     add: 'В избранное',
     remove: 'Убрать из избранного',
     added: 'Добавлено в избранное',
