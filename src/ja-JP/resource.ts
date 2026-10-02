@@ -84,9 +84,9 @@ export default {
       delete: '削除',
       deleteTitle: 'フォルダを削除',
       deleteBodyWithItems:
-        '「{name}」とその中の {count} 件のお気に入りが削除されます。この操作は元に戻せません。',
+        '「{name}」内の {count} 件のお気に入りがこのフォルダから外れます（お気に入り自体は残ります）。この操作は元に戻せません。',
       deleteBodyEmpty: '「{name}」にお気に入りはありません。削除すると元に戻せません。',
-      deleted: 'フォルダを削除しました（お気に入り {count} 件を含む）',
+      deleted: 'フォルダを削除しました（お気に入り {count} 件を外しました）',
     },
     note: {
       label: 'メモ',
@@ -104,7 +104,9 @@ export default {
       open: 'お気に入りを編集',
       title: 'お気に入りを編集',
       folderLabel: 'フォルダ',
-      none: '未分類',
+      noFolders: 'フォルダがまだありません。先にフォルダメニューから作成してください。',
+      folderHintNone: 'フォルダを選択していません。「未分類」に入ります。',
+      folderHintCount: '{count} 個のフォルダを選択中。',
       cancel: 'キャンセル',
       save: '保存',
       saving: '保存中...',

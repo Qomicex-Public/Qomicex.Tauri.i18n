@@ -84,9 +84,9 @@ export default {
       delete: 'Delete',
       deleteTitle: 'Delete folder',
       deleteBodyWithItems:
-        '"{name}" and its {count} favourites will be deleted. This cannot be undone.',
+        'The {count} favourites in "{name}" will be moved out of it (the favourites themselves are kept). This cannot be undone.',
       deleteBodyEmpty: '"{name}" has no favourites. Deleting it cannot be undone.',
-      deleted: 'Deleted folder ({count} favourites)',
+      deleted: 'Deleted folder ({count} favourites moved out)',
     },
     note: {
       label: 'Note',
@@ -103,8 +103,10 @@ export default {
     edit: {
       open: 'Edit favourite',
       title: 'Edit favourite',
-      folderLabel: 'Folder',
-      none: 'Unfiled',
+      folderLabel: 'Folders',
+      noFolders: 'No folders yet — create one from the folder menu first.',
+      folderHintNone: 'No folder selected; this favourite will be unfiled.',
+      folderHintCount: '{count} folders selected.',
       cancel: 'Cancel',
       save: 'Save',
       saving: 'Saving...',
