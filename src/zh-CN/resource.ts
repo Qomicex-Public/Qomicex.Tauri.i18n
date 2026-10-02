@@ -1,9 +1,10 @@
 // 资源中心（zh-CN）
 export default {
   sources: {
-    all: '全部',
+    all: '聚合',
   },
   categories: {
+    aggregate: '聚合',
     mod: '模组',
     modpack: '整合包',
     shader: '光影',
@@ -23,7 +24,6 @@ export default {
   unknownAuthor: '未知作者',
   install: '安装',
   viewDetail: '查看详情',
-  originalSite: '原站',
   searchFailed: '搜索失败',
   backendUnreachable: '无法连接到后端服务，请确保后端已启动',
   title: '资源中心',
@@ -35,10 +35,13 @@ export default {
   allVersions: '全部版本',
   loaderLabel: '加载器',
   allLoaders: '全部加载器',
+  sortLabel: '排序方式',
   categoryFilterLabel: '类别筛选',
   clearFilter: '清除筛选',
   expandTags: '展开全部',
   collapseTags: '收起',
+  expandFilters: '展开筛选',
+  collapseFilters: '收起筛选',
   notFound: '未找到相关资源',
   notFoundHint: '尝试更换关键词、资源源或分类',
   retry: '重试',
@@ -46,8 +49,6 @@ export default {
   loadMore: '加载更多（{current}/{total}）',
   allShown: '已显示全部 {count} 个结果',
   mode: {
-    label: '浏览模式',
-    browse: '资源',
     searchPlaceholder: '搜索资源、关键词...',
   },
   favorites: {

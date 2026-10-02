@@ -1,9 +1,10 @@
 // Resource center (en)
 export default {
   sources: {
-    all: 'All',
+    all: 'Aggregate',
   },
   categories: {
+    aggregate: 'Aggregate',
     mod: 'Mods',
     modpack: 'Modpacks',
     shader: 'Shaders',
@@ -23,7 +24,6 @@ export default {
   unknownAuthor: 'Unknown author',
   install: 'Install',
   viewDetail: 'View details',
-  originalSite: 'Original site',
   searchFailed: 'Search failed',
   backendUnreachable: 'Cannot connect to backend service, please make sure it is running',
   title: 'Resource Centre',
@@ -35,10 +35,13 @@ export default {
   allVersions: 'All versions',
   loaderLabel: 'Loader',
   allLoaders: 'All loaders',
+  sortLabel: 'Sort by',
   categoryFilterLabel: 'Category filter',
   clearFilter: 'Clear filter',
   expandTags: 'Show all',
   collapseTags: 'Collapse',
+  expandFilters: 'Show filters',
+  collapseFilters: 'Hide filters',
   notFound: 'No resources found',
   notFoundHint: 'Try different keywords, source or category',
   retry: 'Retry',
@@ -46,8 +49,6 @@ export default {
   loadMore: 'Load more ({current}/{total})',
   allShown: 'All {count} results shown',
   mode: {
-    label: 'Browse mode',
-    browse: 'Resources',
     searchPlaceholder: 'Search resources, keywords...',
   },
   favorites: {
