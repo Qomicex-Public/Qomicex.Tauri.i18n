@@ -45,11 +45,16 @@ export default {
   loading: '読み込み中...',
   loadMore: 'さらに読み込み（{current}/{total}）',
   allShown: 'すべての {count} 件の結果を表示しました',
+  mode: {
+    label: '閲覧モード',
+    browse: 'リソース',
+    searchPlaceholder: 'リソース、キーワードを検索...',
+  },
   favorites: {
     viewSearch: '検索',
     viewLabel: 'お気に入り',
     viewLabelWithCount: 'お気に入り（{count}）',
-    filterHint: 'お気に入りは上部の「ソース / カテゴリ」で絞り込まれます',
+    searchPlaceholder: 'お気に入りを検索...',
     add: 'お気に入りに追加',
     remove: 'お気に入りから削除',
     added: 'お気に入りに追加しました',

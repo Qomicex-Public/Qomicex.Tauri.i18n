@@ -45,11 +45,16 @@ export default {
   loading: 'Loading...',
   loadMore: 'Load more ({current}/{total})',
   allShown: 'All {count} results shown',
+  mode: {
+    label: 'Browse mode',
+    browse: 'Resources',
+    searchPlaceholder: 'Search resources, keywords...',
+  },
   favorites: {
     viewSearch: 'Search',
     viewLabel: 'Favourites',
     viewLabelWithCount: 'Favourites ({count})',
-    filterHint: 'Favourites are filtered by the source / category tabs above',
+    searchPlaceholder: 'Search favourites...',
     add: 'Add to favourites',
     remove: 'Remove from favourites',
     added: 'Added to favourites',

@@ -45,11 +45,16 @@ export default {
   loading: '載入中...',
   loadMore: '載入更多（{current}/{total}）',
   allShown: '已顯示全部 {count} 個結果',
+  mode: {
+    label: '瀏覽模式',
+    browse: '資源',
+    searchPlaceholder: '搜尋資源、關鍵字...',
+  },
   favorites: {
     viewSearch: '搜尋',
     viewLabel: '收藏',
     viewLabelWithCount: '收藏（{count}）',
-    filterHint: '收藏檢視依上方「來源 / 資源分類」篩選',
+    searchPlaceholder: '搜尋收藏...',
     add: '收藏',
     remove: '取消收藏',
     added: '已加入收藏',
