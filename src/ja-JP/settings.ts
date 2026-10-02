@@ -216,7 +216,7 @@ export default {
     remove: '削除',
     empty: 'カスタムノードは未追加です（現在は公式ノードのみ）',
     duplicate: 'そのノードは既にリストにあります',
-    formatHint: '形式：tcp://host:port（tcp / udp / quic / wss / ws）。Web の URL は入力しないでください（https:// は非対応）。',
+    formatHint: '形式：tcp://host:port または https://host/path。tcp / udp / wg / quic / ws / wss / faketcp に対応。http / https / txt / srv / ring はクライアントが自動解析します。',
     apply: 'ノード設定を適用',
     applying: '適用中...',
     appliedCustom: '{count} 件のカスタムノードを適用しました（カスタム優先、公式はフォールバック）',
@@ -225,7 +225,7 @@ export default {
     errors: {
       empty: 'ノードアドレスを入力してください',
       noScheme: 'スキーム接頭辞がありません（tcp://host:port 形式）',
-      badScheme: '未対応のスキームです（tcp / udp / quic / wss / ws のみ）',
+      badScheme: '未対応のスキームです（tcp / udp / wg / quic / ws / wss / faketcp / http / https / txt / srv / ring）',
       badHost: 'ホストまたはポートの形式が不正です（host:port）',
       badPort: 'ポートが不正です（1-65535）',
     },

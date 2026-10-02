@@ -216,7 +216,7 @@ export default {
     remove: 'Удалить',
     empty: 'Пользовательские узлы не добавлены (используются только официальные)',
     duplicate: 'Этот узел уже в списке',
-    formatHint: 'Формат: tcp://host:port (tcp / udp / quic / wss / ws). Не указывайте веб-адрес (https:// не поддерживается).',
+    formatHint: 'Формат: tcp://host:port или https://host/path. Поддерживаются tcp / udp / wg / quic / ws / wss / faketcp, а также http / https / txt / srv / ring (разрешаются клиентом автоматически).',
     apply: 'Применить настройки узлов',
     applying: 'Применение...',
     appliedCustom: 'Применено пользовательских узлов: {count} (сначала пользовательские, официальные как резерв)',
@@ -225,7 +225,7 @@ export default {
     errors: {
       empty: 'Адрес узла не может быть пустым',
       noScheme: 'Отсутствует схема (ожидается tcp://host:port)',
-      badScheme: 'Неподдерживаемая схема (только tcp / udp / quic / wss / ws)',
+      badScheme: 'Неподдерживаемая схема (поддерживаются tcp / udp / wg / quic / ws / wss / faketcp / http / https / txt / srv / ring)',
       badHost: 'Неверный формат хоста или порта (ожидается host:port)',
       badPort: 'Неверный порт (1-65535)',
     },

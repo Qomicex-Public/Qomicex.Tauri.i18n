@@ -216,7 +216,7 @@ export default {
     remove: '移除',
     empty: '尚未新增自訂節點（目前只用官方節點）',
     duplicate: '該節點已在清單中',
-    formatHint: '格式：tcp://host:port（支援 tcp / udp / quic / wss / ws）。請勿填網頁位址（https:// 不被支援）。',
+    formatHint: '格式：tcp://host:port 或 https://host/path。支援 tcp / udp / wg / quic / ws / wss / faketcp，以及 http / https / txt / srv / ring（這類位址由客戶端自動解析）。',
     apply: '套用節點設定',
     applying: '正在套用...',
     appliedCustom: '已套用 {count} 個自訂節點（自訂優先，官方作為後備）',
@@ -225,7 +225,7 @@ export default {
     errors: {
       empty: '節點位址不能為空',
       noScheme: '缺少協定前綴（應為 tcp://host:port）',
-      badScheme: '不支援的協定（僅支援 tcp / udp / quic / wss / ws）',
+      badScheme: '不支援的協定（支援 tcp / udp / wg / quic / ws / wss / faketcp / http / https / txt / srv / ring）',
       badHost: '主機或連接埠格式不正確（應為 host:port）',
       badPort: '連接埠無效（應在 1-65535 之間）',
     },

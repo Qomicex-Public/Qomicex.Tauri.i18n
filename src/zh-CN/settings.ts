@@ -216,7 +216,7 @@ export default {
     remove: '移除',
     empty: '尚未添加自定义节点（当前只用官方节点）',
     duplicate: '该节点已在列表中',
-    formatHint: '格式：tcp://host:port（支持 tcp / udp / quic / wss / ws）。不要填网页地址（https:// 不被支持）。',
+    formatHint: '格式：tcp://host:port 或 https://host/path。支持 tcp / udp / wg / quic / ws / wss / faketcp，以及 http / https / txt / srv / ring（这类地址由客户端自动解析）。',
     apply: '应用节点设置',
     applying: '正在应用...',
     appliedCustom: '已应用 {count} 个自定义节点（自定义优先，官方作为后备）',
@@ -225,7 +225,7 @@ export default {
     errors: {
       empty: '节点地址不能为空',
       noScheme: '缺少协议前缀（应为 tcp://host:port）',
-      badScheme: '不支持的协议（仅支持 tcp / udp / quic / wss / ws）',
+      badScheme: '不支持的协议（支持 tcp / udp / wg / quic / ws / wss / faketcp / http / https / txt / srv / ring）',
       badHost: '主机或端口格式不正确（应为 host:port）',
       badPort: '端口无效（应在 1-65535 之间）',
     },

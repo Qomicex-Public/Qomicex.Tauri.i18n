@@ -216,7 +216,7 @@ export default {
     remove: 'Remove',
     empty: 'No custom nodes yet (currently using official nodes only)',
     duplicate: 'That node is already in the list',
-    formatHint: 'Format: tcp://host:port (tcp / udp / quic / wss / ws). Do not enter a web URL (https:// is not supported).',
+    formatHint: 'Format: tcp://host:port or https://host/path. Supports tcp / udp / wg / quic / ws / wss / faketcp, plus http / https / txt / srv / ring (resolved automatically by the client).',
     apply: 'Apply node settings',
     applying: 'Applying...',
     appliedCustom: 'Applied {count} custom node(s) (custom first, official as fallback)',
@@ -225,7 +225,7 @@ export default {
     errors: {
       empty: 'Node address cannot be empty',
       noScheme: 'Missing scheme prefix (expected tcp://host:port)',
-      badScheme: 'Unsupported scheme (only tcp / udp / quic / wss / ws)',
+      badScheme: 'Unsupported scheme (supports tcp / udp / wg / quic / ws / wss / faketcp / http / https / txt / srv / ring)',
       badHost: 'Invalid host or port format (expected host:port)',
       badPort: 'Invalid port (must be 1-65535)',
     },
