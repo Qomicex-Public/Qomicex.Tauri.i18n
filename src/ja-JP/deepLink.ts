@@ -17,4 +17,6 @@ export default {
   registerSuccess: '外部起動リンクを関連付けました',
   registerFailed: '関連付けに失敗しました。後で設定から再試行できます',
   registerDeclined: 'スキップしました。今後は自動で確認しません',
+  launchAmbiguous: '{count} 個のインスタンスがすべて「{target}」という名前のため、どれを起動すべきか判断できません。代わりに ディレクトリ:インスタンス名 の形式で指定してください。例：{example}',
+  launchAmbiguousExample: '/path/to/game:インスタンス名',
 }

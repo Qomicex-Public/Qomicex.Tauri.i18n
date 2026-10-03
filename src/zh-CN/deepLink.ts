@@ -17,4 +17,6 @@ export default {
   registerSuccess: '已关联外部唤起链接',
   registerFailed: '关联失败，稍后可在设置中重试',
   registerDeclined: '已跳过，之后不再自动询问',
+  launchAmbiguous: '有 {count} 个实例都叫「{target}」，无法确定要启动哪个。请改用 目录:实例名 的形式，例如 {example}',
+  launchAmbiguousExample: '/path/to/game:实例名',
 }

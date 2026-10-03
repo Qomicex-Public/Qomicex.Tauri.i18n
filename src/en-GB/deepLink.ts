@@ -17,4 +17,6 @@ export default {
   registerSuccess: 'Deep link association enabled',
   registerFailed: 'Association failed. You can try again later in Settings.',
   registerDeclined: 'Skipped. You will not be asked again automatically.',
+  launchAmbiguous: '{count} instances are all named "{target}", so it is not clear which one to launch. Please use the directory:instance-name form instead, for example {example}',
+  launchAmbiguousExample: '/path/to/game:instance-name',
 }
