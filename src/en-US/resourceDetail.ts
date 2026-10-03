@@ -40,6 +40,11 @@ export default {
   noVersionUnderFilter: 'No available versions under current filters',
   install: 'Install',
   saveAs: 'Save as',
+  // #162 world saves: extracted to saves/<name>/; on conflict the user renames.
+  saveNameConflict: 'A save named "{name}" already exists',
+  saveNameConflictHint: 'Choose a different name for this map to avoid overwriting an existing world.',
+  saveNameTitle: 'Name this map',
+  saveNamePlaceholder: 'Save name',
   loading: 'Loading...',
   getDownload: 'Get download',
   noDownload: 'No downloads',
