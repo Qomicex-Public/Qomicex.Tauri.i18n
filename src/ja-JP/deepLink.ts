@@ -12,4 +12,9 @@ export default {
   installStarted: 'インストールを開始しました',
   installFailed: 'インストールに失敗しました：{message}',
   cancelled: '操作をキャンセルしました',
+  registerTitle: '外部起動リンクの関連付け',
+  registerDesc: 'qomicex-launcher:// リンクを開くアプリとしてランチャーを登録しますか？登録すると、ウェブページやショートカットから直接ランチャーを起動できます。',
+  registerSuccess: '外部起動リンクを関連付けました',
+  registerFailed: '関連付けに失敗しました。後で設定から再試行できます',
+  registerDeclined: 'スキップしました。今後は自動で確認しません',
 }
