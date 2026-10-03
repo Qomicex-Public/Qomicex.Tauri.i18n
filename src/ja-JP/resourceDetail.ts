@@ -40,6 +40,11 @@ export default {
   noVersionUnderFilter: '現在のフィルター条件では利用可能なバージョンがありません',
   install: 'インストール',
   saveAs: '名前を付けて保存',
+  // #162 ワールド保存：saves/<名前>/ に展開。同名時はユーザーが改名。
+  saveNameConflict: '同名のワールド「{name}」が既に存在します',
+  saveNameConflictHint: '既存のワールドを上書きしないよう、別の名前を付けてください。',
+  saveNameTitle: 'マップに名前を付ける',
+  saveNamePlaceholder: 'ワールド名',
   loading: '読み込み中...',
   getDownload: 'ダウンロードを取得',
   noDownload: 'ダウンロードがありません',

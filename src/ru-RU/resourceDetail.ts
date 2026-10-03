@@ -40,6 +40,11 @@ export default {
   noVersionUnderFilter: 'Нет доступных версий при текущем фильтре',
   install: 'Установить',
   saveAs: 'Сохранить как',
+  // #162 сохранения мира: распаковка в saves/<имя>/; при совпадении — переименование.
+  saveNameConflict: 'Сохранение с именем «{name}» уже существует',
+  saveNameConflictHint: 'Выберите другое имя для карты, чтобы не перезаписать существующий мир.',
+  saveNameTitle: 'Назовите карту',
+  saveNamePlaceholder: 'Имя сохранения',
   loading: 'Загрузка…',
   getDownload: 'Получить загрузку',
   noDownload: 'Нет загрузок',
