@@ -40,6 +40,11 @@ export default {
   noVersionUnderFilter: '目前篩選條件下沒有可用版本',
   install: '安裝',
   saveAs: '另存為',
+  // #162 地圖存檔：解壓成 saves/<名稱>/；同名時讓使用者改名後重試。
+  saveNameConflict: '已存在同名存檔「{name}」',
+  saveNameConflictHint: '請為要下載的地圖換一個名稱，避免覆蓋已有存檔。',
+  saveNameTitle: '為地圖命名',
+  saveNamePlaceholder: '存檔名稱',
   loading: '載入中...',
   getDownload: '取得下載',
   noDownload: '暫無下載',
