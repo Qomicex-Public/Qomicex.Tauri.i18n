@@ -18,6 +18,7 @@ import dialogs from './dialogs'
 import tools from './tools'
 import wizard from './wizard'
 import gameLog from './gameLog'
+import deepLink from './deepLink'
 
 export default {
   common,
@@ -39,4 +40,5 @@ export default {
   tools,
   wizard,
   gameLog,
+  deepLink,
 }

@@ -18,6 +18,7 @@ import dialogs from './dialogs'
 import tools from './tools'
 import wizard from './wizard'
 import gameLog from './gameLog'
+import deepLink from './deepLink'
 import type { TranslationSchema } from '../types'
 
 export default {
@@ -40,4 +41,5 @@ export default {
   tools,
   wizard,
   gameLog,
+  deepLink,
 } satisfies TranslationSchema
