@@ -207,6 +207,14 @@ export default {
     cacheStatsEmpty: '无缓存',
     cacheStatsLoading: '正在统计...',
   },
+  // 系统集成（外部唤起协议关联等）
+  integration: {
+    title: '系统集成',
+    deepLink: '关联 qomicex-launcher:// 链接',
+    deepLinkDesc: '允许网页、快捷方式等外部程序通过 qomicex-launcher:// 链接唤起启动器（快捷启动实例、安装插件等）。关闭后这些链接将不再有效。',
+    deepLinkMacNote: '此平台由安装包注册该协议，无法在运行时更改。',
+    deepLinkFailed: '关联失败，可能是权限限制；可尝试重新打开开关。',
+  },
   // 自定义联机节点（issue #112）
   relayNodes: {
     title: '联机节点',

@@ -12,10 +12,5 @@ export default {
   installStarted: '已开始安装',
   installFailed: '安装失败：{message}',
   cancelled: '已取消该操作',
-  registerTitle: '关联外部唤起链接',
-  registerDesc: '是否把启动器注册为 qomicex-launcher:// 链接的打开方式？注册后，网页或快捷方式可以直接唤起启动器。',
-  registerSuccess: '已关联外部唤起链接',
-  registerFailed: '关联失败，稍后可在设置中重试',
-  registerDeclined: '已跳过，之后不再自动询问',
   launchAmbiguous: '有 {count} 个实例都叫「{target}」，无法确定要启动哪个。请改用 目录:实例名 的形式，例如 {example}',
 }

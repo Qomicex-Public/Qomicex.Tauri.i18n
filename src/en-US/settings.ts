@@ -207,6 +207,14 @@ export default {
     cacheStatsEmpty: 'No cache',
     cacheStatsLoading: 'Calculating...',
   },
+  // System integration (external deep link association, etc.)
+  integration: {
+    title: 'System Integration',
+    deepLink: 'Associate qomicex-launcher:// links',
+    deepLinkDesc: 'Lets web pages, shortcuts and other external programs open the launcher through qomicex-launcher:// links (quick-launch an instance, install plugins, and so on). Once disabled, those links stop working.',
+    deepLinkMacNote: 'On this platform the protocol is registered by the installer and cannot be changed at runtime.',
+    deepLinkFailed: 'Association failed, possibly due to permission restrictions; try turning the switch on again.',
+  },
   // Custom relay nodes (issue #112)
   relayNodes: {
     title: 'Relay nodes',

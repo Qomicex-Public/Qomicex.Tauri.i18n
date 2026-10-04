@@ -12,10 +12,5 @@ export default {
   installStarted: '已開始安裝',
   installFailed: '安裝失敗：{message}',
   cancelled: '已取消該操作',
-  registerTitle: '關聯外部喚起連結',
-  registerDesc: '是否將啟動器註冊為 qomicex-launcher:// 連結的開啟方式？註冊後，網頁或捷徑可直接喚起啟動器。',
-  registerSuccess: '已關聯外部喚起連結',
-  registerFailed: '關聯失敗，稍後可在設定中重試',
-  registerDeclined: '已略過，之後不會再自動詢問',
   launchAmbiguous: '有 {count} 個實例都叫「{target}」，無法確定要啟動哪個。請改用 目錄:實例名 的形式，例如 {example}',
 }

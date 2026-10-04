@@ -12,10 +12,5 @@ export default {
   installStarted: 'Installation started',
   installFailed: 'Installation failed: {message}',
   cancelled: 'Action cancelled',
-  registerTitle: 'Associate Deep Links',
-  registerDesc: 'Register the launcher as the handler for qomicex-launcher:// links? Once registered, websites and shortcuts can open the launcher directly.',
-  registerSuccess: 'Deep link association enabled',
-  registerFailed: 'Association failed. You can try again later in Settings.',
-  registerDeclined: 'Skipped. You will not be asked again automatically.',
   launchAmbiguous: '{count} instances are all named "{target}", so it is not clear which one to launch. Please use the directory:instance-name form instead, for example {example}',
 }

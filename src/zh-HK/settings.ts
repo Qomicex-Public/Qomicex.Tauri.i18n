@@ -207,6 +207,14 @@ export default {
     cacheStatsEmpty: '無快取',
     cacheStatsLoading: '正在統計...',
   },
+  // 系統整合（外部喚起協議關聯等）
+  integration: {
+    title: '系統整合',
+    deepLink: '關聯 qomicex-launcher:// 連結',
+    deepLinkDesc: '允許網頁、捷徑等外部程式透過 qomicex-launcher:// 連結喚起啟動器（快速啟動實例、安裝插件等）。關閉後這些連結將不再有效。',
+    deepLinkMacNote: '此平台由安裝程式註冊該協議，無法在執行時更改。',
+    deepLinkFailed: '關聯失敗，可能是權限限制；可嘗試重新開啟開關。',
+  },
   // 自訂聯機節點（issue #112）
   relayNodes: {
     title: '聯機節點',

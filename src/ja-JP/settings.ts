@@ -207,6 +207,14 @@ export default {
     cacheStatsEmpty: 'キャッシュなし',
     cacheStatsLoading: '集計中...',
   },
+  // システム統合（外部起動プロトコルの関連付けなど）
+  integration: {
+    title: 'システム統合',
+    deepLink: 'qomicex-launcher:// リンクを関連付ける',
+    deepLinkDesc: 'ウェブページやショートカットなどの外部プログラムから qomicex-launcher:// リンクでランチャーを起動できるようにします（インスタンスのクイック起動、プラグインのインストールなど）。オフにすると、これらのリンクは機能しなくなります。',
+    deepLinkMacNote: 'このプラットフォームではインストーラーがプロトコルを登録するため、実行時に変更できません。',
+    deepLinkFailed: '関連付けに失敗しました。権限の制限が原因の可能性があります。スイッチを入れ直してみてください。',
+  },
   // カスタム中継ノード（issue #112）
   relayNodes: {
     title: '中継ノード',
