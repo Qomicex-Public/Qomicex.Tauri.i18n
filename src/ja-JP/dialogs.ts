@@ -143,6 +143,7 @@ export default {
     viewInstance: 'インスタンスを表示',
     backgroundDownload: 'バックグラウンドでダウンロード',
     cancelled: 'キャンセル済み',
+    technicNoVersion: 'このModパックにはバージョン選択がありません。インストール時にパック内メタデータからMinecraftとローダーが自動決定されます。',
     installFailed: 'インストールに失敗しました',
 
 
