@@ -439,6 +439,8 @@ export default {
     checkUpdate: '檢查更新',
     upToDate: '已是最新版本',
     checkUpdateFailed: '檢查更新失敗',
+    updateAutoInstall: '自動下載並安裝更新',
+    updateAutoInstallDesc: '發現新版本後會自動在背景下載，完成後提示重新啟動安裝；若不點擊，下次啟動時會自動安裝完成。關閉後恢復為彈出更新對話框。',
     developers: '開發者',
     acknowledgements: '鳴謝',
     referenceProjects: '參考項目',
