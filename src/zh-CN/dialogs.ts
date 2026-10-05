@@ -143,6 +143,7 @@ export default {
     viewInstance: '查看实例',
     backgroundDownload: '后台下载',
     cancelled: '已取消',
+    technicNoVersion: '该整合包无版本选择：安装时由包内元数据自动确定 Minecraft 与加载器',
     installFailed: '安装失败',
   },
   // 导出整合包

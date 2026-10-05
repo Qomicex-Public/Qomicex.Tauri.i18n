@@ -143,6 +143,7 @@ export default {
     viewInstance: '查看實例',
     backgroundDownload: '背景下載',
     cancelled: '已取消',
+    technicNoVersion: '該整合包無版本選擇：安裝時由包內中繼資料自動確定 Minecraft 與載入器',
     installFailed: '安裝失敗',
 
 

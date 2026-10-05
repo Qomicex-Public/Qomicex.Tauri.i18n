@@ -143,6 +143,7 @@ export default {
     viewInstance: 'View Instance',
     backgroundDownload: 'Download in Background',
     cancelled: 'Cancelled',
+    technicNoVersion: 'This pack has no version picker: Minecraft and loader are determined from the pack metadata during install.',
     installFailed: 'Install failed',
   },
   // Export modpack

@@ -143,6 +143,7 @@ export default {
     viewInstance: 'Открыть экземпляр',
     backgroundDownload: 'Загрузка в фоне',
     cancelled: 'Отменено',
+    technicNoVersion: 'У этого модпака нет выбора версии: Minecraft и загрузчик определяются из метаданных пакета при установке.',
     installFailed: 'Ошибка установки',
 
 
