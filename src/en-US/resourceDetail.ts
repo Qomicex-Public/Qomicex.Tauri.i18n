@@ -47,6 +47,9 @@ export default {
   saveNamePlaceholder: 'Save name',
   loading: 'Loading...',
   getDownload: 'Get download',
+  mcmod: 'MC Encyclopedia',
+  copyName: 'Copy resource name',
+  copyNameFailed: 'Copy failed',
   noDownload: 'No downloads',
   loadMore: 'Load more ({count})',
 } as const

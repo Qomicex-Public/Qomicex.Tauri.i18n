@@ -46,7 +46,6 @@ export default {
   notFoundHint: '尝试更换关键词、资源源或分类',
   retry: '重试',
   loading: '加载中...',
-  loadMore: '加载更多（{current}/{total}）',
   allShown: '已显示全部 {count} 个结果',
   mode: {
     searchPlaceholder: '搜索资源、关键词...',

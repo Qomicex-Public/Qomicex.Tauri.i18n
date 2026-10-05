@@ -47,6 +47,9 @@ export default {
   saveNamePlaceholder: 'Имя сохранения',
   loading: 'Загрузка…',
   getDownload: 'Получить загрузку',
+  mcmod: 'MCWiki',
+  copyName: 'Копировать название ресурса',
+  copyNameFailed: 'Не удалось скопировать',
   noDownload: 'Нет загрузок',
   loadMore: 'Загрузить ещё ({count})',
 } as const

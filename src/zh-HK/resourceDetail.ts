@@ -47,6 +47,9 @@ export default {
   saveNamePlaceholder: '存檔名稱',
   loading: '載入中...',
   getDownload: '取得下載',
+  mcmod: 'MC百科',
+  copyName: '複製資源名稱',
+  copyNameFailed: '複製失敗',
   noDownload: '暫無下載',
   loadMore: '載入更多 ({count} 個)',
 } as const
