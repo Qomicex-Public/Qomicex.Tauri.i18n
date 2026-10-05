@@ -46,7 +46,6 @@ export default {
   notFoundHint: '嘗試更換關鍵字、資源源或分類',
   retry: '重試',
   loading: '載入中...',
-  loadMore: '載入更多（{current}/{total}）',
   allShown: '已顯示全部 {count} 個結果',
   mode: {
     searchPlaceholder: '搜尋資源、關鍵字...',

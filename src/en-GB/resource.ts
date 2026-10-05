@@ -46,7 +46,6 @@ export default {
   notFoundHint: 'Try different keywords, source or category',
   retry: 'Retry',
   loading: 'Loading...',
-  loadMore: 'Load more ({current}/{total})',
   allShown: 'All {count} results shown',
   mode: {
     searchPlaceholder: 'Search resources, keywords...',

@@ -47,6 +47,9 @@ export default {
   saveNamePlaceholder: 'ワールド名',
   loading: '読み込み中...',
   getDownload: 'ダウンロードを取得',
+  mcmod: 'MC百科',
+  copyName: 'リソース名をコピー',
+  copyNameFailed: 'コピーに失敗しました',
   noDownload: 'ダウンロードがありません',
   loadMore: 'さらに読み込み ({count} 個)',
 } as const

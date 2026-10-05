@@ -46,7 +46,6 @@ export default {
   notFoundHint: 'Попробуйте изменить ключевые слова, источник или категорию',
   retry: 'Повторить',
   loading: 'Загрузка…',
-  loadMore: 'Загрузить ещё ({current}/{total})',
   allShown: 'Показаны все результаты: {count}',
   mode: {
     searchPlaceholder: 'Поиск ресурсов, ключевых слов…',

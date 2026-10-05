@@ -46,7 +46,6 @@ export default {
   notFoundHint: 'キーワード、リソースソース、カテゴリを変更してみてください',
   retry: '再試行',
   loading: '読み込み中...',
-  loadMore: 'さらに読み込み（{current}/{total}）',
   allShown: 'すべての {count} 件の結果を表示しました',
   mode: {
     searchPlaceholder: 'リソース、キーワードを検索...',
