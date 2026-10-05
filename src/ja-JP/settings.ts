@@ -439,6 +439,8 @@ export default {
     checkUpdate: '更新を確認',
     upToDate: '最新バージョンです',
     checkUpdateFailed: '更新の確認に失敗しました',
+    updateAutoInstall: '更新を自動でダウンロードしてインストール',
+    updateAutoInstallDesc: '新しいバージョンを見つけるとバックグラウンドで自動的にダウンロードし、完了後に再起動してインストールするよう通知します。クリックしない場合は、次回起動時に自動的にインストールされます。オフにすると更新ダイアログを表示する元の動作に戻ります。',
     developers: '開発者',
     acknowledgements: '謝辞',
     referenceProjects: '参考プロジェクト',

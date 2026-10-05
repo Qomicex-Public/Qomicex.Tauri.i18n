@@ -208,6 +208,13 @@ export default {
     channelSwitchNotice: 'You are switching to a different release channel. This is a channel change rather than a regular version upgrade; you will receive further updates from that channel.',
   },
 
+  // Auto-update "ready to install" prompt (issue #190: shown after the silent background download)
+  updateReady: {
+    message: 'The update is ready to install. Click here to restart the launcher!',
+    installNow: 'Install and restart',
+    dismiss: 'Not now (it will still install on the next launch)',
+  },
+
   // Update-complete notice (dialog shown on the first launch after a self-update)
   updateComplete: {
     title: 'Update complete',

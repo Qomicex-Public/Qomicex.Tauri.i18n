@@ -438,6 +438,8 @@ export default {
     checkUpdate: '检查更新',
     upToDate: '已是最新版本',
     checkUpdateFailed: '检查更新失败',
+    updateAutoInstall: '自动下载并安装更新',
+    updateAutoInstallDesc: '发现新版本后自动在后台下载，完成后提示重启安装；若不点击，下次启动时会自动安装完成。关闭后恢复为弹出更新对话框。',
     developers: '开发者',
     acknowledgements: '鸣谢',
     referenceProjects: '参考项目',

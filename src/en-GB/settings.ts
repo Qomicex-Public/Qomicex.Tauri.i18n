@@ -439,6 +439,8 @@ export default {
     checkUpdate: 'Check for updates',
     upToDate: 'Already up to date',
     checkUpdateFailed: 'Failed to check for updates',
+    updateAutoInstall: 'Download and install updates automatically',
+    updateAutoInstallDesc: 'New versions are downloaded in the background, then a prompt offers to restart and install. If you do not click it, the update is installed automatically on your next launch. Turn this off to go back to the update dialog.',
     developers: 'Developers',
     acknowledgements: 'Acknowledgements',
     referenceProjects: 'Reference projects',
