@@ -220,6 +220,19 @@ export default {
     title: '更新完成',
     description: '启动器已成功更新到以下版本，可在此查看本次更新内容。',
     dismiss: '知道了',
+    /** updater 没装成时的提示（issue #201）：按机器码取文案，未知码走 unknown */
+    failed: {
+      title: '更新未完成',
+      elevationDenied: '覆盖系统安装目录需要管理员权限，本次授权没有通过。',
+      installFailed: '更新包已下载完成，但没能安装到目标位置。',
+      waitTimeout: '旧版启动器没有正常退出，更新已中止。',
+      unknown: '这次更新没能完成。',
+      target: '目标版本',
+      detail: '详细信息',
+      hint: '你可以稍后在「设置 → 更新」里重试；重新启动后也会再次检查。',
+      hintSystem: '你可以稍后在「设置 → 更新」里重试，或手动升级：sudo dpkg -i <已下载的安装包>（rpm 用 sudo rpm -Uvh）。',
+    },
+
   },
   // 许可证激活
   license: {

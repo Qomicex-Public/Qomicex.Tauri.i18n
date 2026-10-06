@@ -227,6 +227,19 @@ export default {
     title: 'Update complete',
     description: 'The launcher has been successfully updated to the version below. You can review the release notes here.',
     dismiss: 'Got it',
+    /** updater 没装成时的提示（issue #201）：按机器码取文案，未知码走 unknown */
+    failed: {
+      title: 'Update did not finish',
+      elevationDenied: 'Administrator permission is required to overwrite the system install directory, and it was not granted.',
+      installFailed: 'The update package was downloaded, but it could not be installed to the target location.',
+      waitTimeout: 'The previous launcher did not exit in time, so the update was aborted.',
+      unknown: 'The update could not be completed.',
+      target: 'Target version',
+      detail: 'Details',
+      hint: 'Try again later under Settings → Update; it is checked again after a restart.',
+      hintSystem: 'Try again later under Settings → Update, or upgrade manually: sudo dpkg -i <downloaded package> (use sudo rpm -Uvh for rpm).',
+    },
+
   },
   // License activation
   license: {

@@ -227,6 +227,19 @@ export default {
     title: '更新完成',
     description: '啟動器已成功更新到以下版本，可在此查看本次更新內容。',
     dismiss: '知道了',
+    /** updater 冇裝成時嘅提示（issue #201）：按機器碼取文案，未知碼走 unknown */
+    failed: {
+      title: '更新未完成',
+      elevationDenied: '覆蓋系統安裝目錄需要管理員權限，今次授權冇通過。',
+      installFailed: '更新套件已經下載完，但係裝唔到目標位置。',
+      waitTimeout: '舊版啟動器冇正常結束，更新已經中止。',
+      unknown: '今次更新冇完成。',
+      target: '目標版本',
+      detail: '詳細資料',
+      hint: '你可以稍後喺「設置 → 更新」再試；重新開啟後亦會再檢查一次。',
+      hintSystem: '你可以稍後喺「設置 → 更新」再試，或者手動升級：sudo dpkg -i <已下載嘅安裝套件>（rpm 用 sudo rpm -Uvh）。',
+    },
+
   },
   // 許可證啟動
   license: {
