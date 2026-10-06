@@ -127,7 +127,7 @@ export default {
     modSourceName: { 0: 'Modrinth/CurseForge 官方', 1: 'MCIM 鏡像' },
     resourceDownloadSource: '檔案下載源',
     resourceDownloadSourceName: { 0: '官方源', 1: '鏡像源' },
-    resourceDownloadSourceDesc: '揀 MOD 檔案下載用嘅 CDN：官方源直連原站；鏡像源優先走 MCIM 公共鏡像，唔得嗰陣自動轉 QML Mirror 鏡像節點，最後返官方源。中國大陸時區預設用鏡像源。',
+    resourceDownloadSourceDesc: '揀 MOD 檔案下載用嘅 CDN：官方源直連原站；鏡像源優先走 MCIM 公共鏡像，唔得嗰陣自動轉 QML Mirror 鏡像節點，最後返官方源。UTC+8 時區預設用鏡像源。',
     autoSelectFileDownloadSource: '自動選擇下載源',
     autoSelectFileDownloadSourceDesc: '自動揀延遲最低嘅可用下載源',
     refreshLatency: '重新整理延遲',
