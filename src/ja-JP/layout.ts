@@ -10,6 +10,8 @@ export default {
     logAnalysis: 'ログ分析',
     running: '実行中',
     settings: '設定',
+    expand: 'サイドバーを展開',
+    collapse: 'サイドバーを折りたたむ',
   },
   externalLinkConfirm: '外部リンクを開きます：\n{url}\n\n続行しますか？',
 } as const

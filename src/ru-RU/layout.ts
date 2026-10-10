@@ -10,6 +10,8 @@ export default {
     logAnalysis: 'Анализ логов',
     running: 'Запущенные',
     settings: 'Настройки',
+    expand: 'Развернуть боковую панель',
+    collapse: 'Свернуть боковую панель',
   },
   externalLinkConfirm: 'Будет открыта внешняя ссылка:\n{url}\n\nПродолжить?',
 } as const

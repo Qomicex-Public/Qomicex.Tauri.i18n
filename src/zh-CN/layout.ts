@@ -10,6 +10,8 @@ export default {
     logAnalysis: '日志分析',
     running: '运行中',
     settings: '设置',
+    expand: '展开侧边栏',
+    collapse: '收起侧边栏',
   },
   externalLinkConfirm: '即将打开外部链接：\n{url}\n\n是否继续？',
 } as const

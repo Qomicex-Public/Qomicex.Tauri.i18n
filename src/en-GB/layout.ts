@@ -10,6 +10,8 @@ export default {
     logAnalysis: 'Log Analysis',
     running: 'Running',
     settings: 'Settings',
+    expand: 'Expand sidebar',
+    collapse: 'Collapse sidebar',
   },
   externalLinkConfirm: 'This will open an external link:\n{url}\n\nContinue?',
 } as const
