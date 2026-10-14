@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 測試遊戲即時日誌視窗（zh-HK）
 export default {
   title: '即時遊戲日誌',

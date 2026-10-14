@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // インスタンス一覧（ja-JP）
 export default {
   title: 'ゲームインスタンス',

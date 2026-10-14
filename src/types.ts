@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // i18n 类型定义：zh-CN 为基准 schema，其余语言必须结构一致（satisfies 编译期校验）
 import type zhCN from './zh-CN/index'
 

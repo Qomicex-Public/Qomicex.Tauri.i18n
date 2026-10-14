@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Детали аккаунта (ru-RU)
 export default {
   capeUnequipped: 'Плащ снят',

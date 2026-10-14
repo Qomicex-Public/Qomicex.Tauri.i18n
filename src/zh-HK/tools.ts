@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 雜項工具/除錯/日誌/閃屏（zh-HK）
 export default {
   toolbox: {

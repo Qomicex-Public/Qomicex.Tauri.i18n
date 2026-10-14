@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Прочие инструменты/отладка/журналы/заставка (ru-RU)
 export default {
   toolbox: {

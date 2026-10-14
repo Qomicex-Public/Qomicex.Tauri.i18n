@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Сетевая игра (ru-RU)
 export default {
   hostBadge: 'Хост',

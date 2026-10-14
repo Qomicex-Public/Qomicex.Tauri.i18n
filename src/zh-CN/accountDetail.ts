@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 账户详情（zh-CN）
 export default {
   capeUnequipped: '披风已卸下',

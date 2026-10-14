@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Общие диалоги/карточки (ru-RU)
 export default {
   // Этап установки/загрузки (как в downloads.stage, для динамической отрисовки ключей в диалогах)

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Сообщения об ошибках бэкенда (отображение по кодам ошибок фронтенда, ru-RU)
 export default {
   notFound: 'Запрошенный ресурс не найден',

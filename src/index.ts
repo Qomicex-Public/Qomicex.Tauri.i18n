@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Qomicex.Tauri.i18n — 资源导出入口
 // 启动器前端通过 submodule 引用本仓库，从 src/index.ts 导入全部语言资源。
 import zhCN from './zh-CN/index'

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 後端錯誤訊息（前端錯誤碼對應顯示，zh-TW）
 export default {
   notFound: '要求的資源不存在',

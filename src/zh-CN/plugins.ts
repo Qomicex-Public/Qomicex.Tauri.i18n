@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 插件（zh-CN）
 export default {
   notFound: '插件未找到',

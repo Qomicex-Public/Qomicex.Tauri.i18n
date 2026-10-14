@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Мастер первичной настройки (ru-RU)
 export default {
   title: 'Добро пожаловать в Qomicex',

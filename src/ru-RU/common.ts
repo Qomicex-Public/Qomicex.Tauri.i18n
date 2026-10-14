@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Общие сообщения (ru-RU)
 export default {
   ok: 'ОК',

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 設定ページ（ja-JP；バッチ0 に category ナビ + appearance 外観の中核項目、その他は移行バッチで補充）
 export default {
   category: {

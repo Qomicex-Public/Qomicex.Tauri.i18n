@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 實例列表（zh-HK）
 export default {
   title: '遊戲實例',

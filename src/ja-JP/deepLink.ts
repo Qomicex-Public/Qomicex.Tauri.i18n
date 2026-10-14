@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 外部起動（qomicex-launcher:// ディープリンク、issue #127）のプロンプト文言
 export default {
   launchNotFound: 'インスタンスが見つかりません：{target}',

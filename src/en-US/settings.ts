@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Settings page (en; batch0 covers category nav + appearance core, rest filled by migration batches)
 export default {
   category: {

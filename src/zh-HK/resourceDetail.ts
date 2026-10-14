@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 資源詳情（zh-HK）
 export default {
   prereqMods: '前置模組',

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 外部唤起（qomicex-launcher:// 深链，issue #127）的提示文案
 export default {
   launchNotFound: '未找到实例：{target}',

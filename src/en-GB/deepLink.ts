@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Deep link (qomicex-launcher://) prompts, issue #127
 export default {
   launchNotFound: 'Instance not found: {target}',

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 运行/启动流程（zh-CN）
 export default {
   gameCrashed: '游戏已崩溃',

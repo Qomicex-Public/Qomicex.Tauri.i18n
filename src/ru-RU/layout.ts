@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Оболочка: боковая панель / заголовок / макет (ru-RU)
 export default {
   sidebar: {

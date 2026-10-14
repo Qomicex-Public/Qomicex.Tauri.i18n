@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Shell: sidebar / title bar / layout (en)
 export default {
   sidebar: {

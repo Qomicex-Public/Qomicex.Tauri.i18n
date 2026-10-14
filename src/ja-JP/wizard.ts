@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 初回起動初期化ウィザード（ja-JP）
 export default {
   title: 'Qomicex へようこそ',

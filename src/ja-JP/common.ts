@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 共通メッセージ（ja-JP）
 export default {
   ok: '了解',

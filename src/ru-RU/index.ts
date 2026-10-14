@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Сводный файл ресурсов ru-RU (структура должна полностью совпадать с zh-CN, проверка satisfies на этапе компиляции)
 import common from './common'
 import layout from './layout'

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 通用高頻文案（zh-TW）
 export default {
   ok: '確定',

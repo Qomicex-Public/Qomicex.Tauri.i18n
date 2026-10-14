@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // テスト起動リアルタイムログウィンドウ（ja-JP）
 export default {
   title: 'リアルタイムゲームログ',

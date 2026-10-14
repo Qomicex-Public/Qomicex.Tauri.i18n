@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Список экземпляров (ru-RU)
 export default {
   title: 'Игровые экземпляры',

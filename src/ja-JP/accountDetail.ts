@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // アカウント詳細（ja-JP）
 export default {
   capeUnequipped: 'マントを外しました',

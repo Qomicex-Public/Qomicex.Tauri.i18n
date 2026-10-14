@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 聯機（zh-HK）
 export default {
   hostBadge: '房主',

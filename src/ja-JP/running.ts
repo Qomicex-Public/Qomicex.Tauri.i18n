@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 実行／起動フロー（ja-JP）
 export default {
   gameCrashed: 'ゲームがクラッシュしました',

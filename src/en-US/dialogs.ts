@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Common dialogs / cards (en)
 export default {
   // Install / download stages (same as downloads.stage, for dynamic keys in dialogs)

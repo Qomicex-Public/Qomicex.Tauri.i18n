@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Детали ресурса (ru-RU)
 export default {
   prereqMods: 'Требуемые моды',

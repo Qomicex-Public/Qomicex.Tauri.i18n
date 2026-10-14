@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // バックエンドエラーメッセージ（フロントエンドのエラーコード表示用、ja-JP）
 export default {
   notFound: '要求されたリソースが存在しません',

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Подсказки внешнего запуска (deep link qomicex-launcher://, issue #127)
 export default {
   launchNotFound: 'Экземпляр не найден: {target}',

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Plugins (en)
 export default {
   notFound: 'Plugin not found',

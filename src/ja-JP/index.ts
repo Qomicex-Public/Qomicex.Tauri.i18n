@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // ja-JP リソース一覧（構造は zh-CN と完全に一致させること、satisfies によるコンパイル時検証）
 import common from './common'
 import layout from './layout'

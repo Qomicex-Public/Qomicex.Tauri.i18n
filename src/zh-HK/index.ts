@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // zh-HK 资源总表（香港繁体，结构必须与 zh-CN 完全一致，satisfies 编译期校验）
 import common from './common'
 import layout from './layout'

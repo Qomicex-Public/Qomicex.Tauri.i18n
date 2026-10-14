@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 设置页（zh-CN；批0 含 category 导航 + appearance 外观核心项，其余由迁移批次补充）
 export default {
   category: {

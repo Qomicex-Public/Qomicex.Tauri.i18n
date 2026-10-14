@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Плагины (ru-RU)
 export default {
   notFound: 'Плагин не найден',

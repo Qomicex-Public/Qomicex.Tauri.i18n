@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 通用弹窗/卡片（zh-CN）
 export default {
   // 安装/下载阶段（与 downloads.stage 相同，供弹窗渲染动态 key）

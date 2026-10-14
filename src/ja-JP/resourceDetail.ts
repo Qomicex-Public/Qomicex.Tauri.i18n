@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // リソース詳細（ja-JP）
 export default {
   prereqMods: '前提Mod',

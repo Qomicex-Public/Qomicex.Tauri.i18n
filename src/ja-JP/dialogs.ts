@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 汎用ダイアログ／カード（ja-JP）
 export default {
   // インストール/ダウンロード段階（downloads.stage と同じ。ダイアログの動的 key 描画用）

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // zh-CN 资源总表（i18n 基准 schema）
 import common from './common'
 import layout from './layout'

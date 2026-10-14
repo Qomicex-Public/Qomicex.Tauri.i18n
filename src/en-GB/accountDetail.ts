@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Account detail (en)
 export default {
   capeUnequipped: 'Cape removed',

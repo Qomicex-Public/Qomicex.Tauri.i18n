@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Окно реального времени игровых логов (ru-RU)
 export default {
   title: 'Игровые логи',

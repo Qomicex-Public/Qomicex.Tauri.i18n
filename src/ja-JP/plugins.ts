@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // プラグイン（ja-JP）
 export default {
   notFound: 'プラグインが見つかりません',

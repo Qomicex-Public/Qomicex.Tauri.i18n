@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // ダッシュボード（ja-JP）
 export default {
   account: 'アカウント',

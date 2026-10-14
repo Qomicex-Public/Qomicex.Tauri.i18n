@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 設定頁（zh-HK；批0 含 category 導覽 + appearance 外觀核心項，其餘由遷移批次補充）
 export default {
   category: {

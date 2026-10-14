@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // アカウント（ja-JP）
 export default {
   loginErrors: {

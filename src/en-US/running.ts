@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Launch / running flow (en)
 export default {
   gameCrashed: 'Game crashed',

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // アプリシェル：サイドバー / タイトルバー / レイアウト（ja-JP）
 export default {
   sidebar: {

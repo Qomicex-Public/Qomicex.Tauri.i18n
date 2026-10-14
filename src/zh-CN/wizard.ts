@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 首次启动初始化向导（zh-CN）
 export default {
   title: '欢迎使用 Qomicex',

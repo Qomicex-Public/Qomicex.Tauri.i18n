@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Страница настроек (ru-RU; пакет 0: навигация category + основные элементы appearance, остальное дополняется миграционными пакетами)
 export default {
   category: {

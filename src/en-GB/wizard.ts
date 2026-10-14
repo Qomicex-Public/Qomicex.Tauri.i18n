@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // First-launch setup wizard (en)
 export default {
   title: 'Welcome to Qomicex',

@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // Backend error messages (mapped from error codes on the frontend, en)
 export default {
   notFound: 'Requested resource was not found',

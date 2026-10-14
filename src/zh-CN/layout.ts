@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 外壳：侧边栏 / 标题栏 / 布局（zh-CN）
 export default {
   sidebar: {

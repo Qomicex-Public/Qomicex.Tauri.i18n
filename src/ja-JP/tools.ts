@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // その他ツール／デバッグ／ログ／スプラッシュ（ja-JP）
 export default {
   toolbox: {

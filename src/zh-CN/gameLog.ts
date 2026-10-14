@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Qomicex Public
+// SPDX-License-Identifier: MIT
+
 // 测试游戏实时日志窗口（zh-CN）
 export default {
   title: '实时游戏日志',
