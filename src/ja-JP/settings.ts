@@ -125,7 +125,8 @@ export default {
     telemetry: '匿名プラグインエラーテレメトリ',
     telemetryDesc: '有効にすると、プラグインの読み込みや実行時エラー時に匿名のエラーカテゴリを自動報告します（プラグインID・バージョン・エラータイプ・ランチャーバージョンのみ。パス・スタック・個人情報は含みません）。異常なプラグインバージョンのカナリアを自動停止するために使用します。デフォルトはオフ',
     downloadSource: 'ダウンロードソース',
-    sourcePreference: "ダウンロード元の優先設定",
+    vanillaSourcePreference: "バニラリソース",
+    modSourcePreference: "Mod リソース",
     sourcePreferenceName: {
       official: "公式を優先",
       mirror: "ミラーを優先",

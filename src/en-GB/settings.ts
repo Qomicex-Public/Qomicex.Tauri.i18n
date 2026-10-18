@@ -125,7 +125,8 @@ export default {
     telemetry: 'Anonymous plugin error telemetry',
     telemetryDesc: 'When enabled, the launcher reports anonymous error categories when a plugin fails to load or errors at runtime (plugin ID, version, error type and launcher version only — no paths, stacks or personal data), used to auto-pause problematic plugin version rollouts. Off by default',
     downloadSource: 'Download source',
-    sourcePreference: "Download source preference",
+    vanillaSourcePreference: "Vanilla resources",
+    modSourcePreference: "Mod resources",
     sourcePreferenceName: {
       official: "Official first",
       mirror: "Mirror first",

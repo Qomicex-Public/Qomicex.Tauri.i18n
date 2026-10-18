@@ -125,7 +125,8 @@ export default {
     telemetry: '匿名插件错误遥测',
     telemetryDesc: '开启后，插件加载或运行出错时自动上报匿名错误类别（仅插件 ID、版本、错误类型与启动器版本，不含路径、堆栈或任何隐私数据），用于自动暂停异常的插件版本灰度。默认关闭',
     downloadSource: '下载源',
-    sourcePreference: "下载源偏好",
+    vanillaSourcePreference: "原版资源",
+    modSourcePreference: "模组资源",
     sourcePreferenceName: {
       official: "官方源优先",
       mirror: "镜像源优先",
