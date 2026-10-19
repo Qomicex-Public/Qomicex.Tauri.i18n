@@ -362,6 +362,7 @@ export default {
   resourceInstall: {
     title: '{name} をインストール',
     selectInstance: 'インスタンスを選択',
+    targetInstance: '対象インスタンス',
     loadingInstances: 'インスタンス一覧を読み込み中...',
     instancesLoadFailed: 'インスタンス一覧の読み込みに失敗しました',
     noInstances: 'インスタンスがありません。先にインスタンスを作成してください',

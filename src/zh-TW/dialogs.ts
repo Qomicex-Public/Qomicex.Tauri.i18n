@@ -362,6 +362,7 @@ export default {
   resourceInstall: {
     title: '安裝 {name}',
     selectInstance: '選擇實例',
+    targetInstance: '目標實例',
     loadingInstances: '載入實例列表中...',
     instancesLoadFailed: '載入實例列表失敗',
     noInstances: '暫無實例，請先建立實例',

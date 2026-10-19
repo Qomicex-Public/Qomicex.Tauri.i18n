@@ -355,6 +355,7 @@ export default {
   resourceInstall: {
     title: '安装 {name}',
     selectInstance: '选择实例',
+    targetInstance: '目标实例',
     loadingInstances: '加载实例列表中...',
     instancesLoadFailed: '加载实例列表失败',
     noInstances: '暂无实例，请先创建实例',

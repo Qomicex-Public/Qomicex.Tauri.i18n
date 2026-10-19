@@ -355,6 +355,7 @@ export default {
   resourceInstall: {
     title: 'Install {name}',
     selectInstance: 'Select Instance',
+    targetInstance: 'Target instance',
     loadingInstances: 'Loading instance list...',
     instancesLoadFailed: 'Failed to load instance list',
     noInstances: 'No instances yet. Create an instance first.',

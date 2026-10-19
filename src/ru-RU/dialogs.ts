@@ -362,6 +362,7 @@ export default {
   resourceInstall: {
     title: 'Установка {name}',
     selectInstance: 'Выберите экземпляр',
+    targetInstance: 'Целевой экземпляр',
     loadingInstances: 'Загрузка списка экземпляров…',
     instancesLoadFailed: 'Ошибка загрузки списка экземпляров',
     noInstances: 'Нет экземпляров, сначала создайте экземпляр',
