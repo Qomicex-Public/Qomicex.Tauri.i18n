@@ -35,4 +35,7 @@ export default {
   pluginSignatureCertInvalid: 'Сертификат подписи плагина недействителен',
   pluginSignatureHashMismatch: 'Хэш подписи пакета не совпадает — пакет мог быть изменён',
   noRollbackSnapshot: 'Нет доступного снимка версии для отката',
+  officialAccountRequired:
+    'Войдите в аккаунт Microsoft, прежде чем добавлять офлайн- или другие аккаунты',
+  offlineDisabledInCn: 'В этом регионе добавление офлайн-аккаунтов недоступно',
 } as const

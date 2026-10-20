@@ -22,6 +22,7 @@ import tools from './tools'
 import wizard from './wizard'
 import gameLog from './gameLog'
 import deepLink from './deepLink'
+import compliance from './compliance'
 import type { TranslationSchema } from '../types'
 
 export default {
@@ -45,4 +46,5 @@ export default {
   wizard,
   gameLog,
   deepLink,
+  compliance,
 } satisfies TranslationSchema

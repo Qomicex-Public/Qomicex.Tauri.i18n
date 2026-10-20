@@ -35,4 +35,7 @@ export default {
   pluginSignatureCertInvalid: 'プラグイン署名証明書が無効です（ルート鍵の検証失敗）',
   pluginSignatureHashMismatch: 'プラグインパッケージの署名ハッシュが一致しません（改ざんの可能性）',
   noRollbackSnapshot: 'ロールバック可能なバージョンスナップショットがありません',
+  officialAccountRequired:
+    'オフラインなどのアカウントを追加する前に、Microsoft アカウントでサインインしてください',
+  offlineDisabledInCn: 'この地域ではオフラインアカウントを追加できません',
 } as const

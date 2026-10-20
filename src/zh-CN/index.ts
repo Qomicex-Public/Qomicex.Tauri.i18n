@@ -22,6 +22,7 @@ import tools from './tools'
 import wizard from './wizard'
 import gameLog from './gameLog'
 import deepLink from './deepLink'
+import compliance from './compliance'
 
 export default {
   common,
@@ -44,4 +45,5 @@ export default {
   wizard,
   gameLog,
   deepLink,
+  compliance,
 }
