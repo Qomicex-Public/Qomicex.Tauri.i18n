@@ -342,6 +342,7 @@ export default {
     checkIntegrity: '檢查資源完整性',
     repairing: '正在補全 {progress}%',
     missingFiles: '缺失 {count} 個檔案',
+    brokenMods: '發現 {count} 個損壞的模組檔案：{names}',
     autoRepairing: '正在自動補全...',
     integrityOk: '資源完整',
     verifyFailed: '檢查資源完整性失敗：{error}',

@@ -342,6 +342,7 @@ export default {
     checkIntegrity: 'Check file integrity',
     repairing: 'Repairing {progress}%',
     missingFiles: '{count} missing file(s)',
+    brokenMods: 'Found {count} corrupted mod file(s): {names}',
     autoRepairing: 'Auto repairing...',
     integrityOk: 'Files complete',
     verifyFailed: 'Failed to verify resources: {error}',
