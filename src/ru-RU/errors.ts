@@ -37,5 +37,4 @@ export default {
   noRollbackSnapshot: 'Нет доступного снимка версии для отката',
   officialAccountRequired:
     'Войдите в аккаунт Microsoft, прежде чем добавлять офлайн- или другие аккаунты',
-  offlineDisabledInCn: 'В этом регионе добавление офлайн-аккаунтов недоступно',
 } as const

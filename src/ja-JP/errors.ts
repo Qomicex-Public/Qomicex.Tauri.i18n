@@ -37,5 +37,4 @@ export default {
   noRollbackSnapshot: 'ロールバック可能なバージョンスナップショットがありません',
   officialAccountRequired:
     'オフラインなどのアカウントを追加する前に、Microsoft アカウントでサインインしてください',
-  offlineDisabledInCn: 'この地域ではオフラインアカウントを追加できません',
 } as const

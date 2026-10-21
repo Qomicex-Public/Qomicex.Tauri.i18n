@@ -35,5 +35,4 @@ export default {
   pluginSignatureHashMismatch: '插件包簽名哈希不匹配，包可能已被篡改',
   noRollbackSnapshot: '沒有可回滾的版本快照',
   officialAccountRequired: '請先登入 Microsoft 正版帳戶，再新增離線或其他帳戶',
-  offlineDisabledInCn: '目前地區暫不支援新增離線帳戶',
 } as const

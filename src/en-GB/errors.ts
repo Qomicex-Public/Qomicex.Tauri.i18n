@@ -36,5 +36,4 @@ export default {
   pluginSignatureHashMismatch: 'Plugin package signature hash mismatch — the package may be tampered',
   noRollbackSnapshot: 'No rollback snapshot available for this plugin',
   officialAccountRequired: 'Sign in with a Microsoft account before adding offline or other accounts',
-  offlineDisabledInCn: 'Adding offline accounts is not available in this region',
 } as const
