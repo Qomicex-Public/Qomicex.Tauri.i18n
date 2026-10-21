@@ -342,6 +342,7 @@ export default {
     checkIntegrity: 'リソースの整合性を確認',
     repairing: '{progress}% を補完中',
     missingFiles: '{count} 個のファイルが不足',
+    brokenMods: '破損した MOD ファイルが {count} 個見つかりました: {names}',
     autoRepairing: '自動補完中...',
     integrityOk: 'リソースは整合しています',
     verifyFailed: 'リソースの整合性チェックに失敗しました：{error}',

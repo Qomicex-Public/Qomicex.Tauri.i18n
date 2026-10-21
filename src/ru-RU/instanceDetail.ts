@@ -342,6 +342,7 @@ export default {
     checkIntegrity: 'Проверить целостность ресурсов',
     repairing: 'Дозаполнение {progress}%',
     missingFiles: 'Отсутствующих файлов: {count}',
+    brokenMods: 'Найдено повреждённых файлов модов: {count}: {names}',
     autoRepairing: 'Автодозаполнение…',
     integrityOk: 'Ресурсы целы',
     verifyFailed: 'Не удалось проверить ресурсы: {error}',
