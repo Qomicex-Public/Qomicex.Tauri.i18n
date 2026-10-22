@@ -347,6 +347,17 @@ export default {
     },
   },
   // 公告
+  // CurseForge 分發受限檔案補全（issue #291）
+  blockedMods: {
+    title: '需要手動補全的模組',
+    description:
+      '該整合包的作者關閉了 CurseForge 第三方分發，以下檔案無法自動下載。請點擊「開啟專案頁」下載與清單一致的版本，再選擇檔案補全。',
+    empty: '沒有需要補全的檔案',
+    loadFailed: '讀取補全清單失敗',
+    submitFailed: '補全失敗',
+    openPage: '開啟專案頁',
+    chooseFile: '選擇檔案',
+  },
   announcement: {
     gotIt: '知道了',
   },

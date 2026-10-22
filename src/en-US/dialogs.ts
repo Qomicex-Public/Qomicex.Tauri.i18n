@@ -340,6 +340,17 @@ export default {
     },
   },
   // Announcement
+  // CurseForge distribution-restricted files (issue #291)
+  blockedMods: {
+    title: 'Mods that need manual completion',
+    description:
+      'The modpack author disabled third-party distribution on CurseForge, so these files cannot be downloaded automatically. Open the project page, download the exact version listed, then pick the file to complete the install.',
+    empty: 'Nothing to complete',
+    loadFailed: 'Failed to load the completion list',
+    submitFailed: 'Completion failed',
+    openPage: 'Open project page',
+    chooseFile: 'Choose file',
+  },
   announcement: {
     gotIt: 'Got it',
   },

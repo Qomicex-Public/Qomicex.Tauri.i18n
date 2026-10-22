@@ -347,6 +347,17 @@ export default {
     },
   },
   // お知らせ
+  // CurseForge の配布制限ファイル（issue #291）
+  blockedMods: {
+    title: '手動で補完が必要な MOD',
+    description:
+      'この MOD パックの作者が CurseForge の第三者配布を無効にしているため、以下のファイルは自動ダウンロードできません。プロジェクトページを開いてリストと同じバージョンをダウンロードし、ファイルを選択して補完してください。',
+    empty: '補完が必要なファイルはありません',
+    loadFailed: '補完リストの読み込みに失敗しました',
+    submitFailed: '補完に失敗しました',
+    openPage: 'プロジェクトページを開く',
+    chooseFile: 'ファイルを選択',
+  },
   announcement: {
     gotIt: '了解',
   },

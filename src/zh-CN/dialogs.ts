@@ -339,6 +339,17 @@ export default {
       missingManifest: '实例缺少更新基线，请重新安装该整合包',
     },
   },
+  // CurseForge 分发受限文件补全（issue #291）
+  blockedMods: {
+    title: '需要手动补全的模组',
+    description:
+      '该整合包的作者关闭了 CurseForge 第三方分发，以下文件无法自动下载。请点击「打开项目页」下载与清单一致的版本，再选择文件补全。',
+    empty: '没有需要补全的文件',
+    loadFailed: '读取补全清单失败',
+    submitFailed: '补全失败',
+    openPage: '打开项目页',
+    chooseFile: '选择文件',
+  },
   // 公告
   announcement: {
     gotIt: '知道了',
