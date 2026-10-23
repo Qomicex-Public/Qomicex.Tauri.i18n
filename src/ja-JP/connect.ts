@@ -62,6 +62,7 @@ export default {
   title: 'マルチプレイ',
   subtitle: 'マルチプレイのルームを作成または参加',
   natCheck: 'NAT 検出',
+  openSettings: 'マルチプレイ設定',
   easyTierDownloadFailed: 'EasyTier のダウンロードに失敗しました: {error}',
   retry: '再試行',
   easyTierStatus: {

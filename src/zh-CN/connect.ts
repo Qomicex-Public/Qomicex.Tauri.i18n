@@ -62,6 +62,7 @@ export default {
   title: '联机',
   subtitle: '创建或加入联机房间',
   natCheck: 'NAT 检测',
+  openSettings: '联机设置',
   easyTierDownloadFailed: 'EasyTier 下载失败：{error}',
   retry: '重试',
   easyTierStatus: {
