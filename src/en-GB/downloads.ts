@@ -134,5 +134,6 @@ export default {
   },
   missingMods: {
     fix: 'Add files',
+    hint: 'Some CurseForge files cannot be downloaded by third parties. Click "Add files" on the right to add them manually.',
   },
 } as const
