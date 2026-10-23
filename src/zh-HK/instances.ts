@@ -86,6 +86,13 @@ export default {
   selectDirFirst: '請先選擇一個遊戲目錄，再開始下載。',
   noLoaderVersions: '未取得 {loader} 的可用版本列表，無法下載。請檢查網絡或稍後重試。',
   selectLoaderVersion: '請選擇 {loader} 的具體版本後再下載。',
+  favoriteFolder: {
+    label: '同時安裝收藏夾',
+    none: '不安裝',
+    option: '{name}（{count} 個模組）',
+    requiresLoader: '安裝模組需要載入器，原版實例不支援。',
+    scheduled: '實例裝好後會自動安裝收藏夾「{name}」的模組',
+  },
   createFailed: '建立失敗: {error}',
   createInstanceFailed: '建立實例失敗: {error}',
   launchFailed: '啟動失敗: {error}',

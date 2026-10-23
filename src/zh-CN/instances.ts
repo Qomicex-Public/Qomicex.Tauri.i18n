@@ -86,6 +86,13 @@ export default {
   selectDirFirst: '请先选择一个游戏目录，再开始下载。',
   noLoaderVersions: '未获取到 {loader} 的可用版本列表，无法下载。请检查网络或稍后重试。',
   selectLoaderVersion: '请选择 {loader} 的具体版本后再下载。',
+  favoriteFolder: {
+    label: '同时安装收藏夹',
+    none: '不安装',
+    option: '{name}（{count} 个模组）',
+    requiresLoader: '安装模组需要加载器，原版实例不支持。',
+    scheduled: '实例装好后会自动安装收藏夹「{name}」的模组',
+  },
   createFailed: '创建失败: {error}',
   createInstanceFailed: '创建实例失败: {error}',
   launchFailed: '启动失败: {error}',
