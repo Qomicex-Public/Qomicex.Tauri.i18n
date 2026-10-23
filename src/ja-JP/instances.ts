@@ -86,6 +86,13 @@ export default {
   selectDirFirst: '先にゲームディレクトリを選択してからダウンロードを開始してください。',
   noLoaderVersions: '{loader} の利用可能なバージョン一覧を取得できませんでした。ネットワークを確認するか、後で再試行してください。',
   selectLoaderVersion: '{loader} の具体的なバージョンを選択してからダウンロードしてください。',
+  favoriteFolder: {
+    label: 'お気に入りフォルダーもインストール',
+    none: 'インストールしない',
+    option: '{name}（{count} 個の MOD）',
+    requiresLoader: 'MOD のインストールにはローダーが必要です。バニラでは利用できません。',
+    scheduled: 'インスタンスのインストール完了後にフォルダー「{name}」をインストールします',
+  },
   createFailed: '作成に失敗しました: {error}',
   createInstanceFailed: 'インスタンスの作成に失敗しました: {error}',
   launchFailed: '起動に失敗しました: {error}',
