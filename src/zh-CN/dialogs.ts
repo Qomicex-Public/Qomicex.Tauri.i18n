@@ -349,6 +349,12 @@ export default {
     submitFailed: '补全失败',
     openPage: '打开项目页',
     chooseFile: '选择文件',
+    dropHere: '拖入文件以补全',
+    dropHint: '支持 .jar / .litemod',
+    rescan: '重新检测',
+    skip: '跳过补全',
+    completed: '缺失文件已补全',
+    unmatched: '无法对应到待补文件',
   },
   // 公告
   announcement: {

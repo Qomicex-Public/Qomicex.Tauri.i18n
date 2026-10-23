@@ -4,6 +4,7 @@
 // Download center (en)
 export default {
   status: {
+    'awaiting-files': 'Needs files',
     queued: 'Queued',
     downloading: 'Downloading',
     paused: 'Paused',
@@ -79,6 +80,7 @@ export default {
   quickInstallName: 'Install: {name}',
   stepsDone: '{done}/{total} steps done',
   filter: {
+    awaiting: 'Needs files',
     all: 'All',
     downloading: 'Downloading',
     paused: 'Paused',
@@ -113,6 +115,7 @@ export default {
   retry: 'Retry',
   remove: 'Remove',
   statusText: {
+    awaitingFiles: 'Waiting for {count} file(s)',
     done: 'Download complete',
     failedWith: 'Failed: {error}',
     failed: 'Download failed',
@@ -128,5 +131,8 @@ export default {
     cannotVerify: 'Cannot connect to backend to verify task status',
     statusUnknown: 'Task status could not be confirmed (backend did not report this session)',
     taskInvalid: 'Task is no longer valid',
+  },
+  missingMods: {
+    fix: 'Add files',
   },
 } as const

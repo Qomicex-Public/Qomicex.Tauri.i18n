@@ -4,6 +4,7 @@
 // 下載中心（zh-TW）
 export default {
   status: {
+    'awaiting-files': '待補全',
     queued: '排隊中',
     downloading: '下載中',
     paused: '已暫停',
@@ -79,6 +80,7 @@ export default {
   quickInstallName: '安裝: {name}',
   stepsDone: '{done}/{total} 步完成',
   filter: {
+    awaiting: '待補全',
     all: '全部',
     downloading: '下載中',
     paused: '已暫停',
@@ -113,6 +115,7 @@ export default {
   retry: '重試',
   remove: '移除',
   statusText: {
+    awaitingFiles: '等待補全 {count} 個檔案',
     done: '下載完成',
     failedWith: '失敗: {error}',
     failed: '下載失敗',
@@ -128,5 +131,8 @@ export default {
     cannotVerify: '無法連線後端驗證任務狀態',
     statusUnknown: '任務狀態無法確認（後端未回報該工作階段）',
     taskInvalid: '任務已失效',
+  },
+  missingMods: {
+    fix: '補全',
   },
 } as const

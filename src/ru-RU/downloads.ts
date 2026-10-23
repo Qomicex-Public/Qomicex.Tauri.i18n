@@ -4,6 +4,7 @@
 // Центр загрузок (ru-RU)
 export default {
   status: {
+    'awaiting-files': 'Нужны файлы',
     queued: 'В очереди',
     downloading: 'Загрузка',
     paused: 'Приостановлено',
@@ -79,6 +80,7 @@ export default {
   quickInstallName: 'Установка: {name}',
   stepsDone: 'Выполнено шагов: {done}/{total}',
   filter: {
+    awaiting: 'Нужны файлы',
     all: 'Все',
     downloading: 'Загрузка',
     paused: 'Приостановлено',
@@ -113,6 +115,7 @@ export default {
   retry: 'Повторить',
   remove: 'Удалить',
   statusText: {
+    awaitingFiles: 'Ожидание файлов: {count}',
     done: 'Загрузка завершена',
     failedWith: 'Не удалось: {error}',
     failed: 'Ошибка загрузки',
@@ -128,5 +131,8 @@ export default {
     cannotVerify: 'Не удалось подключиться к бэкенду для проверки статуса задачи',
     statusUnknown: 'Не удалось подтвердить статус задачи (бэкенд не сообщил об этой сессии)',
     taskInvalid: 'Задача недействительна',
+  },
+  missingMods: {
+    fix: 'Добавить',
   },
 } as const
