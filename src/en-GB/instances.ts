@@ -86,6 +86,13 @@ export default {
   selectDirFirst: 'Please select a game directory before downloading.',
   noLoaderVersions: 'Could not fetch available versions for {loader}. Check your network or try again later.',
   selectLoaderVersion: 'Please select a specific {loader} version to download.',
+  favoriteFolder: {
+    label: 'Also install a favourite folder',
+    none: 'Do not install',
+    option: '{name} ({count} mods)',
+    requiresLoader: 'Installing mods requires a mod loader; vanilla instances are not supported.',
+    scheduled: 'Folder "{name}" will be installed once the instance finishes installing',
+  },
   createFailed: 'Create failed: {error}',
   createInstanceFailed: 'Failed to create instance: {error}',
   launchFailed: 'Launch failed: {error}',
