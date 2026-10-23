@@ -133,6 +133,7 @@ export default {
     taskInvalid: '任务已失效',
   },
   missingMods: {
-    fix: '补全',
+    fix: '添加文件',
+    hint: '部分 CurseForge 文件不支持第三方下载，请点击右侧「添加文件」手动处理。',
   },
 } as const

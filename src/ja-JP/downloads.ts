@@ -133,6 +133,7 @@ export default {
     taskInvalid: 'タスクが無効です',
   },
   missingMods: {
-    fix: '補完する',
+    fix: 'ファイルを追加',
+    hint: '一部の CurseForge ファイルはサードパーティによるダウンロードに対応していません。右側の「ファイルを追加」から手動で追加してください。',
   },
 } as const
