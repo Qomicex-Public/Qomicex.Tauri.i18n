@@ -4,6 +4,7 @@
 // ダウンロードセンター（ja-JP）
 export default {
   status: {
+    'awaiting-files': '補完待ち',
     queued: '待機中',
     downloading: 'ダウンロード中',
     paused: '一時停止',
@@ -79,6 +80,7 @@ export default {
   quickInstallName: 'インストール: {name}',
   stepsDone: '{done}/{total} ステップ完了',
   filter: {
+    awaiting: '補完待ち',
     all: 'すべて',
     downloading: 'ダウンロード中',
     paused: '一時停止',
@@ -113,6 +115,7 @@ export default {
   retry: '再試行',
   remove: '削除',
   statusText: {
+    awaitingFiles: '{count} 件のファイルの補完待ち',
     done: 'ダウンロード完了',
     failedWith: '失敗: {error}',
     failed: 'ダウンロード失敗',
@@ -128,5 +131,8 @@ export default {
     cannotVerify: 'タスク状態を検証するためにバックエンドに接続できません',
     statusUnknown: 'タスク状態を確認できません（バックエンドがこのセッションを報告していません）',
     taskInvalid: 'タスクが無効です',
+  },
+  missingMods: {
+    fix: '補完する',
   },
 } as const

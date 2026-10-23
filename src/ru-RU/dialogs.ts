@@ -357,6 +357,12 @@ export default {
     submitFailed: 'Не удалось добавить файл',
     openPage: 'Открыть страницу проекта',
     chooseFile: 'Выбрать файл',
+    dropHere: 'Перетащите файлы сюда',
+    dropHint: 'только .jar / .litemod',
+    rescan: 'Перепроверить',
+    skip: 'Пропустить',
+    completed: 'Недостающие файлы добавлены',
+    unmatched: 'Нет подходящего недостающего файла',
   },
   announcement: {
     gotIt: 'Понятно',

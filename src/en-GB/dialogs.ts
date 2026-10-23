@@ -357,6 +357,12 @@ export default {
     submitFailed: 'Completion failed',
     openPage: 'Open project page',
     chooseFile: 'Choose file',
+    dropHere: 'Drop files here',
+    dropHint: '.jar / .litemod only',
+    rescan: 'Rescan',
+    skip: 'Skip',
+    completed: 'All missing files added',
+    unmatched: 'No matching missing file',
   },
   announcement: {
     gotIt: 'Got it',

@@ -357,6 +357,12 @@ export default {
     submitFailed: '補完に失敗しました',
     openPage: 'プロジェクトページを開く',
     chooseFile: 'ファイルを選択',
+    dropHere: 'ここにファイルをドロップ',
+    dropHint: '.jar / .litemod のみ',
+    rescan: '再スキャン',
+    skip: '補完をスキップ',
+    completed: '不足ファイルを補完しました',
+    unmatched: '補完対象のファイルに対応できません',
   },
   announcement: {
     gotIt: '了解',

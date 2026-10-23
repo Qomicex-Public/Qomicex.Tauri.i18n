@@ -357,6 +357,12 @@ export default {
     submitFailed: '補全失敗',
     openPage: '開啟專案頁',
     chooseFile: '選擇檔案',
+    dropHere: '拖入檔案以補全',
+    dropHint: '支援 .jar / .litemod',
+    rescan: '重新偵測',
+    skip: '跳過補全',
+    completed: '缺少的檔案已補齊',
+    unmatched: '無法對應到待補檔案',
   },
   announcement: {
     gotIt: '知道了',
