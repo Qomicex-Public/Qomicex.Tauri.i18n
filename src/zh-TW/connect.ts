@@ -62,6 +62,7 @@ export default {
   title: '聯機',
   subtitle: '建立或加入聯機房間',
   natCheck: 'NAT 偵測',
+  openSettings: '聯機設定',
   easyTierDownloadFailed: 'EasyTier 下載失敗：{error}',
   retry: '重試',
   easyTierStatus: {

@@ -142,7 +142,9 @@ export default {
         unsupportedSource: 'неподдерживаемый источник',
         notMod: 'не мод',
         duplicate: 'дубликат',
+        lookupFailed: 'ошибка запроса',
       },
+      lookupFailed: 'Не удалось получить версии ресурса; повторите позже: {name}',
     },
   },
 } as const

@@ -141,7 +141,9 @@ export default {
         unsupportedSource: '来源不支持',
         notMod: '非模组',
         duplicate: '重复',
+        lookupFailed: '查询失败',
       },
+      lookupFailed: '查询资源版本失败，请稍后重试：{name}',
     },
   },
 } as const

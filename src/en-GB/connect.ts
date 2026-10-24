@@ -62,6 +62,7 @@ export default {
   title: 'Multiplayer',
   subtitle: 'Create or join a room',
   natCheck: 'NAT check',
+  openSettings: 'Multiplayer settings',
   easyTierDownloadFailed: 'EasyTier download failed: {error}',
   retry: 'Retry',
   easyTierStatus: {

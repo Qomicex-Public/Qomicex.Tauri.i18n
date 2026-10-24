@@ -141,7 +141,9 @@ export default {
         unsupportedSource: '來源不支援',
         notMod: '非模組',
         duplicate: '重複',
+        lookupFailed: '查詢失敗',
       },
+      lookupFailed: '查詢資源版本失敗，請稍後重試：{name}',
     },
   },
 } as const
