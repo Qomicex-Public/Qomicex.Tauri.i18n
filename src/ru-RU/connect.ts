@@ -62,6 +62,7 @@ export default {
   title: 'Сетевая игра',
   subtitle: 'Создайте или присоединитесь к комнате сетевой игры',
   natCheck: 'Проверка NAT',
+  openSettings: 'Настройки сетевой игры',
   easyTierDownloadFailed: 'Ошибка загрузки EasyTier: {error}',
   retry: 'Повторить',
   easyTierStatus: {
