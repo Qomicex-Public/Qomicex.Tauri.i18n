@@ -143,7 +143,9 @@ export default {
         unsupportedSource: '未対応のソース',
         notMod: 'MOD ではない',
         duplicate: '重複',
+        lookupFailed: '取得に失敗',
       },
+      lookupFailed: 'リソースのバージョン取得に失敗しました。後で再試行してください: {name}',
     },
   },
 } as const
