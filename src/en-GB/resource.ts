@@ -143,7 +143,9 @@ export default {
         unsupportedSource: 'unsupported source',
         notMod: 'not a mod',
         duplicate: 'duplicate',
+        lookupFailed: 'lookup failed',
       },
+      lookupFailed: 'Failed to look up resource versions; please retry later: {name}',
     },
   },
 } as const
