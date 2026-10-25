@@ -57,6 +57,8 @@ export default {
     shellExecute: 'Execute system commands',
     filesystemRead: 'Read filesystem',
     filesystemWrite: 'Write filesystem',
+    processManage: 'Manage resident processes (spawn/stdin/kill)',
+    dialogOpen: 'Open file/directory picker dialogs',
     hookRegister: 'Intercept launcher methods (modify args/result, prevent execution)',
   },
 } as const

@@ -136,6 +136,8 @@ export default {
     loader: 'ローダー',
     instanceName: 'インスタンス名',
     startInstall: 'インストールを開始',
+    installTarget: 'インストール方法',
+    targetInstance: 'インスタンスを作成',
     resolving: '解析してインストール中...',
     connecting: '接続中...',
     installing: 'インストール中: {name}',
@@ -351,11 +353,12 @@ export default {
   blockedMods: {
     title: '手動で補完が必要な MOD',
     description:
-      'この MOD パックの作者が CurseForge の第三者配布を無効にしているため、以下のファイルは自動ダウンロードできません。プロジェクトページを開いてリストと同じバージョンをダウンロードし、ファイルを選択して補完してください。',
+      'この MOD パックの作者が CurseForge の第三者配布を無効にしているため、以下のファイルは自動ダウンロードできません。「対応バージョンを開く」からリストと同じファイルをダウンロードし、ファイルを選択して補完してください。',
     empty: '補完が必要なファイルはありません',
     loadFailed: '補完リストの読み込みに失敗しました',
     submitFailed: '補完に失敗しました',
     openPage: 'プロジェクトページを開く',
+    openFilePage: '対応バージョンを開く',
     chooseFile: 'ファイルを選択',
     dropHere: 'ここにファイルをドロップ',
     dropHint: '.jar / .litemod のみ',

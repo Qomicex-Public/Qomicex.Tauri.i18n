@@ -136,6 +136,8 @@ export default {
     loader: 'Loader',
     instanceName: 'Instance Name',
     startInstall: 'Start Install',
+    installTarget: 'Install as',
+    targetInstance: 'Create instance',
     resolving: 'Resolving and installing...',
     connecting: 'Connecting...',
     installing: 'Installing: {name}',
@@ -344,11 +346,12 @@ export default {
   blockedMods: {
     title: 'Mods that need manual completion',
     description:
-      'The modpack author disabled third-party distribution on CurseForge, so these files cannot be downloaded automatically. Open the project page, download the exact version listed, then pick the file to complete the install.',
+      'The modpack author disabled third-party distribution on CurseForge, so these files cannot be downloaded automatically. Open the exact version page to download the file listed below, then pick the file to complete the install.',
     empty: 'Nothing to complete',
     loadFailed: 'Failed to load the completion list',
     submitFailed: 'Completion failed',
     openPage: 'Open project page',
+    openFilePage: 'Open exact version',
     chooseFile: 'Choose file',
     dropHere: 'Drop files here',
     dropHint: '.jar / .litemod only',
