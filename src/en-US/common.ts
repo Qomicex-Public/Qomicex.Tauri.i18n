@@ -55,4 +55,13 @@ export default {
   optional: 'Optional',
   javaRuntimeRequired: 'Launching Minecraft requires a Java runtime.\n\nYou can install Java quickly via Settings → Java → Download Java, or add an existing Java path manually.',
   javaRuntimeRequiredTitle: 'No Java runtime detected',
+  share: 'Share',
+  shareResource: 'Share resource',
+  shareRoom: 'Share room',
+  shareVersion: 'Share this version',
+  shareLinkHint: 'Send the link to a friend; opening it in a browser shows the page with the next steps.',
+  copyLink: 'Copy link',
+  openInBrowser: 'Open in browser',
+  copyFailed: 'Copy failed. Select the text and copy it manually.',
+  openInBrowserFailed: 'Failed to open the browser',
 } as const
