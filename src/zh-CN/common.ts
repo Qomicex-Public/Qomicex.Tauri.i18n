@@ -55,4 +55,13 @@ export default {
   optional: '可选',
   javaRuntimeRequired: '启动 Minecraft 需要 Java 运行时环境。\n\n你可以使用「设置 → Java → 下载 Java」功能快速安装，或手动添加已安装的 Java 路径。',
   javaRuntimeRequiredTitle: '未检测到 Java 运行时',
+  share: '分享',
+  shareResource: '分享资源',
+  shareRoom: '分享房间',
+  shareVersion: '分享此版本',
+  shareLinkHint: '把链接发给朋友，对方在浏览器打开后可按页面提示操作。',
+  copyLink: '复制链接',
+  openInBrowser: '在浏览器打开',
+  copyFailed: '复制失败，请手动选择文本复制',
+  openInBrowserFailed: '打开浏览器失败',
 } as const

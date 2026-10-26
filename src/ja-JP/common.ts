@@ -55,4 +55,13 @@ export default {
   optional: '任意',
   javaRuntimeRequired: 'Minecraft を起動するには Java ランタイム環境が必要です。\n\n「設定 → Java → Java のダウンロード」から簡単にインストールできるほか、インストール済みの Java パスを手動で追加することもできます。',
   javaRuntimeRequiredTitle: 'Java ランタイムが検出されません',
+  share: '共有',
+  shareResource: 'リソースを共有',
+  shareRoom: 'ルームを共有',
+  shareVersion: 'このバージョンを共有',
+  shareLinkHint: 'リンクを相手に送ると、ブラウザで開いたページから次の操作に進めます。',
+  copyLink: 'リンクをコピー',
+  openInBrowser: 'ブラウザで開く',
+  copyFailed: 'コピーに失敗しました。テキストを選択して手動でコピーしてください。',
+  openInBrowserFailed: 'ブラウザを開けませんでした',
 } as const
