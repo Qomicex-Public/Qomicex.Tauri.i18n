@@ -57,6 +57,8 @@ export default {
     shellExecute: '执行系统命令',
     filesystemRead: '读取文件系统',
     filesystemWrite: '写入文件系统',
+    processManage: '管理常驻进程（启动/输入/终止）',
+    dialogOpen: '打开文件/目录选择对话框',
     hookRegister: '钩住启动器方法（修改参数/结果、阻止执行）',
   },
 } as const

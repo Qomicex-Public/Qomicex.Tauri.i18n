@@ -136,6 +136,8 @@ export default {
     loader: '載入器',
     instanceName: '實例名稱',
     startInstall: '開始安裝',
+    installTarget: '安裝方式',
+    targetInstance: '建立實例',
     resolving: '正在解析並安裝...',
     connecting: '正在連線...',
     installing: '安裝中：{name}',
@@ -351,11 +353,12 @@ export default {
   blockedMods: {
     title: '需要手動補全的模組',
     description:
-      '該整合包的作者關閉了 CurseForge 第三方分發，以下檔案無法自動下載。請點擊「開啟專案頁」下載與清單一致的版本，再選擇檔案補全。',
+      '該整合包的作者關閉了 CurseForge 第三方分發，以下檔案無法自動下載。請點擊「開啟對應版本」直接下載清單要求的檔案，再選擇檔案補全。',
     empty: '沒有需要補全的檔案',
     loadFailed: '讀取補全清單失敗',
     submitFailed: '補全失敗',
     openPage: '開啟專案頁',
+    openFilePage: '開啟對應版本',
     chooseFile: '選擇檔案',
     dropHere: '拖入檔案以補全',
     dropHint: '支援 .jar / .litemod',

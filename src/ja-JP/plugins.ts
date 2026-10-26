@@ -57,6 +57,8 @@ export default {
     shellExecute: 'システムコマンドを実行',
     filesystemRead: 'ファイルシステムを読み取り',
     filesystemWrite: 'ファイルシステムに書き込み',
+    processManage: '常駐プロセスの管理（起動/入力/終了）',
+    dialogOpen: 'ファイル/フォルダー選択ダイアログを開く',
     hookRegister: 'ランチャーのメソッドをフックする（引数・結果の変更、実行の阻止）',
   },
 } as const
