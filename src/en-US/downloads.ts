@@ -134,6 +134,7 @@ export default {
     cannotVerify: 'Cannot connect to backend to verify task status',
     statusUnknown: 'Task status could not be confirmed (backend did not report this session)',
     taskInvalid: 'Task is no longer valid',
+    serverTaskLost: 'Server setup task was lost (backend restarted). Please start the setup again.',
   },
   missingMods: {
     fix: 'Add files',

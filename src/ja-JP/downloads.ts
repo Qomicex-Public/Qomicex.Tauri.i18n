@@ -134,6 +134,7 @@ export default {
     cannotVerify: 'タスク状態を検証するためにバックエンドに接続できません',
     statusUnknown: 'タスク状態を確認できません（バックエンドがこのセッションを報告していません）',
     taskInvalid: 'タスクが無効です',
+    serverTaskLost: 'サーバー構築タスクが失われました（バックエンドが再起動されました）。もう一度構築を開始してください。',
   },
   missingMods: {
     fix: 'ファイルを追加',

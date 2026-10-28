@@ -134,6 +134,7 @@ export default {
     cannotVerify: '無法連線後端驗證任務狀態',
     statusUnknown: '任務狀態無法確認（後端未回報該工作階段）',
     taskInvalid: '任務已失效',
+    serverTaskLost: '伺服器搭建任務已遺失（後端已重啟），請重新發起搭建。',
   },
   missingMods: {
     fix: '添加檔案',
