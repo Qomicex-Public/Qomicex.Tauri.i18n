@@ -139,5 +139,6 @@ export default {
   missingMods: {
     fix: 'Add files',
     hint: 'Some CurseForge files cannot be downloaded by third parties. Click "Add files" on the right to add them manually.',
+    pluginHint: 'Some files could not be downloaded by third parties. Add them manually in the plugin page.',
   },
 } as const

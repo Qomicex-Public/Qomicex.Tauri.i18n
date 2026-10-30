@@ -139,5 +139,6 @@ export default {
   missingMods: {
     fix: '添加文件',
     hint: '部分 CurseForge 文件不支持第三方下载，请点击右侧「添加文件」手动处理。',
+    pluginHint: '部分文件无法由第三方下载，请在插件页面手动补全。',
   },
 } as const
