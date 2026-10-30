@@ -134,9 +134,11 @@ export default {
     cannotVerify: 'Cannot connect to backend to verify task status',
     statusUnknown: 'Task status could not be confirmed (backend did not report this session)',
     taskInvalid: 'Task is no longer valid',
+    serverTaskLost: 'Server setup task was lost (backend restarted). Please start the setup again.',
   },
   missingMods: {
     fix: 'Add files',
     hint: 'Some CurseForge files cannot be downloaded by third parties. Click "Add files" on the right to add them manually.',
+    pluginHint: 'Some files could not be downloaded by third parties. Add them manually in the plugin page.',
   },
 } as const
