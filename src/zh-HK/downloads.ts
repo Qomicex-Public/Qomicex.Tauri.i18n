@@ -134,9 +134,11 @@ export default {
     cannotVerify: '無法連線後端驗證任務狀態',
     statusUnknown: '任務狀態無法確認（後端未回報該工作階段）',
     taskInvalid: '任務已失效',
+    serverTaskLost: '伺服器搭建任務已遺失（後端已重啟），請重新發起搭建。',
   },
   missingMods: {
     fix: '添加檔案',
     hint: '部分 CurseForge 檔案不支援第三方下載，請點擊右側「添加檔案」手動處理。',
+    pluginHint: '部分檔案無法由第三方下載，請在插件頁面手動補全。',
   },
 } as const
