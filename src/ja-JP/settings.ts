@@ -363,6 +363,7 @@ export default {
     permissionReset: '既定に戻す',
     permissionResetConfirm: '「{name}」のすべての権限とネットワーク設定を既定に戻しますか？',
     permissionReloaded: '権限を更新し、プラグインを再読み込みしました',
+    permissionReloadFailed: '権限は保存されましたが、プラグインの再読み込みに失敗しました。手動で有効にしてください。',
     permissionSaveFailed: '権限設定の保存に失敗しました',
     permissionNoneDeclared: 'このプラグインは権限を宣言していません',
     corsProxyTitle: 'proxyFetch の通信ポリシー',

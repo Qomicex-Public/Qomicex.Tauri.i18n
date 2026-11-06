@@ -363,6 +363,7 @@ export default {
     permissionReset: '恢復預設權限',
     permissionResetConfirm: '恢復「{name}」的全部權限與出網設定？',
     permissionReloaded: '權限已更新，外掛已重新載入',
+    permissionReloadFailed: '權限已儲存，但外掛重新載入失敗，請手動重新啟用',
     permissionSaveFailed: '權限設定儲存失敗',
     permissionNoneDeclared: '此外掛未宣告任何權限',
     corsProxyTitle: 'proxyFetch 出網策略',

@@ -363,6 +363,7 @@ export default {
     permissionReset: 'Сбросить настройки',
     permissionResetConfirm: 'Сбросить все разрешения и сетевые настройки для «{name}»?',
     permissionReloaded: 'Разрешения обновлены, плагин перезагружен',
+    permissionReloadFailed: 'Разрешения сохранены, но плагин не удалось перезагрузить. Включите его вручную.',
     permissionSaveFailed: 'Не удалось сохранить настройки разрешений',
     permissionNoneDeclared: 'Плагин не объявляет разрешений',
     corsProxyTitle: 'Сетевые правила proxyFetch',

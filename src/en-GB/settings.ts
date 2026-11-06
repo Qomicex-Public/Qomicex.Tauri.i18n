@@ -363,6 +363,7 @@ export default {
     permissionReset: 'Restore defaults',
     permissionResetConfirm: 'Restore all permissions and network settings for "{name}"?',
     permissionReloaded: 'Permissions updated; the plugin was reloaded',
+    permissionReloadFailed: 'Permissions saved, but the plugin failed to reload. Re-enable it manually.',
     permissionSaveFailed: 'Failed to save permission settings',
     permissionNoneDeclared: 'This plugin declares no permissions',
     corsProxyTitle: 'proxyFetch network policy',

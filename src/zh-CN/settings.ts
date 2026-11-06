@@ -363,6 +363,7 @@ export default {
     permissionReset: '恢复默认权限',
     permissionResetConfirm: '恢复「{name}」的全部权限与出网设置？',
     permissionReloaded: '权限已更新，插件已重新加载',
+    permissionReloadFailed: '权限已保存，但插件重新加载失败，请手动重新启用',
     permissionSaveFailed: '权限设置保存失败',
     permissionNoneDeclared: '该插件未声明任何权限',
     corsProxyTitle: 'proxyFetch 出网策略',
