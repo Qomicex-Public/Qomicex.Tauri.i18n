@@ -97,6 +97,7 @@ export default {
     riskConfirm: '理解しました',
     riskBanner: 'このウィジェットにはスクリプトまたは危険なアクション（RunCommand / PluginApi）が含まれています。ランチャー開発者はそのリスクに責任を負いません。',
     sourcePath: 'ローカルファイル',
+    launcherTooOld: 'ランチャー {required} 以上が必要です（現在 {current}）',
     error: {
       xmlEmpty: 'XML が空です',
       xmlTooLarge: 'XML が 64KB を超えています',

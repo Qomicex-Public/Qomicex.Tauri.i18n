@@ -97,6 +97,7 @@ export default {
     riskConfirm: 'Понятно',
     riskBanner: 'Виджет содержит скрипты или опасные действия (RunCommand / PluginApi). Разработчики лаунчера не несут ответственности за связанные риски.',
     sourcePath: 'Локальный файл',
+    launcherTooOld: 'Требуется лаунчер {required} или новее (текущий {current})',
     error: {
       xmlEmpty: 'XML пуст',
       xmlTooLarge: 'XML превышает 64KB',

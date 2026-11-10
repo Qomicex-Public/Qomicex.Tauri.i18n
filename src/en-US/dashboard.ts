@@ -97,6 +97,7 @@ export default {
     riskConfirm: 'I understand',
     riskBanner: 'This widget contains scripts or dangerous actions (RunCommand / PluginApi). The launcher developers are not responsible for risks it causes.',
     sourcePath: 'Local file',
+    launcherTooOld: 'Requires launcher {required} or newer (current {current})',
     error: {
       xmlEmpty: 'XML is empty',
       xmlTooLarge: 'XML exceeds 64KB',

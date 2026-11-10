@@ -97,6 +97,7 @@ export default {
     riskConfirm: '我已了解',
     riskBanner: '此组件包含脚本或危险动作（RunCommand / PluginApi）。启动器开发者不对其造成的安全风险负责。',
     sourcePath: '本地文件',
+    launcherTooOld: '需要启动器 {required} 或更高版本（当前 {current}）',
     error: {
       xmlEmpty: 'XML 为空',
       xmlTooLarge: 'XML 超过 64KB',
