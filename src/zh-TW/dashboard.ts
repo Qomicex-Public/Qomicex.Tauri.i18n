@@ -50,7 +50,7 @@ export default {
     hosts: '允許存取的網域',
     hostsHint: '元件會自動向這些網域請求資料或更新，請逐一確認。',
     hostsUnconfirmed: '勾選全部網域後才能儲存。',
-    noHosts: '不需要存取任何網域',
+    noHosts: '目前元件不直接請求網域（巢狀元件可能不同）',
     actions: '使用的動作',
     noActions: '無',
     template: '插入範本',
