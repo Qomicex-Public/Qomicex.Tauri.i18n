@@ -93,7 +93,7 @@ export default {
     nestedLoading: '正在加载嵌套组件…',
     invalidArguments: 'Widget.Using.Arguments 不是合法 JSON',
     riskTitle: '风险提示',
-    riskMessage: '自定义组件可以运行 TS 脚本、执行命令、调用插件 API 和读取本地文件。远程组件会静默更新。请只使用你信任的组件；启动器开发者不对自定义组件造成的安全风险负责。',
+    riskMessage: '自定义组件可以运行 TS 脚本、执行命令、调用插件 API 和读取本地文件。远程组件的普通数据/布局更新会静默生效；新增或修改命令、插件调用等可执行内容时会要求确认。在线数据生成的命令也会在执行前确认。请只使用你信任的组件；启动器开发者不对其造成的安全风险负责。',
     riskConfirm: '我已了解',
     riskBanner: '此组件包含脚本或危险动作（RunCommand / PluginApi）。启动器开发者不对其造成的安全风险负责。',
     sourcePath: '本地文件',

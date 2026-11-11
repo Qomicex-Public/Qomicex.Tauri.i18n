@@ -93,7 +93,7 @@ export default {
     nestedLoading: 'Loading nested widget…',
     invalidArguments: 'Widget.Using.Arguments is not valid JSON',
     riskTitle: 'Risk notice',
-    riskMessage: 'Custom widgets can run TS scripts, execute commands, call plugin APIs and read local files. Remote widgets update silently. Only use widgets you trust; the launcher developers are not responsible for risks caused by custom widgets.',
+    riskMessage: 'Custom widgets can run TS scripts, execute commands, call plugin APIs and read local files. Remote data and layout updates apply silently; adding or changing executable content such as commands or plugin calls requires confirmation. Commands generated from online data are also confirmed before execution. Only use widgets you trust; the launcher developers are not responsible for risks caused by custom widgets.',
     riskConfirm: 'I understand',
     riskBanner: 'This widget contains scripts or dangerous actions (RunCommand / PluginApi). The launcher developers are not responsible for risks it causes.',
     sourcePath: 'Local file',

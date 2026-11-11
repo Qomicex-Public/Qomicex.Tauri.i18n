@@ -93,7 +93,7 @@ export default {
     nestedLoading: '正在載入巢狀組件…',
     invalidArguments: 'Widget.Using.Arguments 不是合法 JSON',
     riskTitle: '風險提示',
-    riskMessage: '自訂組件可以執行 TS 腳本、執行命令、呼叫外掛 API 與讀取本機檔案。遠端組件會靜默更新。請只使用你信任的組件；啟動器開發者不對自訂組件造成的安全風險負責。',
+    riskMessage: '自訂組件可以執行 TS 腳本、執行命令、呼叫外掛 API 與讀取本機檔案。遠端組件的普通資料/版面更新會靜默生效；新增或修改命令、外掛呼叫等可執行內容時會要求確認。線上資料產生的命令也會在執行前確認。請只使用你信任的組件；啟動器開發者不對其造成的安全風險負責。',
     riskConfirm: '我已了解',
     riskBanner: '此組件包含腳本或危險動作（RunCommand / PluginApi）。啟動器開發者不對其造成的安全風險負責。',
     sourcePath: '本機檔案',
