@@ -50,7 +50,7 @@ export default {
     hosts: '允许访问的域名',
     hostsHint: '组件会自动向这些域名请求数据或更新，请逐一确认。',
     hostsUnconfirmed: '勾选全部域名后才能保存。',
-    noHosts: '不需要访问任何域名',
+    noHosts: '当前组件不直接请求域名（嵌套组件可能不同）',
     actions: '使用的动作',
     noActions: '无',
     template: '插入模板',

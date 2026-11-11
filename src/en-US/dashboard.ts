@@ -50,7 +50,7 @@ export default {
     hosts: 'Allowed domains',
     hostsHint: 'The widget fetches data or updates from these domains automatically. Confirm each one.',
     hostsUnconfirmed: 'Check every domain before saving.',
-    noHosts: 'No domain access required',
+    noHosts: 'No direct domain access from this widget (nested widgets may differ)',
     actions: 'Actions used',
     noActions: 'None',
     template: 'Insert template',
