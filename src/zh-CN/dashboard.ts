@@ -117,6 +117,7 @@ export default {
       invalidAction: '未知动作：{detail}',
       invalidUrl: '只允许 https:443 地址：{detail}',
       invalidPath: '绑定路径非法：{detail}',
+      invalidPage: 'Page 不存在或循环引用：{detail}',
       listTemplate: 'List 必须且只能包含一个 ListItem',
       tabsTemplate: 'Tabs 必须且只能包含 TabItem',
       listItemRoot: 'ListItem 必须且只能包含一个根元素',

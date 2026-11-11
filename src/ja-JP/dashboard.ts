@@ -117,6 +117,7 @@ export default {
       invalidAction: '不明なアクション：{detail}',
       invalidUrl: 'https:443 の URL のみ使用できます：{detail}',
       invalidPath: 'バインドパスが無効です：{detail}',
+      invalidPage: 'Page が存在しないか循環参照です：{detail}',
       listTemplate: 'List には ListItem を 1 つだけ含めてください',
       tabsTemplate: 'Tabs には TabItem を含めてください',
       listItemRoot: 'ListItem にはルート要素を 1 つだけ含めてください',

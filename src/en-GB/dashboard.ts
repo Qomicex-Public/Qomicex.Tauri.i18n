@@ -117,6 +117,7 @@ export default {
       invalidAction: 'Unknown action: {detail}',
       invalidUrl: 'Only https:443 URLs are allowed: {detail}',
       invalidPath: 'Invalid binding path: {detail}',
+      invalidPage: 'Page is missing or cyclic: {detail}',
       listTemplate: 'List must contain exactly one ListItem',
       tabsTemplate: 'Tabs must contain TabItem elements',
       listItemRoot: 'ListItem must contain exactly one root element',

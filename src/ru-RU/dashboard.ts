@@ -117,6 +117,7 @@ export default {
       invalidAction: 'Неизвестное действие: {detail}',
       invalidUrl: 'Разрешены только URL https:443: {detail}',
       invalidPath: 'Недопустимый путь привязки: {detail}',
+      invalidPage: 'Page отсутствует или содержит цикл: {detail}',
       listTemplate: 'List должен содержать ровно один ListItem',
       tabsTemplate: 'Tabs должен содержать TabItem',
       listItemRoot: 'ListItem должен содержать ровно один корневой элемент',
