@@ -497,7 +497,7 @@ export default {
     privacyPolicy: '隐私政策',
     appDescription: '一个现代化的 Minecraft 启动器，支持多版本管理、模组加载器兼容、账户管理等功能。',
     roleProjectLead: '项目发起人 / 主要开发者',
-    serviceStrawxgDesc: '为启动器的 MultiMC 整合包导入适配作出了较大贡献',
+    serviceStrawxgDesc: '为启动器的许多板块提供了良好建议和作出了较大贡献',
     serviceOakChaserDesc: '发现了启动器在 Mac 端的很多神秘问题，为启动器的 macOS 兼容适配提供了较大帮助',
     servicePiaoPiaoBaiYunDesc: 'bug 圣体，在测试过程中不断遇到了很多经多轮测试后仍未发现的 bug',
     serviceEclTeamDesc: '为启动器联机贡献了部分联机节点',

@@ -497,7 +497,7 @@ export default {
     privacyPolicy: 'Privacy policy',
     appDescription: 'A modern Minecraft launcher with multi-version management, mod loader compatibility, account management and more.',
     roleProjectLead: 'Project founder / lead developer',
-    serviceStrawxgDesc: 'Major contribution to the launcher\'s MultiMC modpack import support',
+    serviceStrawxgDesc: 'Provided valuable suggestions and made significant contributions to many parts of the launcher',
     serviceOakChaserDesc: 'Found many mysterious issues on Mac and greatly helped the launcher\'s macOS compatibility',
     servicePiaoPiaoBaiYunDesc: 'A bug magnet who kept running into many bugs that had survived multiple rounds of testing',
     serviceEclTeamDesc: 'Contributed some online-play relay nodes to the launcher',
