@@ -498,7 +498,7 @@ export default {
     privacyPolicy: 'プライバシーポリシー',
     appDescription: 'モダンな Minecraft ランチャー。マルチバージョン管理、modローダー互換、アカウント管理などをサポートします。',
     roleProjectLead: 'プロジェクト発起人 / 主要開発者',
-    serviceStrawxgDesc: 'ランチャーの MultiMC 整合パックのインポート対応に大きく貢献',
+    serviceStrawxgDesc: 'ランチャーの多くのセクションに有益な提案を行い、大きく貢献',
     serviceOakChaserDesc: 'Mac 版の数々の謎の問題を発見し、ランチャーの macOS 互換対応に大きく貢献',
     servicePiaoPiaoBaiYunDesc: 'バグの申し子。何度もテストを重ねても見つからなかった多くのバグを次々と発見',
     serviceEclTeamDesc: 'ランチャーのマルチプレイ用リレーノードを一部提供',
