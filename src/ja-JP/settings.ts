@@ -3,6 +3,29 @@
 
 // 設定ページ（ja-JP；バッチ0 に category ナビ + appearance 外観の中核項目、その他は移行バッチで補充）
 export default {
+  accountBackup: {
+    title: 'アカウントデータ',
+    exportLabel: 'アカウントファイルをバックアップ',
+    exportDesc: '現在のすべてのアカウントを 1 つのファイルに暗号化します。どの PC でも復元できます。',
+    exportButton: 'バックアップ',
+    importLabel: 'アカウントファイルを復元',
+    importDesc: 'バックアップファイルからアカウントを復元します。現在のアカウントはすべて置き換わります。',
+    importButton: '復元',
+    exportTitle: 'アカウントをバックアップ',
+    importTitle: 'アカウントを復元',
+    password: 'バックアップパスワード',
+    password2: 'パスワードの確認',
+    exportHint: 'バックアップにはアカウントのトークンが含まれます。パスワードは 8 文字以上にしてください。忘れると復元できません。',
+    importHint: 'このバックアップのパスワードを入力してください。復元すると現在のアカウントはすべて置き換わります。',
+    confirm: '続行',
+    exportConfirm: 'バックアップにはアカウントのトークンが含まれます。クラウドへのアップロードや共有はしないでください。続行しますか？',
+    importConfirm: '復元すると現在のアカウントがすべて置き換わり、元に戻せません。続行しますか？',
+    exportDone: '{count} 件のアカウントをバックアップしました',
+    importDone: '{count} 件のアカウントを復元しました',
+    failed: '操作に失敗しました。パスワードとファイルを確認してください。',
+    weakPassword: 'パスワードは 8 文字以上にしてください',
+    passwordMismatch: 'パスワードが一致しません',
+  },
   category: {
     launcher: 'ランチャー',
     basic: '基本設定',
