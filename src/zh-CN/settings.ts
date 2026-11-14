@@ -3,6 +3,29 @@
 
 // 设置页（zh-CN；批0 含 category 导航 + appearance 外观核心项，其余由迁移批次补充）
 export default {
+  accountBackup: {
+    title: '账号数据',
+    exportLabel: '备份账户配置文件',
+    exportDesc: '把当前全部账号加密成一个备份文件，可在任何机器上还原。',
+    exportButton: '备份',
+    importLabel: '还原账户配置文件',
+    importDesc: '从备份文件恢复账号，会覆盖当前全部账号。',
+    importButton: '还原',
+    exportTitle: '备份账号',
+    importTitle: '还原账号',
+    password: '备份口令',
+    password2: '确认口令',
+    exportHint: '备份文件包含账号令牌，口令至少 8 个字符；口令遗忘后备份无法还原。',
+    importHint: '输入该备份文件的口令。还原会覆盖当前全部账号。',
+    confirm: '继续',
+    exportConfirm: '备份文件包含账号令牌，请妥善保管，不要上传网盘或分享。确认继续？',
+    importConfirm: '还原会覆盖当前全部账号且不可撤销。确认继续？',
+    exportDone: '已备份 {count} 个账号',
+    importDone: '已还原 {count} 个账号',
+    failed: '操作失败，请检查口令与备份文件',
+    weakPassword: '口令至少需要 8 个字符',
+    passwordMismatch: '两次输入的口令不一致',
+  },
   category: {
     launcher: '启动器设置',
     basic: '基础设置',

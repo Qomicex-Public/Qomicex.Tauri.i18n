@@ -3,6 +3,29 @@
 
 // Settings page (en; batch0 covers category nav + appearance core, rest filled by migration batches)
 export default {
+  accountBackup: {
+    title: 'Account data',
+    exportLabel: 'Back up account file',
+    exportDesc: 'Encrypt all accounts into a single backup file that can be restored on any machine.',
+    exportButton: 'Back up',
+    importLabel: 'Restore account file',
+    importDesc: 'Restore accounts from a backup file. This replaces all current accounts.',
+    importButton: 'Restore',
+    exportTitle: 'Back up accounts',
+    importTitle: 'Restore accounts',
+    password: 'Backup password',
+    password2: 'Confirm password',
+    exportHint: 'The backup contains account tokens. Use at least 8 characters; a forgotten password cannot be recovered.',
+    importHint: 'Enter the password for this backup file. Restoring replaces all current accounts.',
+    confirm: 'Continue',
+    exportConfirm: 'The backup file contains account tokens. Keep it private and do not upload it to cloud storage or share it. Continue?',
+    importConfirm: 'Restoring replaces all current accounts and cannot be undone. Continue?',
+    exportDone: 'Backed up {count} account(s)',
+    importDone: 'Restored {count} account(s)',
+    failed: 'Operation failed. Check the password and the backup file.',
+    weakPassword: 'The password must be at least 8 characters',
+    passwordMismatch: 'The passwords do not match',
+  },
   category: {
     launcher: 'Launcher',
     basic: 'Basic',

@@ -3,6 +3,29 @@
 
 // 設定頁（zh-HK；批0 含 category 導覽 + appearance 外觀核心項，其餘由遷移批次補充）
 export default {
+  accountBackup: {
+    title: '帳號資料',
+    exportLabel: '備份帳號設定檔',
+    exportDesc: '把目前全部帳號加密成一個備份檔，可在任何機器上還原。',
+    exportButton: '備份',
+    importLabel: '還原帳號設定檔',
+    importDesc: '從備份檔還原帳號，會覆蓋目前全部帳號。',
+    importButton: '還原',
+    exportTitle: '備份帳號',
+    importTitle: '還原帳號',
+    password: '備份密碼',
+    password2: '確認密碼',
+    exportHint: '備份檔包含帳號權杖，密碼至少 8 個字元；密碼遺忘後備份無法還原。',
+    importHint: '輸入此備份檔的密碼。還原會覆蓋目前全部帳號。',
+    confirm: '繼續',
+    exportConfirm: '備份檔包含帳號權杖，請妥善保管，不要上傳雲端或分享。確認繼續？',
+    importConfirm: '還原會覆蓋目前全部帳號且無法復原。確認繼續？',
+    exportDone: '已備份 {count} 個帳號',
+    importDone: '已還原 {count} 個帳號',
+    failed: '操作失敗，請檢查密碼與備份檔',
+    weakPassword: '密碼至少需要 8 個字元',
+    passwordMismatch: '兩次輸入的密碼不一致',
+  },
   category: {
     launcher: '啟動器設定',
     basic: '基礎設定',
