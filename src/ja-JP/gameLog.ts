@@ -16,5 +16,7 @@ export default {
   other: 'その他',
   connected: '接続済み',
   disconnected: '未接続',
+  exportLog: 'ログをエクスポート',
+  exportDone: 'エクスポートしました',
   empty: 'ログはまだありません',
 }

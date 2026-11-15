@@ -16,5 +16,7 @@ export default {
   other: 'Other',
   connected: 'Connected',
   disconnected: 'Disconnected',
+  exportLog: 'Export logs',
+  exportDone: 'Exported',
   empty: 'No logs yet',
 }

@@ -16,5 +16,7 @@ export default {
   other: 'Другое',
   connected: 'Подключено',
   disconnected: 'Отключено',
+  exportLog: 'Экспорт журнала',
+  exportDone: 'Экспортировано',
   empty: 'Логов пока нет',
 }

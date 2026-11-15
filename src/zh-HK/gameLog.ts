@@ -16,5 +16,7 @@ export default {
   other: '其他',
   connected: '已連線',
   disconnected: '未連線',
+  exportLog: '匯出日誌',
+  exportDone: '已匯出',
   empty: '暫無日誌',
 }
