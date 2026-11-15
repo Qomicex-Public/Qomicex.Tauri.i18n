@@ -18,5 +18,6 @@ export default {
   disconnected: 'Disconnected',
   exportLog: 'Export logs',
   exportDone: 'Exported',
+  exportFailed: 'Export failed',
   empty: 'No logs yet',
 }

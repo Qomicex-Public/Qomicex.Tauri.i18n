@@ -18,5 +18,6 @@ export default {
   disconnected: 'Отключено',
   exportLog: 'Экспорт журнала',
   exportDone: 'Экспортировано',
+  exportFailed: 'Не удалось экспортировать',
   empty: 'Логов пока нет',
 }

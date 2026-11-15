@@ -18,5 +18,6 @@ export default {
   disconnected: '未連線',
   exportLog: '匯出日誌',
   exportDone: '已匯出',
+  exportFailed: '匯出失敗',
   empty: '暫無日誌',
 }

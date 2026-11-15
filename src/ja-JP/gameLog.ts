@@ -18,5 +18,6 @@ export default {
   disconnected: '未接続',
   exportLog: 'ログをエクスポート',
   exportDone: 'エクスポートしました',
+  exportFailed: 'エクスポートに失敗しました',
   empty: 'ログはまだありません',
 }
