@@ -432,6 +432,7 @@ export default {
       noPermissions: 'このプラグインは権限を要求しません。',
       installing: 'インストール中...',
       installSuccess: 'プラグインをインストールしました',
+      installSuccessWithDeps: 'プラグインをインストールしました（必須の前提プラグインも導入：{deps}）',
     unsigndInstallConfirm: 'このプラグインは未署名または署名が無効（{message}）で、出所を検証できません。リスクを承知でインストールを続けますか？',
       installFailed: 'インストール失敗：{message}',
       detailVersions: 'バージョン履歴',

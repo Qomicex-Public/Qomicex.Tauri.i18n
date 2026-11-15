@@ -432,6 +432,7 @@ export default {
       noPermissions: 'Этот плагин не запрашивает разрешений.',
       installing: 'Установка...',
       installSuccess: 'Плагин успешно установлен',
+      installSuccessWithDeps: 'Плагин установлен, обязательные зависимости также установлены: {deps}',
     unsigndInstallConfirm: 'Плагин не подписан или подпись недействительна ({message}), источник не может быть проверен. Всё равно установить на свой риск?',
       installFailed: 'Ошибка установки: {message}',
       detailVersions: 'История версий',

@@ -432,6 +432,7 @@ export default {
       noPermissions: 'This plugin requests no permissions.',
       installing: 'Installing...',
       installSuccess: 'Plugin installed successfully',
+      installSuccessWithDeps: 'Plugin installed successfully; required prerequisites installed: {deps}',
     unsigndInstallConfirm: 'This plugin package is unsigned or has an invalid signature ({message}) and its source cannot be verified. Install anyway at your own risk?',
       installFailed: 'Install failed: {message}',
       detailVersions: 'Version history',

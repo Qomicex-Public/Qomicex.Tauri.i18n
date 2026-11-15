@@ -432,6 +432,7 @@ export default {
       noPermissions: '該插件未申請任何權限。',
       installing: '安裝中...',
       installSuccess: '插件安裝成功',
+      installSuccessWithDeps: '外掛安裝成功，並已一併安裝必裝前置：{deps}',
     unsigndInstallConfirm: '此插件未簽名或簽名無效（{message}），無法驗證來源。仍要無視風險繼續安裝嗎？',
       installFailed: '安裝失敗：{message}',
       detailVersions: '版本歷史',

@@ -432,6 +432,7 @@ export default {
       noPermissions: '该插件未申请任何权限。',
       installing: '安装中...',
       installSuccess: '插件安装成功',
+      installSuccessWithDeps: '插件安装成功，并已一并安装必装前置：{deps}',
       installFailed: '安装失败：{message}',
       detailVersions: '版本历史',
       detailReviews: '用户评价（{count}）',

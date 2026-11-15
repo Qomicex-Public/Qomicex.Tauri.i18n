@@ -432,6 +432,7 @@ export default {
       noPermissions: 'This plugin requests no permissions.',
       installing: 'Installing...',
       installSuccess: 'Plugin installed successfully',
+      installSuccessWithDeps: 'Plugin installed successfully; required prerequisites installed: {deps}',
       installFailed: 'Install failed: {message}',
       detailVersions: 'Version history',
       detailReviews: 'Reviews ({count})',
