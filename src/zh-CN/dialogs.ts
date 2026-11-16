@@ -228,7 +228,7 @@ export default {
     /** updater 没装成时的提示（issue #201）：按机器码取文案，未知码走 unknown */
     failed: {
       title: '更新未完成',
-      elevationDenied: '覆盖系统安装目录需要管理员权限，本次授权没有通过。',
+      elevationDenied: '管理员授权被取消或未获准，本次更新没能安装。',
       installFailed: '更新包已下载完成，但没能安装到目标位置。',
       waitTimeout: '旧版启动器没有正常退出，更新已中止。',
       unknown: '这次更新没能完成。',

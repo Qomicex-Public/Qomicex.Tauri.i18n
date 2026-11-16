@@ -228,7 +228,7 @@ export default {
     /** updater 没装成时的提示（issue #201）：按机器码取文案，未知码走 unknown */
     failed: {
       title: 'Update did not finish',
-      elevationDenied: 'Administrator permission is required to overwrite the system install directory, and it was not granted.',
+      elevationDenied: 'Administrator permission was cancelled or not granted, so the update could not be installed.',
       installFailed: 'The update package was downloaded, but it could not be installed to the target location.',
       waitTimeout: 'The previous launcher did not exit in time, so the update was aborted.',
       unknown: 'The update could not be completed.',

@@ -235,7 +235,7 @@ export default {
     /** updater 沒裝成時的提示（issue #201）：按機器碼取文案，未知碼走 unknown */
     failed: {
       title: '更新未完成',
-      elevationDenied: '覆蓋系統安裝目錄需要管理員權限，本次授權沒有通過。',
+      elevationDenied: '管理員授權被取消或未獲准，本次更新沒能安裝。',
       installFailed: '更新套件已下載完成，但無法安裝到目標位置。',
       waitTimeout: '舊版啟動器沒有正常退出，更新已中止。',
       unknown: '這次更新沒有完成。',
