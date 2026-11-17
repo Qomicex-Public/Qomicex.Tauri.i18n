@@ -425,6 +425,7 @@ export default {
       installBtn: '安裝',
       updateBtn: '更新',
       reinstallBtn: '重新安裝',
+      unsupportedSystem: '此外掛在該系統不受支援',
       installConfirmTitle: '安裝外掛',
       updateConfirmTitle: '更新外掛',
       installConfirmDesc: '即將安裝「{name}」v{version}。',

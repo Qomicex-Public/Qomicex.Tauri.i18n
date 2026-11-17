@@ -425,6 +425,7 @@ export default {
       installBtn: '安装',
       updateBtn: '更新',
       reinstallBtn: '重装',
+      unsupportedSystem: '插件在该系统不受支持',
       installConfirmTitle: '安装插件',
       updateConfirmTitle: '更新插件',
       installConfirmDesc: '即将安装「{name}」v{version}。',

@@ -425,6 +425,7 @@ export default {
       installBtn: 'Install',
       updateBtn: 'Update',
       reinstallBtn: 'Reinstall',
+      unsupportedSystem: 'Not supported on this system',
       installConfirmTitle: 'Install plugin',
       updateConfirmTitle: 'Update plugin',
       installConfirmDesc: 'About to install "{name}" v{version}.',

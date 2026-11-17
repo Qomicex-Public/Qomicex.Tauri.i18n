@@ -425,6 +425,7 @@ export default {
       installBtn: 'Установить',
       updateBtn: 'Обновить',
       reinstallBtn: 'Переустановить',
+      unsupportedSystem: 'Плагин не поддерживается в этой системе',
       installConfirmTitle: 'Установка плагина',
       updateConfirmTitle: 'Обновление плагина',
       installConfirmDesc: 'Будет установлен «{name}» v{version}.',
