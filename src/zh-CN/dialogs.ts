@@ -211,6 +211,20 @@ export default {
     requiredNotice: '此版本为强制更新，必须更新后才能继续使用',
     channelSwitchTitle: '切换到 {channel} 通道',
     channelSwitchNotice: '你正在切换到另一条发布通道。这属于通道变更而非普通版本升级，切换后将按该通道接收后续更新。',
+    historyTitle: '近期更新',
+    latestBadge: '最新',
+    viewDetail: '详情',
+    moreOlder: '还有 {count} 个更早的版本',
+    hideOlder: '收起 {count} 个更早的版本',
+    historyTruncated: '更早的版本请前往发布页查看',
+    viewFullNotes: '查看完整更新内容',
+    category: {
+      feat: '新增',
+      fix: '修复',
+      refactor: '重构',
+      perf: '性能',
+      other: '其他',
+    },
   },
 
   // 自动更新「已准备好安装」提示（#190：后台静默下载完成后弹出）

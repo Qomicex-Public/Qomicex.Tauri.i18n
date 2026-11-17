@@ -218,6 +218,20 @@ export default {
     requiredNotice: '此版本為強制更新，必須更新後才能繼續使用',
     channelSwitchTitle: '切換到 {channel} 通道',
     channelSwitchNotice: '你正在切換到另一條發布通道。這屬於通道變更而非普通版本升級，切換後將按該通道接收後續更新。',
+    historyTitle: '近期更新',
+    latestBadge: '最新',
+    viewDetail: '詳情',
+    moreOlder: '還有 {count} 個更早的版本',
+    hideOlder: '收起 {count} 個更早的版本',
+    historyTruncated: '更早的版本請前往發布頁查看',
+    viewFullNotes: '查看完整更新內容',
+    category: {
+      feat: '新增',
+      fix: '修復',
+      refactor: '重構',
+      perf: '效能',
+      other: '其他',
+    },
   },
 
   // 自動更新「已準備好安裝」提示（#190：背景下載完成後彈出）
