@@ -218,6 +218,20 @@ export default {
     requiredNotice: 'This is a required update. Please update to continue.',
     channelSwitchTitle: 'Switch to the {channel} channel',
     channelSwitchNotice: 'You are switching to a different release channel. This is a channel change rather than a regular version upgrade; you will receive further updates from that channel.',
+    historyTitle: 'Recent updates',
+    latestBadge: 'Latest',
+    viewDetail: 'Details',
+    moreOlder: '{count} earlier versions',
+    hideOlder: 'Hide {count} earlier versions',
+    historyTruncated: 'See the release page for earlier versions',
+    viewFullNotes: 'View full release notes',
+    category: {
+      feat: 'New',
+      fix: 'Fix',
+      refactor: 'Refactor',
+      perf: 'Perf',
+      other: 'Other',
+    },
   },
 
   // Auto-update "ready to install" prompt (issue #190: shown after the silent background download)

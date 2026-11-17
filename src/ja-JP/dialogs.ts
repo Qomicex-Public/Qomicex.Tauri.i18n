@@ -218,6 +218,20 @@ export default {
     requiredNotice: 'このバージョンは必須アップデートです。更新しないと利用を続けられません',
     channelSwitchTitle: '{channel} チャンネルに切り替え',
     channelSwitchNotice: '別のリリースチャンネルに切り替えようとしています。これは通常のバージョンアップではなくチャンネルの変更であり、以降はそのチャンネルから更新を受け取ります。',
+    historyTitle: '最近の更新',
+    latestBadge: '最新',
+    viewDetail: '詳細',
+    moreOlder: 'さらに {count} 件の以前のバージョン',
+    hideOlder: '{count} 件の以前のバージョンを閉じる',
+    historyTruncated: 'それ以前のバージョンはリリースページをご覧ください',
+    viewFullNotes: '更新内容をすべて見る',
+    category: {
+      feat: '新機能',
+      fix: '修正',
+      refactor: 'リファクタ',
+      perf: '性能',
+      other: 'その他',
+    },
   },
 
   // 自動更新「インストール準備完了」通知（#190: バックグラウンドダウンロード完了後に表示）
