@@ -425,6 +425,7 @@ export default {
       installBtn: 'インストール',
       updateBtn: '更新',
       reinstallBtn: '再インストール',
+      unsupportedSystem: 'このシステムではサポートされていません',
       installConfirmTitle: 'プラグインのインストール',
       updateConfirmTitle: 'プラグインの更新',
       installConfirmDesc: '「{name}」v{version} をインストールします。',
