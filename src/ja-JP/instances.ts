@@ -100,6 +100,8 @@ export default {
   refresh: '更新',
   dirManagerTitle: 'ディレクトリ管理',
   currentDir: '現在のディレクトリ',
+  officialDir: '公式ランチャーのフォルダー',
+  launcherDefaultDir: 'ランチャーの既定フォルダー',
   noDir: 'ディレクトリがありません',
   noDirHint: '下のボタンからゲームディレクトリを追加します',
   dirCount: '計 {count} 個のディレクトリ。クリックで現在使用中のディレクトリを選択',

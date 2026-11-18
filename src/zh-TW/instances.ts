@@ -100,6 +100,8 @@ export default {
   refresh: '重新整理',
   dirManagerTitle: '目錄管理',
   currentDir: '目前目錄',
+  officialDir: '官方啟動器目錄',
+  launcherDefaultDir: '啟動器預設目錄',
   noDir: '暫無目錄',
   noDirHint: '點擊下方按鈕新增一個遊戲目錄',
   dirCount: '共 {count} 個目錄，點擊選擇目前使用的目錄',
