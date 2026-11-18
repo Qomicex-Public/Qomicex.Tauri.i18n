@@ -101,7 +101,6 @@ export default {
   dirManagerTitle: '目录管理',
   currentDir: '当前目录',
   officialDir: '官起目录',
-  launcherDefaultDir: '默认目录',
   noDir: '暂无目录',
   noDirHint: '点击下方按钮添加一个游戏目录',
   dirCount: '共 {count} 个目录，点击选择当前使用的目录',

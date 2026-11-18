@@ -101,7 +101,6 @@ export default {
   dirManagerTitle: 'Управление каталогами',
   currentDir: 'Текущий каталог',
   officialDir: 'Официальный',
-  launcherDefaultDir: 'По умолчанию',
   noDir: 'Каталогов нет',
   noDirHint: 'Нажмите кнопку ниже, чтобы добавить игровой каталог',
   dirCount: 'Всего каталогов: {count}; нажмите, чтобы выбрать используемый каталог',

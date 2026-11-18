@@ -101,7 +101,6 @@ export default {
   dirManagerTitle: 'Directory Manager',
   currentDir: 'Current Directory',
   officialDir: 'Official',
-  launcherDefaultDir: 'Default',
   noDir: 'No directories',
   noDirHint: 'Click the button below to add a game directory',
   dirCount: '{count} directories, click to select the active one',

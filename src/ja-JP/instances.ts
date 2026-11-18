@@ -101,7 +101,6 @@ export default {
   dirManagerTitle: 'ディレクトリ管理',
   currentDir: '現在のディレクトリ',
   officialDir: '公式',
-  launcherDefaultDir: '既定',
   noDir: 'ディレクトリがありません',
   noDirHint: '下のボタンからゲームディレクトリを追加します',
   dirCount: '計 {count} 個のディレクトリ。クリックで現在使用中のディレクトリを選択',
