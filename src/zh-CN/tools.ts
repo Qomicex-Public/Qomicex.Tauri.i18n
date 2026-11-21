@@ -98,6 +98,7 @@ export default {
     criticalCount: '{count} 严重',
     errorCount: '{count} 错误',
     warningCount: '{count} 警告',
+    infoCount: '{count} 信息',
     suggestedSolutions: '建议解决方案',
     stackTrace: '异常堆栈',
     categoryMemory: '内存',

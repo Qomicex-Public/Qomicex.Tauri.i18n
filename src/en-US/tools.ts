@@ -98,6 +98,7 @@ export default {
     criticalCount: '{count} Critical',
     errorCount: '{count} Errors',
     warningCount: '{count} Warnings',
+    infoCount: '{count} Info',
     suggestedSolutions: 'Suggested solutions',
     stackTrace: 'Exception stack trace',
     categoryMemory: 'Memory',
