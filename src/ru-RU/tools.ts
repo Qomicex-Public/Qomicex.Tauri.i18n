@@ -98,6 +98,7 @@ export default {
     criticalCount: 'Критических: {count}',
     errorCount: 'Ошибок: {count}',
     warningCount: 'Предупреждений: {count}',
+    infoCount: 'Информационных: {count}',
     suggestedSolutions: 'Рекомендуемые решения',
     stackTrace: 'Куча вызовов',
     categoryMemory: 'Память',

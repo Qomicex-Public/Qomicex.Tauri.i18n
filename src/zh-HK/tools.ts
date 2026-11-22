@@ -98,6 +98,7 @@ export default {
     criticalCount: '{count} 嚴重',
     errorCount: '{count} 錯誤',
     warningCount: '{count} 警告',
+    infoCount: '{count} 資訊',
     suggestedSolutions: '建議解決方案',
     stackTrace: '異常堆疊',
     categoryMemory: '記憶體',

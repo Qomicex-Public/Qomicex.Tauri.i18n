@@ -98,6 +98,7 @@ export default {
     criticalCount: '{count} 深刻',
     errorCount: '{count} エラー',
     warningCount: '{count} 警告',
+    infoCount: '{count} 情報',
     suggestedSolutions: '推奨ソリューション',
     stackTrace: '例外スタックトレース',
     categoryMemory: 'メモリ',
